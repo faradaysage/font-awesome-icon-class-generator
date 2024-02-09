@@ -22,19 +22,19 @@ class FaSolid:
     """
     (Free) Keywords: format, middle, paragraph, text
     """
-    aligncenter = "\uf037";
+    align_center = "\uf037";
     """
     (Free) Keywords: format, paragraph, text
     """
-    alignjustify = "\uf039";
+    align_justify = "\uf039";
     """
     (Free) Keywords: format, paragraph, text
     """
-    alignleft = "\uf036";
+    align_left = "\uf036";
     """
     (Free) Keywords: format, paragraph, text
     """
-    alignright = "\uf038";
+    align_right = "\uf038";
     """
     (Free) Keywords: allergy, freckles, hand, hives, pox, skin, spots
     """
@@ -70,19 +70,19 @@ class FaSolid:
     """
     (Free) Keywords: arrow, caret, download, expand
     """
-    angledown = "\uf107";
+    angle_down = "\uf107";
     """
     (Free) Keywords: arrow, back, caret, less, previous
     """
-    angleleft = "\uf104";
+    angle_left = "\uf104";
     """
     (Free) Keywords: arrow, care, forward, more, next
     """
-    angleright = "\uf105";
+    angle_right = "\uf105";
     """
     (Free) Keywords: arrow, caret, collapse, upload
     """
-    angleup = "\uf106";
+    angle_up = "\uf106";
     """
     (Free) Keywords: disapprove, emoticon, face, mad, upset
     """
@@ -138,19 +138,19 @@ class FaSolid:
     """
     (Free) Keywords: download
     """
-    arrowdown = "\uf063";
+    arrow_down = "\uf063";
     """
     (Free) Keywords: back, previous
     """
-    arrowleft = "\uf060";
+    arrow_left = "\uf060";
     """
     (Free) Keywords: forward, next
     """
-    arrowright = "\uf061";
+    arrow_right = "\uf061";
     """
     (Free) Keywords: forward, upload
     """
-    arrowup = "\uf062";
+    arrow_up = "\uf062";
     """
     (Free) Keywords: arrow, arrows, bigger, enlarge, expand, fullscreen, move, position, reorder, resize
     """
@@ -222,7 +222,7 @@ class FaSolid:
     """
     (Free) Keywords: bahai, bah·'Ì, star
     """
-    bah·Ì = "\uf666";
+    bah·_Ì = "\uf666";
     """
     (Free) Keywords: balanced, justice, legal, measure, weight
     """
@@ -230,11 +230,11 @@ class FaSolid:
     """
     (Free) Keywords: justice, legal, measure, unbalanced, weight
     """
-    balance_scale_leftweighted = "\uf515";
+    balance_scale_left_weighted = "\uf515";
     """
     (Free) Keywords: justice, legal, measure, unbalanced, weight
     """
-    balance_scale_rightweighted = "\uf516";
+    balance_scale_right_weighted = "\uf516";
     """
     (Free) Keywords: abort, ban, block, cancel, delete, hide, prohibit, remove, stop, trash
     """
@@ -242,7 +242,7 @@ class FaSolid:
     """
     (Free) Keywords: bandage, boo boo, first aid, ouch
     """
-    bandaid = "\uf462";
+    band_aid = "\uf462";
     """
     (Free) Keywords: info, laser, price, scan, upc
     """
@@ -274,15 +274,15 @@ class FaSolid:
     """
     (Free) Keywords: charge, power, status
     """
-    battery_12_full = "\uf242";
+    battery_1_2_full = "\uf242";
     """
     (Free) Keywords: charge, low, power, status
     """
-    battery_14_full = "\uf243";
+    battery_1_4_full = "\uf243";
     """
     (Free) Keywords: charge, power, status
     """
-    battery_34_full = "\uf241";
+    battery_3_4_full = "\uf241";
     """
     (Free) Keywords: lodging, mattress, rest, sleep, travel
     """
@@ -726,19 +726,19 @@ class FaSolid:
     """
     (Free) Keywords: arrow, download, expand
     """
-    chevrondown = "\uf078";
+    chevron_down = "\uf078";
     """
     (Free) Keywords: arrow, back, bracket, previous
     """
-    chevronleft = "\uf053";
+    chevron_left = "\uf053";
     """
     (Free) Keywords: arrow, bracket, forward, next
     """
-    chevronright = "\uf054";
+    chevron_right = "\uf054";
     """
     (Free) Keywords: arrow, collapse, upload
     """
-    chevronup = "\uf077";
+    chevron_up = "\uf077";
     """
     (Free) Keywords: boy, girl, kid, toddler, young
     """
@@ -1174,7 +1174,7 @@ class FaSolid:
     """
     (Free) Keywords: e-mail, email, letter, mail, message, notification, support
     """
-    envelope_opentext = "\uf658";
+    envelope_open_text = "\uf658";
     """
     (Free) Keywords: e-mail, email, letter, mail, message, notification, support
     """
@@ -1250,11 +1250,11 @@ class FaSolid:
     """
     (Free) Keywords: beginning, first, previous, rewind, start
     """
-    fastbackward = "\uf049";
+    fast_backward = "\uf049";
     """
     (Free) Keywords: end, last, next
     """
-    fastforward = "\uf050";
+    fast_forward = "\uf050";
     """
     (Free) Keywords: covid-19, drip, house, hygiene, kitchen, sink, water
     """
@@ -1278,7 +1278,7 @@ class FaSolid:
     """
     (Free) Keywords: airplane, fast, fly, goose, maverick, plane, quick, top gun, transportation, travel
     """
-    fighterjet = "\uf0fb";
+    fighter_jet = "\uf0fb";
     """
     (Free) Keywords: document, new, page, pdf, resume
     """
@@ -1402,7 +1402,7 @@ class FaSolid:
     """
     (Free) Keywords: burn, caliente, fire fighter, flame, heat, hot, rescue
     """
-    fireextinguisher = "\uf134";
+    fire_extinguisher = "\uf134";
     """
     (Free) Keywords: emergency, emt, health, medical, rescue
     """
@@ -1422,7 +1422,7 @@ class FaSolid:
     """
     (Free) Keywords: notice, notification, notify, pole, racing, report, symbol
     """
-    flagcheckered = "\uf11e";
+    flag_checkered = "\uf11e";
     """
     (Free) Keywords: betsy ross, country, old glory, stars, stripes, symbol
     """
@@ -1602,7 +1602,7 @@ class FaSolid:
     """
     (Free) Keywords: emoticon, face, love, smile
     """
-    smiling_face_with_hearteyes = "\uf584";
+    smiling_face_with_heart_eyes = "\uf584";
     """
     (Free) Keywords: emoticon, face, laugh, smile
     """
@@ -1614,7 +1614,7 @@ class FaSolid:
     """
     (Free) Keywords: emoticon, face, star-struck
     """
-    starstruck = "\uf587";
+    star_struck = "\uf587";
     """
     (Free) Keywords: LOL, emoticon, face
     """
@@ -1790,7 +1790,7 @@ class FaSolid:
     """
     (Free) Keywords: Dungeons & Dragons, accessory, buckle, clothing, d&d, dnd, fantasy, halloween, head, holiday, mage, magic, pointy, witch
     """
-    wizards_hat = "\uf6e8";
+    wizard_s_hat = "\uf6e8";
     """
     (Free) Keywords: cpu, hard drive, harddrive, machine, save, storage
     """
@@ -1802,7 +1802,7 @@ class FaSolid:
     """
     (Free) Keywords: cough, covid-19, germs, lungs, respiratory, sick
     """
-    head_sidecoughslash = "\ue062";
+    head_side_cough_slash = "\ue062";
     """
     (Free) Keywords: breath, covid-19, filter, respirator, virus
     """
@@ -2142,15 +2142,15 @@ class FaSolid:
     """
     (Free) Keywords: checklist, completed, done, finished, numbers, ol, todo, ul
     """
-    listol = "\uf0cb";
+    list_ol = "\uf0cb";
     """
     (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
     """
-    listul = "\uf0ca";
+    list_ul = "\uf0ca";
     """
     (Free) Keywords: address, compass, coordinate, direction, gps, map, navigation, place
     """
-    locationarrow = "\uf124";
+    location_arrow = "\uf124";
     """
     (Free) Keywords: admin, lock, open, password, private, protect, security
     """
@@ -2222,7 +2222,7 @@ class FaSolid:
     """
     (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
     """
-    mapmarker = "\uf041";
+    map_marker = "\uf041";
     """
     (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
     """
@@ -2758,11 +2758,11 @@ class FaSolid:
     """
     (Free) Keywords: mention, note, phrase, text, type
     """
-    quoteleft = "\uf10d";
+    quote_left = "\uf10d";
     """
     (Free) Keywords: mention, note, phrase, text, type
     """
-    quoteright = "\uf10e";
+    quote_right = "\uf10e";
     """
     (Free) Keywords: book, islam, muslim, religion
     """
@@ -2818,7 +2818,7 @@ class FaSolid:
     """
     (Free) Keywords: mail, message, respond
     """
-    replyall = "\uf122";
+    reply_all = "\uf122";
     """
     (Free) Keywords: american, conservative, election, elephant, politics, republican party, right, right-wing, usa
     """
@@ -3010,7 +3010,7 @@ class FaSolid:
     """
     (Free) Keywords: buy, checkout, grocery, payment, purchase
     """
-    shoppingcart = "\uf07a";
+    shopping_cart = "\uf07a";
     """
     (Free) Keywords: bath, clean, faucet, water
     """
@@ -3258,7 +3258,7 @@ class FaSolid:
     """
     (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
     """
-    starhalf = "\uf089";
+    star_half = "\uf089";
     """
     (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
     """
@@ -3274,11 +3274,11 @@ class FaSolid:
     """
     (Free) Keywords: beginning, first, previous, rewind, start
     """
-    stepbackward = "\uf048";
+    step_backward = "\uf048";
     """
     (Free) Keywords: end, last, next
     """
-    stepforward = "\uf051";
+    step_forward = "\uf051";
     """
     (Free) Keywords: covid-19, diagnosis, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient
     """
@@ -3462,7 +3462,7 @@ class FaSolid:
     """
     (Free) Keywords: edit, font, format, text, type
     """
-    textheight = "\uf034";
+    text_height = "\uf034";
     """
     (Free) Keywords: edit, font, format, text, type
     """
@@ -3474,11 +3474,11 @@ class FaSolid:
     """
     (Free) Keywords: blocks, boxes, grid, squares
     """
-    thlarge = "\uf009";
+    th_large = "\uf009";
     """
     (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
     """
-    thlist = "\uf00b";
+    th_list = "\uf00b";
     """
     (Free) Keywords: comedy, perform, theatre, tragedy
     """
@@ -3498,23 +3498,23 @@ class FaSolid:
     """
     (Free) Keywords: mercury, status, temperature
     """
-    thermometer_12_full = "\uf2c9";
+    thermometer_1_2_full = "\uf2c9";
     """
     (Free) Keywords: mercury, status, temperature
     """
-    thermometer_14_full = "\uf2ca";
+    thermometer_1_4_full = "\uf2ca";
     """
     (Free) Keywords: mercury, status, temperature
     """
-    thermometer_34_full = "\uf2c8";
+    thermometer_3_4_full = "\uf2c8";
     """
     (Free) Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down
     """
-    thumbsdown = "\uf165";
+    thumbs_down = "\uf165";
     """
     (Free) Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude
     """
-    thumbsup = "\uf164";
+    thumbs_up = "\uf164";
     """
     (Free) Keywords: coordinates, location, marker, pin, thumb-tack
     """
@@ -3662,7 +3662,7 @@ class FaSolid:
     """
     (Free) Keywords: clothing, fashion, garment, shirt
     """
-    tshirt = "\uf553";
+    t_shirt = "\uf553";
     """
     (Free) Keywords: communication, deaf, telephone, teletypewriter, text
     """
@@ -3854,7 +3854,7 @@ class FaSolid:
     """
     (Free) Keywords: biker, fashion, style
     """
-    vestpatches = "\ue086";
+    vest_patches = "\ue086";
     """
     (Free) Keywords: experiment, lab, sample, science, test, test tube
     """
@@ -3998,7 +3998,7 @@ class FaSolid:
     """
     (Free) Keywords: health, medical, radiological images, radiology, skeleton
     """
-    xray = "\uf497";
+    x_ray = "\uf497";
     """
     (Free) Keywords: currency, jpy, money
     """

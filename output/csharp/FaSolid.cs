@@ -23,19 +23,19 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: format, middle, paragraph, text
     /// </summary>
-    public const string Aligncenter = "\uf037";
+    public const string AlignCenter = "\uf037";
     /// <summary>
     /// (Free) Keywords: format, paragraph, text
     /// </summary>
-    public const string Alignjustify = "\uf039";
+    public const string AlignJustify = "\uf039";
     /// <summary>
     /// (Free) Keywords: format, paragraph, text
     /// </summary>
-    public const string Alignleft = "\uf036";
+    public const string AlignLeft = "\uf036";
     /// <summary>
     /// (Free) Keywords: format, paragraph, text
     /// </summary>
-    public const string Alignright = "\uf038";
+    public const string AlignRight = "\uf038";
     /// <summary>
     /// (Free) Keywords: allergy, freckles, hand, hives, pox, skin, spots
     /// </summary>
@@ -71,19 +71,19 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: arrow, caret, download, expand
     /// </summary>
-    public const string Angledown = "\uf107";
+    public const string AngleDown = "\uf107";
     /// <summary>
     /// (Free) Keywords: arrow, back, caret, less, previous
     /// </summary>
-    public const string Angleleft = "\uf104";
+    public const string AngleLeft = "\uf104";
     /// <summary>
     /// (Free) Keywords: arrow, care, forward, more, next
     /// </summary>
-    public const string Angleright = "\uf105";
+    public const string AngleRight = "\uf105";
     /// <summary>
     /// (Free) Keywords: arrow, caret, collapse, upload
     /// </summary>
-    public const string Angleup = "\uf106";
+    public const string AngleUp = "\uf106";
     /// <summary>
     /// (Free) Keywords: disapprove, emoticon, face, mad, upset
     /// </summary>
@@ -139,19 +139,19 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: download
     /// </summary>
-    public const string Arrowdown = "\uf063";
+    public const string ArrowDown = "\uf063";
     /// <summary>
     /// (Free) Keywords: back, previous
     /// </summary>
-    public const string Arrowleft = "\uf060";
+    public const string ArrowLeft = "\uf060";
     /// <summary>
     /// (Free) Keywords: forward, next
     /// </summary>
-    public const string Arrowright = "\uf061";
+    public const string ArrowRight = "\uf061";
     /// <summary>
     /// (Free) Keywords: forward, upload
     /// </summary>
-    public const string Arrowup = "\uf062";
+    public const string ArrowUp = "\uf062";
     /// <summary>
     /// (Free) Keywords: arrow, arrows, bigger, enlarge, expand, fullscreen, move, position, reorder, resize
     /// </summary>
@@ -223,7 +223,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: bahai, bah·'Ì, star
     /// </summary>
-    public const string Bah·Ì = "\uf666";
+    public const string Bah·Õ = "\uf666";
     /// <summary>
     /// (Free) Keywords: balanced, justice, legal, measure, weight
     /// </summary>
@@ -231,11 +231,11 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: justice, legal, measure, unbalanced, weight
     /// </summary>
-    public const string BalanceScaleLeftweighted = "\uf515";
+    public const string BalanceScaleLeftWeighted = "\uf515";
     /// <summary>
     /// (Free) Keywords: justice, legal, measure, unbalanced, weight
     /// </summary>
-    public const string BalanceScaleRightweighted = "\uf516";
+    public const string BalanceScaleRightWeighted = "\uf516";
     /// <summary>
     /// (Free) Keywords: abort, ban, block, cancel, delete, hide, prohibit, remove, stop, trash
     /// </summary>
@@ -243,7 +243,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: bandage, boo boo, first aid, ouch
     /// </summary>
-    public const string Bandaid = "\uf462";
+    public const string BandAid = "\uf462";
     /// <summary>
     /// (Free) Keywords: info, laser, price, scan, upc
     /// </summary>
@@ -727,19 +727,19 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: arrow, download, expand
     /// </summary>
-    public const string Chevrondown = "\uf078";
+    public const string ChevronDown = "\uf078";
     /// <summary>
     /// (Free) Keywords: arrow, back, bracket, previous
     /// </summary>
-    public const string Chevronleft = "\uf053";
+    public const string ChevronLeft = "\uf053";
     /// <summary>
     /// (Free) Keywords: arrow, bracket, forward, next
     /// </summary>
-    public const string Chevronright = "\uf054";
+    public const string ChevronRight = "\uf054";
     /// <summary>
     /// (Free) Keywords: arrow, collapse, upload
     /// </summary>
-    public const string Chevronup = "\uf077";
+    public const string ChevronUp = "\uf077";
     /// <summary>
     /// (Free) Keywords: boy, girl, kid, toddler, young
     /// </summary>
@@ -1175,7 +1175,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: e-mail, email, letter, mail, message, notification, support
     /// </summary>
-    public const string EnvelopeOpentext = "\uf658";
+    public const string EnvelopeOpenText = "\uf658";
     /// <summary>
     /// (Free) Keywords: e-mail, email, letter, mail, message, notification, support
     /// </summary>
@@ -1251,11 +1251,11 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: beginning, first, previous, rewind, start
     /// </summary>
-    public const string Fastbackward = "\uf049";
+    public const string FastBackward = "\uf049";
     /// <summary>
     /// (Free) Keywords: end, last, next
     /// </summary>
-    public const string Fastforward = "\uf050";
+    public const string FastForward = "\uf050";
     /// <summary>
     /// (Free) Keywords: covid-19, drip, house, hygiene, kitchen, sink, water
     /// </summary>
@@ -1279,7 +1279,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: airplane, fast, fly, goose, maverick, plane, quick, top gun, transportation, travel
     /// </summary>
-    public const string Fighterjet = "\uf0fb";
+    public const string FighterJet = "\uf0fb";
     /// <summary>
     /// (Free) Keywords: document, new, page, pdf, resume
     /// </summary>
@@ -1403,7 +1403,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: burn, caliente, fire fighter, flame, heat, hot, rescue
     /// </summary>
-    public const string Fireextinguisher = "\uf134";
+    public const string FireExtinguisher = "\uf134";
     /// <summary>
     /// (Free) Keywords: emergency, emt, health, medical, rescue
     /// </summary>
@@ -1423,7 +1423,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: notice, notification, notify, pole, racing, report, symbol
     /// </summary>
-    public const string Flagcheckered = "\uf11e";
+    public const string FlagCheckered = "\uf11e";
     /// <summary>
     /// (Free) Keywords: betsy ross, country, old glory, stars, stripes, symbol
     /// </summary>
@@ -1603,7 +1603,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: emoticon, face, love, smile
     /// </summary>
-    public const string SmilingFaceWithHearteyes = "\uf584";
+    public const string SmilingFaceWithHeartEyes = "\uf584";
     /// <summary>
     /// (Free) Keywords: emoticon, face, laugh, smile
     /// </summary>
@@ -1615,7 +1615,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: emoticon, face, star-struck
     /// </summary>
-    public const string Starstruck = "\uf587";
+    public const string StarStruck = "\uf587";
     /// <summary>
     /// (Free) Keywords: LOL, emoticon, face
     /// </summary>
@@ -1791,7 +1791,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: Dungeons & Dragons, accessory, buckle, clothing, d&d, dnd, fantasy, halloween, head, holiday, mage, magic, pointy, witch
     /// </summary>
-    public const string WizardsHat = "\uf6e8";
+    public const string WizardSHat = "\uf6e8";
     /// <summary>
     /// (Free) Keywords: cpu, hard drive, harddrive, machine, save, storage
     /// </summary>
@@ -1803,7 +1803,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: cough, covid-19, germs, lungs, respiratory, sick
     /// </summary>
-    public const string HeadSidecoughslash = "\ue062";
+    public const string HeadSideCoughSlash = "\ue062";
     /// <summary>
     /// (Free) Keywords: breath, covid-19, filter, respirator, virus
     /// </summary>
@@ -2143,15 +2143,15 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: checklist, completed, done, finished, numbers, ol, todo, ul
     /// </summary>
-    public const string Listol = "\uf0cb";
+    public const string ListOl = "\uf0cb";
     /// <summary>
     /// (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
     /// </summary>
-    public const string Listul = "\uf0ca";
+    public const string ListUl = "\uf0ca";
     /// <summary>
     /// (Free) Keywords: address, compass, coordinate, direction, gps, map, navigation, place
     /// </summary>
-    public const string Locationarrow = "\uf124";
+    public const string LocationArrow = "\uf124";
     /// <summary>
     /// (Free) Keywords: admin, lock, open, password, private, protect, security
     /// </summary>
@@ -2223,7 +2223,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
     /// </summary>
-    public const string Mapmarker = "\uf041";
+    public const string MapMarker = "\uf041";
     /// <summary>
     /// (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
     /// </summary>
@@ -2759,11 +2759,11 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: mention, note, phrase, text, type
     /// </summary>
-    public const string Quoteleft = "\uf10d";
+    public const string QuoteLeft = "\uf10d";
     /// <summary>
     /// (Free) Keywords: mention, note, phrase, text, type
     /// </summary>
-    public const string Quoteright = "\uf10e";
+    public const string QuoteRight = "\uf10e";
     /// <summary>
     /// (Free) Keywords: book, islam, muslim, religion
     /// </summary>
@@ -2819,7 +2819,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: mail, message, respond
     /// </summary>
-    public const string Replyall = "\uf122";
+    public const string ReplyAll = "\uf122";
     /// <summary>
     /// (Free) Keywords: american, conservative, election, elephant, politics, republican party, right, right-wing, usa
     /// </summary>
@@ -3011,7 +3011,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: buy, checkout, grocery, payment, purchase
     /// </summary>
-    public const string Shoppingcart = "\uf07a";
+    public const string ShoppingCart = "\uf07a";
     /// <summary>
     /// (Free) Keywords: bath, clean, faucet, water
     /// </summary>
@@ -3259,7 +3259,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
     /// </summary>
-    public const string Starhalf = "\uf089";
+    public const string StarHalf = "\uf089";
     /// <summary>
     /// (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
     /// </summary>
@@ -3275,11 +3275,11 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: beginning, first, previous, rewind, start
     /// </summary>
-    public const string Stepbackward = "\uf048";
+    public const string StepBackward = "\uf048";
     /// <summary>
     /// (Free) Keywords: end, last, next
     /// </summary>
-    public const string Stepforward = "\uf051";
+    public const string StepForward = "\uf051";
     /// <summary>
     /// (Free) Keywords: covid-19, diagnosis, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient
     /// </summary>
@@ -3463,7 +3463,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: edit, font, format, text, type
     /// </summary>
-    public const string Textheight = "\uf034";
+    public const string TextHeight = "\uf034";
     /// <summary>
     /// (Free) Keywords: edit, font, format, text, type
     /// </summary>
@@ -3475,11 +3475,11 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: blocks, boxes, grid, squares
     /// </summary>
-    public const string Thlarge = "\uf009";
+    public const string ThLarge = "\uf009";
     /// <summary>
     /// (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
     /// </summary>
-    public const string Thlist = "\uf00b";
+    public const string ThList = "\uf00b";
     /// <summary>
     /// (Free) Keywords: comedy, perform, theatre, tragedy
     /// </summary>
@@ -3511,11 +3511,11 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down
     /// </summary>
-    public const string Thumbsdown = "\uf165";
+    public const string ThumbsDown = "\uf165";
     /// <summary>
     /// (Free) Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude
     /// </summary>
-    public const string Thumbsup = "\uf164";
+    public const string ThumbsUp = "\uf164";
     /// <summary>
     /// (Free) Keywords: coordinates, location, marker, pin, thumb-tack
     /// </summary>
@@ -3663,7 +3663,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: clothing, fashion, garment, shirt
     /// </summary>
-    public const string Tshirt = "\uf553";
+    public const string TShirt = "\uf553";
     /// <summary>
     /// (Free) Keywords: communication, deaf, telephone, teletypewriter, text
     /// </summary>
@@ -3855,7 +3855,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: biker, fashion, style
     /// </summary>
-    public const string Vestpatches = "\ue086";
+    public const string VestPatches = "\ue086";
     /// <summary>
     /// (Free) Keywords: experiment, lab, sample, science, test, test tube
     /// </summary>
@@ -3999,7 +3999,7 @@ public class FaSolid
     /// <summary>
     /// (Free) Keywords: health, medical, radiological images, radiology, skeleton
     /// </summary>
-    public const string Xray = "\uf497";
+    public const string XRay = "\uf497";
     /// <summary>
     /// (Free) Keywords: currency, jpy, money
     /// </summary>

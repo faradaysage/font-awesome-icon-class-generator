@@ -279,7 +279,7 @@ public class FaRegular
     /// <summary>
     /// (Free) Keywords: emoticon, face, love, smile
     /// </summary>
-    public const string SmilingFaceWithHearteyes = "\uf584";
+    public const string SmilingFaceWithHeartEyes = "\uf584";
     /// <summary>
     /// (Free) Keywords: emoticon, face, laugh, smile
     /// </summary>
@@ -291,7 +291,7 @@ public class FaRegular
     /// <summary>
     /// (Free) Keywords: emoticon, face, star-struck
     /// </summary>
-    public const string Starstruck = "\uf587";
+    public const string StarStruck = "\uf587";
     /// <summary>
     /// (Free) Keywords: LOL, emoticon, face
     /// </summary>
@@ -547,7 +547,7 @@ public class FaRegular
     /// <summary>
     /// (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
     /// </summary>
-    public const string Starhalf = "\uf089";
+    public const string StarHalf = "\uf089";
     /// <summary>
     /// (Free) Keywords: message, note, paper, reminder, sticker
     /// </summary>
@@ -567,11 +567,11 @@ public class FaRegular
     /// <summary>
     /// (Free) Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down
     /// </summary>
-    public const string Thumbsdown = "\uf165";
+    public const string ThumbsDown = "\uf165";
     /// <summary>
     /// (Free) Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude
     /// </summary>
-    public const string Thumbsup = "\uf164";
+    public const string ThumbsUp = "\uf164";
     /// <summary>
     /// (Free) Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x
     /// </summary>

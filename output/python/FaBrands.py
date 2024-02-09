@@ -18,7 +18,7 @@ class FaBrands:
     """
     (Free) 
     """
-    appnet = "\uf170";
+    app_net = "\uf170";
     """
     (Free) 
     """
@@ -126,7 +126,7 @@ class FaBrands:
     """
     (Free) 
     """
-    battlenet = "\uf835";
+    battle_net = "\uf835";
     """
     (Free) 
     """
@@ -174,7 +174,7 @@ class FaBrands:
     """
     (Free) 
     """
-    bluetoothb = "\uf294";
+    bluetooth_b = "\uf294";
     """
     (Free) 
     """
@@ -190,7 +190,7 @@ class FaBrands:
     """
     (Free) 
     """
-    büromöbelexperte_gmbh_co_kg = "\uf37f";
+    büromöbel_experte_gmbh_co_kg = "\uf37f";
     """
     (Free) 
     """
@@ -218,7 +218,7 @@ class FaBrands:
     """
     (Free) 
     """
-    diners_club_credit_card = "\uf24c";
+    diner_s_club_credit_card = "\uf24c";
     """
     (Free) 
     """
@@ -266,7 +266,7 @@ class FaBrands:
     """
     (Free) 
     """
-    cloudscalech = "\uf383";
+    cloudscale_ch = "\uf383";
     """
     (Free) 
     """
@@ -382,7 +382,7 @@ class FaBrands:
     """
     (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop
     """
-    dd_beyond = "\uf6ca";
+    d_d_beyond = "\uf6ca";
     """
     (Free) 
     """
@@ -402,7 +402,7 @@ class FaBrands:
     """
     (Free) 
     """
-    deploydog = "\uf38e";
+    deploy_dog = "\uf38e";
     """
     (Free) 
     """
@@ -546,7 +546,7 @@ class FaBrands:
     """
     (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
     """
-    fantasy_flightgames = "\uf6dc";
+    fantasy_flight_games = "\uf6dc";
     """
     (Free) Keywords: Federal Express, package, shipping
     """
@@ -854,7 +854,7 @@ class FaBrands:
     """
     (Free) Keywords: browser, ie
     """
-    internetexplorer = "\uf26b";
+    internet_explorer = "\uf26b";
     """
     (Free) Keywords: app, design, interface
     """
@@ -866,7 +866,7 @@ class FaBrands:
     """
     (Free) 
     """
-    itchio = "\uf83a";
+    itch_io = "\uf83a";
     """
     (Free) 
     """
@@ -942,11 +942,11 @@ class FaBrands:
     """
     (Free) 
     """
-    lastfm = "\uf202";
+    last_fm = "\uf202";
     """
     (Free) 
     """
-    lastfm_square = "\uf203";
+    last_fm_square = "\uf203";
     """
     (Free) 
     """
@@ -1038,7 +1038,7 @@ class FaBrands:
     """
     (Free) 
     """
-    microblog = "\ue01a";
+    micro_blog = "\ue01a";
     """
     (Free) 
     """
@@ -1082,11 +1082,11 @@ class FaBrands:
     """
     (Free) 
     """
-    nodejs = "\uf419";
+    node_js = "\uf419";
     """
     (Free) 
     """
-    nodejs_js = "\uf3d3";
+    node_js_js = "\uf3d3";
     """
     (Free) 
     """
@@ -1314,11 +1314,11 @@ class FaBrands:
     """
     (Free) 
     """
-    revio = "\uf5b2";
+    rev_io = "\uf5b2";
     """
     (Free) 
     """
-    rocketchat = "\uf3e8";
+    rocket_chat = "\uf3e8";
     """
     (Free) 
     """
@@ -1642,7 +1642,7 @@ class FaBrands:
     """
     (Free) 
     """
-    ussunnah_foundation = "\uf407";
+    us_sunnah_foundation = "\uf407";
     """
     (Free) 
     """
@@ -1674,7 +1674,7 @@ class FaBrands:
     """
     (Free) Keywords: vimeo
     """
-    vimeov = "\uf27d";
+    vimeo_v = "\uf27d";
     """
     (Free) 
     """
@@ -1690,7 +1690,7 @@ class FaBrands:
     """
     (Free) 
     """
-    vuejs = "\uf41f";
+    vue_js = "\uf41f";
     """
     (Free) 
     """
@@ -1714,11 +1714,11 @@ class FaBrands:
     """
     (Free) 
     """
-    whats_app = "\uf232";
+    what_s_app = "\uf232";
     """
     (Free) 
     """
-    whats_app_square = "\uf40c";
+    what_s_app_square = "\uf40c";
     """
     (Free) 
     """

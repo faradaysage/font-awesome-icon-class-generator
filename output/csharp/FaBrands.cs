@@ -19,7 +19,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Appnet = "\uf170";
+    public const string AppNet = "\uf170";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -127,7 +127,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Battlenet = "\uf835";
+    public const string BattleNet = "\uf835";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -175,7 +175,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Bluetoothb = "\uf294";
+    public const string BluetoothB = "\uf294";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -191,7 +191,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string BüromöbelexperteGmbhCoKg = "\uf37f";
+    public const string BüromöbelExperteGmbhCoKg = "\uf37f";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -219,7 +219,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string DinersClubCreditCard = "\uf24c";
+    public const string DinerSClubCreditCard = "\uf24c";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -267,7 +267,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Cloudscalech = "\uf383";
+    public const string CloudscaleCh = "\uf383";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -383,7 +383,7 @@ public class FaBrands
     /// <summary>
     /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop
     /// </summary>
-    public const string DdBeyond = "\uf6ca";
+    public const string DDBeyond = "\uf6ca";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -403,7 +403,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Deploydog = "\uf38e";
+    public const string DeployDog = "\uf38e";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -547,7 +547,7 @@ public class FaBrands
     /// <summary>
     /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
     /// </summary>
-    public const string FantasyFlightgames = "\uf6dc";
+    public const string FantasyFlightGames = "\uf6dc";
     /// <summary>
     /// (Free) Keywords: Federal Express, package, shipping
     /// </summary>
@@ -855,7 +855,7 @@ public class FaBrands
     /// <summary>
     /// (Free) Keywords: browser, ie
     /// </summary>
-    public const string Internetexplorer = "\uf26b";
+    public const string InternetExplorer = "\uf26b";
     /// <summary>
     /// (Free) Keywords: app, design, interface
     /// </summary>
@@ -867,7 +867,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Itchio = "\uf83a";
+    public const string ItchIo = "\uf83a";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -943,11 +943,11 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Lastfm = "\uf202";
+    public const string LastFm = "\uf202";
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string LastfmSquare = "\uf203";
+    public const string LastFmSquare = "\uf203";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1039,7 +1039,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Microblog = "\ue01a";
+    public const string MicroBlog = "\ue01a";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1083,11 +1083,11 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Nodejs = "\uf419";
+    public const string NodeJs = "\uf419";
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string NodejsJs = "\uf3d3";
+    public const string NodeJsJs = "\uf3d3";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1315,11 +1315,11 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Revio = "\uf5b2";
+    public const string RevIo = "\uf5b2";
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Rocketchat = "\uf3e8";
+    public const string RocketChat = "\uf3e8";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1643,7 +1643,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string UssunnahFoundation = "\uf407";
+    public const string UsSunnahFoundation = "\uf407";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1675,7 +1675,7 @@ public class FaBrands
     /// <summary>
     /// (Free) Keywords: vimeo
     /// </summary>
-    public const string Vimeov = "\uf27d";
+    public const string VimeoV = "\uf27d";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1691,7 +1691,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Vuejs = "\uf41f";
+    public const string VueJs = "\uf41f";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1715,11 +1715,11 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string WhatsApp = "\uf232";
+    public const string WhatSApp = "\uf232";
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string WhatsAppSquare = "\uf40c";
+    public const string WhatSAppSquare = "\uf40c";
     /// <summary>
     /// (Free) 
     /// </summary>

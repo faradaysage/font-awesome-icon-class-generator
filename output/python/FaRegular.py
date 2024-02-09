@@ -278,7 +278,7 @@ class FaRegular:
     """
     (Free) Keywords: emoticon, face, love, smile
     """
-    smiling_face_with_hearteyes = "\uf584";
+    smiling_face_with_heart_eyes = "\uf584";
     """
     (Free) Keywords: emoticon, face, laugh, smile
     """
@@ -290,7 +290,7 @@ class FaRegular:
     """
     (Free) Keywords: emoticon, face, star-struck
     """
-    starstruck = "\uf587";
+    star_struck = "\uf587";
     """
     (Free) Keywords: LOL, emoticon, face
     """
@@ -546,7 +546,7 @@ class FaRegular:
     """
     (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
     """
-    starhalf = "\uf089";
+    star_half = "\uf089";
     """
     (Free) Keywords: message, note, paper, reminder, sticker
     """
@@ -566,11 +566,11 @@ class FaRegular:
     """
     (Free) Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down
     """
-    thumbsdown = "\uf165";
+    thumbs_down = "\uf165";
     """
     (Free) Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude
     """
-    thumbsup = "\uf164";
+    thumbs_up = "\uf164";
     """
     (Free) Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x
     """

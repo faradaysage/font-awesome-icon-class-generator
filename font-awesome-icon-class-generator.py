@@ -24,7 +24,8 @@ class IProvideLanguage(ABC):
 class BaseLanguageProvider(IProvideLanguage, ABC):
     def get_words(self, input_str):
         # Remove special characters except spaces, allowing letters, digits, underscores, and spaces
-        clean_str = re.sub(r'[^\w\s]|^(?=\d)', '', input_str.strip())
+        clean_str = re.sub(r'[^\w\s]|^(?=\d)', ' ', input_str)
+        clean_str = clean_str.strip()
         if clean_str and clean_str[0].isdigit():
             # ensure we don't start with a digit
             clean_str = '_' + clean_str
