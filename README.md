@@ -20,14 +20,15 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/faradaysage/font-awesome-icon-class-generator.git
 cd font-awesome-icon-class-generator
+```
 
 ### Usage
 
 The script can be executed from the command line. Here's how to use it:
 
 ```bash
-Copy code
 python font-awesome-icon-class-generator.py --source "FILE" --language "LANGUAGE"
+```
 
 Replace "FILE" with the file location (physical path or URL) and "LANGUAGE" with the language to output (csharp for C# and python for Python are currently supported).
 
@@ -37,11 +38,13 @@ Run the generator with the defaults (https://raw.githubusercontent.com/FortAweso
 
 ```bash
 python font-awesome-icon-class-generator.py
+```
 
 Outputs the Font Awesome v6 icons to C# files.
 
 ```bash
 python font-awesome-icon-class-generator.py --source "some-example variable" --language csharp
+```
 
 ### Extending
 
