@@ -43,12 +43,14 @@ python font-awesome-icon-class-generator.py
 Outputs the Font Awesome v6 icons to C# files.
 
 ```bash
-python font-awesome-icon-class-generator.py --source "some-example variable" --language csharp
+python font-awesome-icon-class-generator.py --source "C:\project\icons.json" --language python
 ```
+
+Outputs the Font Awesome icons specified in `icons.json` to Python files.
 
 ### Extending
 
-To add support for additional programming languages, modify the `to_valid_identifier` function within the script to include cases for new languages and their naming conventions.
+To add support for additional programming languages, modify the `generate_output` and `to_valid_identifier` functions within the script to include cases for new languages and their naming conventions.
 
 ### Contributing
 
