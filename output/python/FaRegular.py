@@ -1,609 +1,609 @@
 class FaRegular:
     """
-    (Free) Keywords: contact, directory, index, little black book, rolodex
+    Address Book; Keywords: contact, directory, index, little black book, rolodex; Keywords: contact, directory, index, little black book, rolodex (Free)
     """
     address_book = "\uf2b9";
     """
-    (Free) Keywords: about, contact, id, identification, postcard, profile
+    Address Card; Keywords: about, contact, id, identification, postcard, profile; Keywords: about, contact, id, identification, postcard, profile (Free)
     """
     address_card = "\uf2bb";
     """
-    (Free) Keywords: disapprove, emoticon, face, mad, upset
+    Angry Face; Keywords: disapprove, emoticon, face, mad, upset; Keywords: disapprove, emoticon, face, mad, upset (Free)
     """
     angry_face = "\uf556";
     """
-    (Free) Keywords: arrow-circle-o-down, download
+    Alternate Arrow Circle Down; Keywords: arrow-circle-o-down, download; Keywords: arrow-circle-o-down, download (Free)
     """
     alternate_arrow_circle_down = "\uf358";
     """
-    (Free) Keywords: arrow-circle-o-left, back, previous
+    Alternate Arrow Circle Left; Keywords: arrow-circle-o-left, back, previous; Keywords: arrow-circle-o-left, back, previous (Free)
     """
     alternate_arrow_circle_left = "\uf359";
     """
-    (Free) Keywords: arrow-circle-o-right, forward, next
+    Alternate Arrow Circle Right; Keywords: arrow-circle-o-right, forward, next; Keywords: arrow-circle-o-right, forward, next (Free)
     """
     alternate_arrow_circle_right = "\uf35a";
     """
-    (Free) Keywords: arrow-circle-o-up
+    Alternate Arrow Circle Up; Keywords: arrow-circle-o-up; Keywords: arrow-circle-o-up (Free)
     """
     alternate_arrow_circle_up = "\uf35b";
     """
-    (Free) Keywords: alarm, alert, chime, notification, reminder
+    bell; Keywords: alarm, alert, chime, notification, reminder; Keywords: alarm, alert, chime, notification, reminder (Free)
     """
     bell = "\uf0f3";
     """
-    (Free) Keywords: alert, cancel, disabled, notification, off, reminder
+    Bell Slash; Keywords: alert, cancel, disabled, notification, off, reminder; Keywords: alert, cancel, disabled, notification, off, reminder (Free)
     """
     bell_slash = "\uf1f6";
     """
-    (Free) Keywords: favorite, marker, read, remember, save
+    bookmark; Keywords: favorite, marker, read, remember, save; Keywords: favorite, marker, read, remember, save (Free)
     """
     bookmark = "\uf02e";
     """
-    (Free) Keywords: apartment, business, city, company, office, work
+    Building; Keywords: apartment, business, city, company, office, work; Keywords: apartment, business, city, company, office, work (Free)
     """
     building = "\uf1ad";
     """
-    (Free) Keywords: calendar-o, date, event, schedule, time, when
+    Calendar; Keywords: calendar-o, date, event, schedule, time, when; Keywords: calendar-o, date, event, schedule, time, when (Free)
     """
     calendar = "\uf133";
     """
-    (Free) Keywords: calendar, date, event, schedule, time, when
+    Alternate Calendar; Keywords: calendar, date, event, schedule, time, when; Keywords: calendar, date, event, schedule, time, when (Free)
     """
     alternate_calendar = "\uf073";
     """
-    (Free) Keywords: accept, agree, appointment, confirm, correct, date, done, event, ok, schedule, select, success, tick, time, todo, when
+    Calendar Check; Keywords: accept, agree, appointment, confirm, correct, date, done, event, ok, schedule, select, success, tick, time, todo, when; Keywords: accept, agree, appointment, confirm, correct, date, done, event, ok, schedule, select, success, tick, time, todo, when (Free)
     """
     calendar_check = "\uf274";
     """
-    (Free) Keywords: calendar, date, delete, event, negative, remove, schedule, time, when
+    Calendar Minus; Keywords: calendar, date, delete, event, negative, remove, schedule, time, when; Keywords: calendar, date, delete, event, negative, remove, schedule, time, when (Free)
     """
     calendar_minus = "\uf272";
     """
-    (Free) Keywords: add, calendar, create, date, event, new, positive, schedule, time, when
+    Calendar Plus; Keywords: add, calendar, create, date, event, new, positive, schedule, time, when; Keywords: add, calendar, create, date, event, new, positive, schedule, time, when (Free)
     """
     calendar_plus = "\uf271";
     """
-    (Free) Keywords: archive, calendar, date, delete, event, remove, schedule, time, when, x
+    Calendar Times; Keywords: archive, calendar, date, delete, event, remove, schedule, time, when, x; Keywords: archive, calendar, date, delete, event, remove, schedule, time, when, x (Free)
     """
     calendar_times = "\uf273";
     """
-    (Free) Keywords: arrow, caret-square-o-down, dropdown, expand, menu, more, triangle
+    Caret Square Down; Keywords: arrow, caret-square-o-down, dropdown, expand, menu, more, triangle; Keywords: arrow, caret-square-o-down, dropdown, expand, menu, more, triangle (Free)
     """
     caret_square_down = "\uf150";
     """
-    (Free) Keywords: arrow, back, caret-square-o-left, previous, triangle
+    Caret Square Left; Keywords: arrow, back, caret-square-o-left, previous, triangle; Keywords: arrow, back, caret-square-o-left, previous, triangle (Free)
     """
     caret_square_left = "\uf191";
     """
-    (Free) Keywords: arrow, caret-square-o-right, forward, next, triangle
+    Caret Square Right; Keywords: arrow, caret-square-o-right, forward, next, triangle; Keywords: arrow, caret-square-o-right, forward, next, triangle (Free)
     """
     caret_square_right = "\uf152";
     """
-    (Free) Keywords: arrow, caret-square-o-up, collapse, triangle, upload
+    Caret Square Up; Keywords: arrow, caret-square-o-up, collapse, triangle, upload; Keywords: arrow, caret-square-o-up, collapse, triangle, upload (Free)
     """
     caret_square_up = "\uf151";
     """
-    (Free) Keywords: analytics, bar, chart, graph
+    Bar Chart; Keywords: analytics, bar, chart, graph; Keywords: analytics, bar, chart, graph (Free)
     """
     bar_chart = "\uf080";
     """
-    (Free) Keywords: accept, agree, confirm, correct, done, ok, select, success, tick, todo, yes
+    Check Circle; Keywords: accept, agree, confirm, correct, done, ok, select, success, tick, todo, yes; Keywords: accept, agree, confirm, correct, done, ok, select, success, tick, todo, yes (Free)
     """
     check_circle = "\uf058";
     """
-    (Free) Keywords: accept, agree, checkmark, confirm, correct, done, ok, select, success, tick, todo, yes
+    Check Square; Keywords: accept, agree, checkmark, confirm, correct, done, ok, select, success, tick, todo, yes; Keywords: accept, agree, checkmark, confirm, correct, done, ok, select, success, tick, todo, yes (Free)
     """
     check_square = "\uf14a";
     """
-    (Free) Keywords: circle-thin, diameter, dot, ellipse, notification, round
+    Circle; Keywords: circle-thin, diameter, dot, ellipse, notification, round; Keywords: circle-thin, diameter, dot, ellipse, notification, round (Free)
     """
     circle = "\uf111";
     """
-    (Free) Keywords: copy, notes, paste, record
+    Clipboard; Keywords: copy, notes, paste, record; Keywords: copy, notes, paste, record (Free)
     """
     clipboard = "\uf328";
     """
-    (Free) Keywords: date, late, schedule, time, timer, timestamp, watch
+    Clock; Keywords: date, late, schedule, time, timer, timestamp, watch; Keywords: date, late, schedule, time, timer, timestamp, watch (Free)
     """
     clock = "\uf017";
     """
-    (Free) Keywords: arrange, copy, duplicate, paste
+    Clone; Keywords: arrange, copy, duplicate, paste; Keywords: arrange, copy, duplicate, paste (Free)
     """
     clone = "\uf24d";
     """
-    (Free) Keywords: cc, deaf, hearing, subtitle, subtitling, text, video
+    Closed Captioning; Keywords: cc, deaf, hearing, subtitle, subtitling, text, video; Keywords: cc, deaf, hearing, subtitle, subtitling, text, video (Free)
     """
     closed_captioning = "\uf20a";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting
+    comment; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting (Free)
     """
     comment = "\uf075";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting
+    Alternate Comment; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting (Free)
     """
     alternate_comment = "\uf27a";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, more, note, notification, reply, sms, speech, texting
+    Comment Dots; Keywords: bubble, chat, commenting, conversation, feedback, message, more, note, notification, reply, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, more, note, notification, reply, sms, speech, texting (Free)
     """
     comment_dots = "\uf4ad";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting
+    comments; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting (Free)
     """
     comments = "\uf086";
     """
-    (Free) Keywords: directions, directory, location, menu, navigation, safari, travel
+    Compass; Keywords: directions, directory, location, menu, navigation, safari, travel; Keywords: directions, directory, location, menu, navigation, safari, travel (Free)
     """
     compass = "\uf14e";
     """
-    (Free) Keywords: clone, duplicate, file, files-o, paper, paste
+    Copy; Keywords: clone, duplicate, file, files-o, paper, paste; Keywords: clone, duplicate, file, files-o, paper, paste (Free)
     """
     copy = "\uf0c5";
     """
-    (Free) Keywords: brand, mark, register, trademark
+    Copyright; Keywords: brand, mark, register, trademark; Keywords: brand, mark, register, trademark (Free)
     """
     copyright = "\uf1f9";
     """
-    (Free) Keywords: buy, checkout, credit-card-alt, debit, money, payment, purchase
+    Credit Card; Keywords: buy, checkout, credit-card-alt, debit, money, payment, purchase; Keywords: buy, checkout, credit-card-alt, debit, money, payment, purchase (Free)
     """
     credit_card = "\uf09d";
     """
-    (Free) Keywords: dazed, dead, disapprove, emoticon, face
+    Dizzy Face; Keywords: dazed, dead, disapprove, emoticon, face; Keywords: dazed, dead, disapprove, emoticon, face (Free)
     """
     dizzy_face = "\uf567";
     """
-    (Free) Keywords: bullseye, notification, target
+    Dot Circle; Keywords: bullseye, notification, target; Keywords: bullseye, notification, target (Free)
     """
     dot_circle = "\uf192";
     """
-    (Free) Keywords: edit, pen, pencil, update, write
+    Edit; Keywords: edit, pen, pencil, update, write; Keywords: edit, pen, pencil, update, write (Free)
     """
     edit = "\uf044";
     """
-    (Free) Keywords: e-mail, email, letter, mail, message, notification, support
+    Envelope; Keywords: e-mail, email, letter, mail, message, notification, support; Keywords: e-mail, email, letter, mail, message, notification, support (Free)
     """
     envelope = "\uf0e0";
     """
-    (Free) Keywords: e-mail, email, letter, mail, message, notification, support
+    Envelope Open; Keywords: e-mail, email, letter, mail, message, notification, support; Keywords: e-mail, email, letter, mail, message, notification, support (Free)
     """
     envelope_open = "\uf2b6";
     """
-    (Free) Keywords: look, optic, see, seen, show, sight, views, visible
+    Eye; Keywords: look, optic, see, seen, show, sight, views, visible; Keywords: look, optic, see, seen, show, sight, views, visible (Free)
     """
     eye = "\uf06e";
     """
-    (Free) Keywords: blind, hide, show, toggle, unseen, views, visible, visiblity
+    Eye Slash; Keywords: blind, hide, show, toggle, unseen, views, visible, visiblity; Keywords: blind, hide, show, toggle, unseen, views, visible, visiblity (Free)
     """
     eye_slash = "\uf070";
     """
-    (Free) Keywords: document, new, page, pdf, resume
+    File; Keywords: document, new, page, pdf, resume; Keywords: document, new, page, pdf, resume (Free)
     """
     file = "\uf15b";
     """
-    (Free) Keywords: document, file-text, invoice, new, page, pdf
+    Alternate File; Keywords: document, file-text, invoice, new, page, pdf; Keywords: document, file-text, invoice, new, page, pdf (Free)
     """
     alternate_file = "\uf15c";
     """
-    (Free) Keywords: .zip, bundle, compress, compression, download, zip
+    Archive File; Keywords: .zip, bundle, compress, compression, download, zip; Keywords: .zip, bundle, compress, compression, download, zip (Free)
     """
     archive_file = "\uf1c6";
     """
-    (Free) Keywords: document, mp3, music, page, play, sound
+    Audio File; Keywords: document, mp3, music, page, play, sound; Keywords: document, mp3, music, page, play, sound (Free)
     """
     audio_file = "\uf1c7";
     """
-    (Free) Keywords: css, development, document, html
+    Code File; Keywords: css, development, document, html; Keywords: css, development, document, html (Free)
     """
     code_file = "\uf1c9";
     """
-    (Free) Keywords: csv, document, numbers, spreadsheets, table
+    Excel File; Keywords: csv, document, numbers, spreadsheets, table; Keywords: csv, document, numbers, spreadsheets, table (Free)
     """
     excel_file = "\uf1c3";
     """
-    (Free) Keywords: document, image, jpg, photo, png
+    Image File; Keywords: document, image, jpg, photo, png; Keywords: document, image, jpg, photo, png (Free)
     """
     image_file = "\uf1c5";
     """
-    (Free) Keywords: acrobat, document, preview, save
+    PDF File; Keywords: acrobat, document, preview, save; Keywords: acrobat, document, preview, save (Free)
     """
     pdf_file = "\uf1c1";
     """
-    (Free) Keywords: display, document, keynote, presentation
+    Powerpoint File; Keywords: display, document, keynote, presentation; Keywords: display, document, keynote, presentation (Free)
     """
     powerpoint_file = "\uf1c4";
     """
-    (Free) Keywords: document, m4v, movie, mp4, play
+    Video File; Keywords: document, m4v, movie, mp4, play; Keywords: document, m4v, movie, mp4, play (Free)
     """
     video_file = "\uf1c8";
     """
-    (Free) Keywords: document, edit, page, text, writing
+    Word File; Keywords: document, edit, page, text, writing; Keywords: document, edit, page, text, writing (Free)
     """
     word_file = "\uf1c2";
     """
-    (Free) Keywords: country, notice, notification, notify, pole, report, symbol
+    flag; Keywords: country, notice, notification, notify, pole, report, symbol; Keywords: country, notice, notification, notify, pole, report, symbol (Free)
     """
     flag = "\uf024";
     """
-    (Free) Keywords: embarrassed, emoticon, face
+    Flushed Face; Keywords: embarrassed, emoticon, face; Keywords: embarrassed, emoticon, face (Free)
     """
     flushed_face = "\uf579";
     """
-    (Free) Keywords: archive, directory, document, file
+    Folder; Keywords: archive, directory, document, file; Keywords: archive, directory, document, file (Free)
     """
     folder = "\uf07b";
     """
-    (Free) Keywords: archive, directory, document, empty, file, new
+    Folder Open; Keywords: archive, directory, document, empty, file, new; Keywords: archive, directory, document, empty, file, new (Free)
     """
     folder_open = "\uf07c";
     """
-    (Free) 
+    Font Awesome Full Logo (Free)
     """
     font_awesome_full_logo = "\uf4e6";
     """
-    (Free) Keywords: disapprove, emoticon, face, rating, sad
+    Frowning Face; Keywords: disapprove, emoticon, face, rating, sad; Keywords: disapprove, emoticon, face, rating, sad (Free)
     """
     frowning_face = "\uf119";
     """
-    (Free) Keywords: disapprove, emoticon, face, rating, sad
+    Frowning Face With Open Mouth; Keywords: disapprove, emoticon, face, rating, sad; Keywords: disapprove, emoticon, face, rating, sad (Free)
     """
     frowning_face_with_open_mouth = "\uf57a";
     """
-    (Free) Keywords: ball, football, mls, soccer
+    Futbol; Keywords: ball, football, mls, soccer; Keywords: ball, football, mls, soccer (Free)
     """
     futbol = "\uf1e3";
     """
-    (Free) Keywords: diamond, jewelry, sapphire, stone, treasure
+    Gem; Keywords: diamond, jewelry, sapphire, stone, treasure; Keywords: diamond, jewelry, sapphire, stone, treasure (Free)
     """
     gem = "\uf3a5";
     """
-    (Free) Keywords: cringe, emoticon, face, teeth
+    Grimacing Face; Keywords: cringe, emoticon, face, teeth; Keywords: cringe, emoticon, face, teeth (Free)
     """
     grimacing_face = "\uf57f";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Grinning Face; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     grinning_face = "\uf580";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Alternate Grinning Face; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     alternate_grinning_face = "\uf581";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Grinning Face With Smiling Eyes; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     grinning_face_with_smiling_eyes = "\uf582";
     """
-    (Free) Keywords: embarass, emoticon, face, smile
+    Grinning Face With Sweat; Keywords: embarass, emoticon, face, smile; Keywords: embarass, emoticon, face, smile (Free)
     """
     grinning_face_with_sweat = "\uf583";
     """
-    (Free) Keywords: emoticon, face, love, smile
+    Smiling Face With Heart-Eyes; Keywords: emoticon, face, love, smile; Keywords: emoticon, face, love, smile (Free)
     """
     smiling_face_with_heart_eyes = "\uf584";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Grinning Squinting Face; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     grinning_squinting_face = "\uf585";
     """
-    (Free) Keywords: emoticon, face, happy, smile
+    Rolling on the Floor Laughing; Keywords: emoticon, face, happy, smile; Keywords: emoticon, face, happy, smile (Free)
     """
     rolling_on_the_floor_laughing = "\uf586";
     """
-    (Free) Keywords: emoticon, face, star-struck
+    Star-Struck; Keywords: emoticon, face, star-struck; Keywords: emoticon, face, star-struck (Free)
     """
     star_struck = "\uf587";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Face With Tears of Joy; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     face_with_tears_of_joy = "\uf588";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Face With Tongue; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     face_with_tongue = "\uf589";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Squinting Face With Tongue; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     squinting_face_with_tongue = "\uf58a";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Winking Face With Tongue; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     winking_face_with_tongue = "\uf58b";
     """
-    (Free) Keywords: emoticon, face, flirt, laugh, smile
+    Grinning Winking Face; Keywords: emoticon, face, flirt, laugh, smile; Keywords: emoticon, face, flirt, laugh, smile (Free)
     """
     grinning_winking_face = "\uf58c";
     """
-    (Free) Keywords: game, roshambo
+    Lizard (Hand); Keywords: game, roshambo; Keywords: game, roshambo (Free)
     """
     lizard_hand = "\uf258";
     """
-    (Free) Keywords: game, halt, roshambo, stop
+    Paper (Hand); Keywords: game, halt, roshambo, stop; Keywords: game, halt, roshambo, stop (Free)
     """
     paper_hand = "\uf256";
     """
-    (Free) Keywords: rest, truce
+    Peace (Hand); Keywords: rest, truce; Keywords: rest, truce (Free)
     """
     peace_hand = "\uf25b";
     """
-    (Free) Keywords: finger, hand-o-down, point
+    Hand Pointing Down; Keywords: finger, hand-o-down, point; Keywords: finger, hand-o-down, point (Free)
     """
     hand_pointing_down = "\uf0a7";
     """
-    (Free) Keywords: back, finger, hand-o-left, left, point, previous
+    Hand Pointing Left; Keywords: back, finger, hand-o-left, left, point, previous; Keywords: back, finger, hand-o-left, left, point, previous (Free)
     """
     hand_pointing_left = "\uf0a5";
     """
-    (Free) Keywords: finger, forward, hand-o-right, next, point, right
+    Hand Pointing Right; Keywords: finger, forward, hand-o-right, next, point, right; Keywords: finger, forward, hand-o-right, next, point, right (Free)
     """
     hand_pointing_right = "\uf0a4";
     """
-    (Free) Keywords: finger, hand-o-up, point
+    Hand Pointing Up; Keywords: finger, hand-o-up, point; Keywords: finger, hand-o-up, point (Free)
     """
     hand_pointing_up = "\uf0a6";
     """
-    (Free) Keywords: arrow, cursor, select
+    Pointer (Hand); Keywords: arrow, cursor, select; Keywords: arrow, cursor, select (Free)
     """
     pointer_hand = "\uf25a";
     """
-    (Free) Keywords: fist, game, roshambo
+    Rock (Hand); Keywords: fist, game, roshambo; Keywords: fist, game, roshambo (Free)
     """
     rock_hand = "\uf255";
     """
-    (Free) Keywords: cut, game, roshambo
+    Scissors (Hand); Keywords: cut, game, roshambo; Keywords: cut, game, roshambo (Free)
     """
     scissors_hand = "\uf257";
     """
-    (Free) Keywords: live long, prosper, salute, star trek, vulcan
+    Spock (Hand); Keywords: live long, prosper, salute, star trek, vulcan; Keywords: live long, prosper, salute, star trek, vulcan (Free)
     """
     spock_hand = "\uf259";
     """
-    (Free) Keywords: agreement, greeting, meeting, partnership
+    Handshake; Keywords: agreement, greeting, meeting, partnership; Keywords: agreement, greeting, meeting, partnership (Free)
     """
     handshake = "\uf2b5";
     """
-    (Free) Keywords: cpu, hard drive, harddrive, machine, save, storage
+    HDD; Keywords: cpu, hard drive, harddrive, machine, save, storage; Keywords: cpu, hard drive, harddrive, machine, save, storage (Free)
     """
     hdd = "\uf0a0";
     """
-    (Free) Keywords: favorite, like, love, relationship, valentine
+    Heart; Keywords: favorite, like, love, relationship, valentine; Keywords: favorite, like, love, relationship, valentine (Free)
     """
     heart = "\uf004";
     """
-    (Free) Keywords: building, covid-19, emergency room, medical center
+    hospital; Keywords: building, covid-19, emergency room, medical center; Keywords: building, covid-19, emergency room, medical center (Free)
     """
     hospital = "\uf0f8";
     """
-    (Free) Keywords: hour, minute, sand, stopwatch, time
+    Hourglass; Keywords: hour, minute, sand, stopwatch, time; Keywords: hour, minute, sand, stopwatch, time (Free)
     """
     hourglass = "\uf254";
     """
-    (Free) Keywords: address, contact, identification, license, profile
+    Identification Badge; Keywords: address, contact, identification, license, profile; Keywords: address, contact, identification, license, profile (Free)
     """
     identification_badge = "\uf2c1";
     """
-    (Free) Keywords: contact, demographics, document, identification, issued, profile
+    Identification Card; Keywords: contact, demographics, document, identification, issued, profile; Keywords: contact, demographics, document, identification, issued, profile (Free)
     """
     identification_card = "\uf2c2";
     """
-    (Free) Keywords: album, landscape, photo, picture
+    Image; Keywords: album, landscape, photo, picture; Keywords: album, landscape, photo, picture (Free)
     """
     image = "\uf03e";
     """
-    (Free) Keywords: album, landscape, photo, picture
+    Images; Keywords: album, landscape, photo, picture; Keywords: album, landscape, photo, picture (Free)
     """
     images = "\uf302";
     """
-    (Free) Keywords: accessory, edit, input, text, type, write
+    Keyboard; Keywords: accessory, edit, input, text, type, write; Keywords: accessory, edit, input, text, type, write (Free)
     """
     keyboard = "\uf11c";
     """
-    (Free) Keywords: beso, emoticon, face, love, smooch
+    Kissing Face; Keywords: beso, emoticon, face, love, smooch; Keywords: beso, emoticon, face, love, smooch (Free)
     """
     kissing_face = "\uf596";
     """
-    (Free) Keywords: beso, emoticon, face, love, smooch
+    Kissing Face With Smiling Eyes; Keywords: beso, emoticon, face, love, smooch; Keywords: beso, emoticon, face, love, smooch (Free)
     """
     kissing_face_with_smiling_eyes = "\uf597";
     """
-    (Free) Keywords: beso, emoticon, face, love, smooch
+    Face Blowing a Kiss; Keywords: beso, emoticon, face, love, smooch; Keywords: beso, emoticon, face, love, smooch (Free)
     """
     face_blowing_a_kiss = "\uf598";
     """
-    (Free) Keywords: LOL, emoticon, face, laugh, smile
+    Grinning Face With Big Eyes; Keywords: LOL, emoticon, face, laugh, smile; Keywords: LOL, emoticon, face, laugh, smile (Free)
     """
     grinning_face_with_big_eyes = "\uf599";
     """
-    (Free) Keywords: LOL, emoticon, face, happy, smile
+    Laugh Face with Beaming Eyes; Keywords: LOL, emoticon, face, happy, smile; Keywords: LOL, emoticon, face, happy, smile (Free)
     """
     laugh_face_with_beaming_eyes = "\uf59a";
     """
-    (Free) Keywords: LOL, emoticon, face, happy, smile
+    Laughing Squinting Face; Keywords: LOL, emoticon, face, happy, smile; Keywords: LOL, emoticon, face, happy, smile (Free)
     """
     laughing_squinting_face = "\uf59b";
     """
-    (Free) Keywords: LOL, emoticon, face, happy, smile
+    Laughing Winking Face; Keywords: LOL, emoticon, face, happy, smile; Keywords: LOL, emoticon, face, happy, smile (Free)
     """
     laughing_winking_face = "\uf59c";
     """
-    (Free) Keywords: citrus, lemonade, lime, tart
+    Lemon; Keywords: citrus, lemonade, lime, tart; Keywords: citrus, lemonade, lime, tart (Free)
     """
     lemon = "\uf094";
     """
-    (Free) Keywords: coast guard, help, overboard, save, support
+    Life Ring; Keywords: coast guard, help, overboard, save, support; Keywords: coast guard, help, overboard, save, support (Free)
     """
     life_ring = "\uf1cd";
     """
-    (Free) Keywords: energy, idea, inspiration, light
+    Lightbulb; Keywords: energy, idea, inspiration, light; Keywords: energy, idea, inspiration, light (Free)
     """
     lightbulb = "\uf0eb";
     """
-    (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
+    Alternate List; Keywords: checklist, completed, done, finished, ol, todo, ul; Keywords: checklist, completed, done, finished, ol, todo, ul (Free)
     """
     alternate_list = "\uf022";
     """
-    (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
+    Map; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel (Free)
     """
     map = "\uf279";
     """
-    (Free) Keywords: emoticon, face, neutral, rating
+    Neutral Face; Keywords: emoticon, face, neutral, rating; Keywords: emoticon, face, neutral, rating (Free)
     """
     neutral_face = "\uf11a";
     """
-    (Free) Keywords: emoticon, face, neutral, rating
+    Face Without Mouth; Keywords: emoticon, face, neutral, rating; Keywords: emoticon, face, neutral, rating (Free)
     """
     face_without_mouth = "\uf5a4";
     """
-    (Free) Keywords: emoticon, face, neutral, rating
+    Face With Rolling Eyes; Keywords: emoticon, face, neutral, rating; Keywords: emoticon, face, neutral, rating (Free)
     """
     face_with_rolling_eyes = "\uf5a5";
     """
-    (Free) Keywords: collapse, delete, hide, minify, negative, remove, shape, trash
+    Minus Square; Keywords: collapse, delete, hide, minify, negative, remove, shape, trash; Keywords: collapse, delete, hide, minify, negative, remove, shape, trash (Free)
     """
     minus_square = "\uf146";
     """
-    (Free) Keywords: buy, cash, checkout, money, payment, price, purchase
+    Alternate Money Bill; Keywords: buy, cash, checkout, money, payment, price, purchase; Keywords: buy, cash, checkout, money, payment, price, purchase (Free)
     """
     alternate_money_bill = "\uf3d1";
     """
-    (Free) Keywords: contrast, crescent, dark, lunar, night
+    Moon; Keywords: contrast, crescent, dark, lunar, night; Keywords: contrast, crescent, dark, lunar, night (Free)
     """
     moon = "\uf186";
     """
-    (Free) Keywords: article, editorial, headline, journal, journalism, news, press
+    Newspaper; Keywords: article, editorial, headline, journal, journalism, news, press; Keywords: article, editorial, headline, journal, journalism, news, press (Free)
     """
     newspaper = "\uf1ea";
     """
-    (Free) Keywords: combine, copy, design, merge, select
+    Object Group; Keywords: combine, copy, design, merge, select; Keywords: combine, copy, design, merge, select (Free)
     """
     object_group = "\uf247";
     """
-    (Free) Keywords: copy, design, merge, select, separate
+    Object Ungroup; Keywords: copy, design, merge, select, separate; Keywords: copy, design, merge, select, separate (Free)
     """
     object_ungroup = "\uf248";
     """
-    (Free) Keywords: air, float, fold, mail, paper, send
+    Paper Plane; Keywords: air, float, fold, mail, paper, send; Keywords: air, float, fold, mail, paper, send (Free)
     """
     paper_plane = "\uf1d8";
     """
-    (Free) Keywords: hold, wait
+    Pause Circle; Keywords: hold, wait; Keywords: hold, wait (Free)
     """
     pause_circle = "\uf28b";
     """
-    (Free) Keywords: audio, music, playing, sound, start, video
+    Play Circle; Keywords: audio, music, playing, sound, start, video; Keywords: audio, music, playing, sound, start, video (Free)
     """
     play_circle = "\uf144";
     """
-    (Free) Keywords: add, create, expand, new, positive, shape
+    Plus Square; Keywords: add, create, expand, new, positive, shape; Keywords: add, create, expand, new, positive, shape (Free)
     """
     plus_square = "\uf0fe";
     """
-    (Free) Keywords: help, information, support, unknown
+    Question Circle; Keywords: help, information, support, unknown; Keywords: help, information, support, unknown (Free)
     """
     question_circle = "\uf059";
     """
-    (Free) Keywords: copyright, mark, trademark
+    Registered Trademark; Keywords: copyright, mark, trademark; Keywords: copyright, mark, trademark (Free)
     """
     registered_trademark = "\uf25d";
     """
-    (Free) Keywords: emoticon, face, tear, tears
+    Crying Face; Keywords: emoticon, face, tear, tears; Keywords: emoticon, face, tear, tears (Free)
     """
     crying_face = "\uf5b3";
     """
-    (Free) Keywords: emoticon, face, tear, tears
+    Loudly Crying Face; Keywords: emoticon, face, tear, tears; Keywords: emoticon, face, tear, tears (Free)
     """
     loudly_crying_face = "\uf5b4";
     """
-    (Free) Keywords: disk, download, floppy, floppy-o
+    Save; Keywords: disk, download, floppy, floppy-o; Keywords: disk, download, floppy, floppy-o (Free)
     """
     save = "\uf0c7";
     """
-    (Free) Keywords: forward, save, send, social
+    Share Square; Keywords: forward, save, send, social; Keywords: forward, save, send, social (Free)
     """
     share_square = "\uf14d";
     """
-    (Free) Keywords: approve, emoticon, face, happy, rating, satisfied
+    Smiling Face; Keywords: approve, emoticon, face, happy, rating, satisfied; Keywords: approve, emoticon, face, happy, rating, satisfied (Free)
     """
     smiling_face = "\uf118";
     """
-    (Free) Keywords: emoticon, face, happy, positive
+    Beaming Face With Smiling Eyes; Keywords: emoticon, face, happy, positive; Keywords: emoticon, face, happy, positive (Free)
     """
     beaming_face_with_smiling_eyes = "\uf5b8";
     """
-    (Free) Keywords: emoticon, face, happy, hint, joke
+    Winking Face; Keywords: emoticon, face, happy, hint, joke; Keywords: emoticon, face, happy, hint, joke (Free)
     """
     winking_face = "\uf4da";
     """
-    (Free) Keywords: precipitation, rain, winter
+    Snowflake; Keywords: precipitation, rain, winter; Keywords: precipitation, rain, winter (Free)
     """
     snowflake = "\uf2dc";
     """
-    (Free) Keywords: block, box, shape
+    Square; Keywords: block, box, shape; Keywords: block, box, shape (Free)
     """
     square = "\uf0c8";
     """
-    (Free) Keywords: achievement, award, favorite, important, night, rating, score
+    Star; Keywords: achievement, award, favorite, important, night, rating, score; Keywords: achievement, award, favorite, important, night, rating, score (Free)
     """
     star = "\uf005";
     """
-    (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
+    star-half; Keywords: achievement, award, rating, score, star-half-empty, star-half-full; Keywords: achievement, award, rating, score, star-half-empty, star-half-full (Free)
     """
     star_half = "\uf089";
     """
-    (Free) Keywords: message, note, paper, reminder, sticker
+    Sticky Note; Keywords: message, note, paper, reminder, sticker; Keywords: message, note, paper, reminder, sticker (Free)
     """
     sticky_note = "\uf249";
     """
-    (Free) Keywords: block, box, circle, square
+    Stop Circle; Keywords: block, box, circle, square; Keywords: block, box, circle, square (Free)
     """
     stop_circle = "\uf28d";
     """
-    (Free) Keywords: brighten, contrast, day, lighter, sol, solar, star, weather
+    Sun; Keywords: brighten, contrast, day, lighter, sol, solar, star, weather; Keywords: brighten, contrast, day, lighter, sol, solar, star, weather (Free)
     """
     sun = "\uf185";
     """
-    (Free) Keywords: emoticon, face, shocked
+    Hushed Face; Keywords: emoticon, face, shocked; Keywords: emoticon, face, shocked (Free)
     """
     hushed_face = "\uf5c2";
     """
-    (Free) Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down
+    thumbs-down; Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down; Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down (Free)
     """
     thumbs_down = "\uf165";
     """
-    (Free) Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude
+    thumbs-up; Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude; Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude (Free)
     """
     thumbs_up = "\uf164";
     """
-    (Free) Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x
+    Times Circle; Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x; Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x (Free)
     """
     times_circle = "\uf057";
     """
-    (Free) Keywords: angry, emoticon, face, grumpy, upset
+    Tired Face; Keywords: angry, emoticon, face, grumpy, upset; Keywords: angry, emoticon, face, grumpy, upset (Free)
     """
     tired_face = "\uf5c8";
     """
-    (Free) Keywords: delete, garbage, hide, remove, trash-o
+    Alternate Trash; Keywords: delete, garbage, hide, remove, trash-o; Keywords: delete, garbage, hide, remove, trash-o (Free)
     """
     alternate_trash = "\uf2ed";
     """
-    (Free) Keywords: account, avatar, head, human, man, person, profile
+    User; Keywords: account, avatar, head, human, man, person, profile; Keywords: account, avatar, head, human, man, person, profile (Free)
     """
     user = "\uf007";
     """
-    (Free) Keywords: account, avatar, head, human, man, person, profile
+    User Circle; Keywords: account, avatar, head, human, man, person, profile; Keywords: account, avatar, head, human, man, person, profile (Free)
     """
     user_circle = "\uf2bd";
     """
-    (Free) Keywords: browser, cancel, computer, development
+    Window Close; Keywords: browser, cancel, computer, development; Keywords: browser, cancel, computer, development (Free)
     """
     window_close = "\uf410";
     """
-    (Free) Keywords: browser, computer, development, expand
+    Window Maximize; Keywords: browser, computer, development, expand; Keywords: browser, computer, development, expand (Free)
     """
     window_maximize = "\uf2d0";
     """
-    (Free) Keywords: browser, collapse, computer, development
+    Window Minimize; Keywords: browser, collapse, computer, development; Keywords: browser, collapse, computer, development (Free)
     """
     window_minimize = "\uf2d1";
     """
-    (Free) Keywords: browser, computer, development
+    Window Restore; Keywords: browser, computer, development; Keywords: browser, computer, development (Free)
     """
     window_restore = "\uf2d2";

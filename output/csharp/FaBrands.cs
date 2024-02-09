@@ -1,1831 +1,1831 @@
 public class FaBrands
 {
     /// <summary>
-    /// (Free) 
+    /// 500px (Free)
     /// </summary>
     public const string _500px = "\uf26e";
     /// <summary>
-    /// (Free) Keywords: accessibility, handicap, person, wheelchair, wheelchair-alt
+    /// Accessible Icon; Keywords: accessibility, handicap, person, wheelchair, wheelchair-alt; Keywords: accessibility, handicap, person, wheelchair, wheelchair-alt (Free)
     /// </summary>
     public const string AccessibleIcon = "\uf368";
     /// <summary>
-    /// (Free) 
+    /// Accusoft (Free)
     /// </summary>
     public const string Accusoft = "\uf369";
     /// <summary>
-    /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    /// Acquisitions Incorporated; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     /// </summary>
     public const string AcquisitionsIncorporated = "\uf6af";
     /// <summary>
-    /// (Free) 
+    /// App.net (Free)
     /// </summary>
     public const string AppNet = "\uf170";
     /// <summary>
-    /// (Free) 
+    /// Adversal (Free)
     /// </summary>
     public const string Adversal = "\uf36a";
     /// <summary>
-    /// (Free) 
+    /// affiliatetheme (Free)
     /// </summary>
     public const string Affiliatetheme = "\uf36b";
     /// <summary>
-    /// (Free) 
+    /// Airbnb (Free)
     /// </summary>
     public const string Airbnb = "\uf834";
     /// <summary>
-    /// (Free) 
+    /// Algolia (Free)
     /// </summary>
     public const string Algolia = "\uf36c";
     /// <summary>
-    /// (Free) 
+    /// Alipay (Free)
     /// </summary>
     public const string Alipay = "\uf642";
     /// <summary>
-    /// (Free) 
+    /// Amazon (Free)
     /// </summary>
     public const string Amazon = "\uf270";
     /// <summary>
-    /// (Free) 
+    /// Amazon Pay (Free)
     /// </summary>
     public const string AmazonPay = "\uf42c";
     /// <summary>
-    /// (Free) 
+    /// Amilia (Free)
     /// </summary>
     public const string Amilia = "\uf36d";
     /// <summary>
-    /// (Free) Keywords: robot
+    /// Android; Keywords: robot; Keywords: robot (Free)
     /// </summary>
     public const string Android = "\uf17b";
     /// <summary>
-    /// (Free) 
+    /// AngelList (Free)
     /// </summary>
     public const string Angellist = "\uf209";
     /// <summary>
-    /// (Free) 
+    /// Angry Creative (Free)
     /// </summary>
     public const string AngryCreative = "\uf36e";
     /// <summary>
-    /// (Free) 
+    /// Angular (Free)
     /// </summary>
     public const string Angular = "\uf420";
     /// <summary>
-    /// (Free) 
+    /// App Store (Free)
     /// </summary>
     public const string AppStore = "\uf36f";
     /// <summary>
-    /// (Free) 
+    /// iOS App Store (Free)
     /// </summary>
     public const string IosAppStore = "\uf370";
     /// <summary>
-    /// (Free) 
+    /// Apper Systems AB (Free)
     /// </summary>
     public const string ApperSystemsAb = "\uf371";
     /// <summary>
-    /// (Free) Keywords: fruit, ios, mac, operating system, os, osx
+    /// Apple; Keywords: fruit, ios, mac, operating system, os, osx; Keywords: fruit, ios, mac, operating system, os, osx (Free)
     /// </summary>
     public const string Apple = "\uf179";
     /// <summary>
-    /// (Free) 
+    /// Apple Pay (Free)
     /// </summary>
     public const string ApplePay = "\uf415";
     /// <summary>
-    /// (Free) 
+    /// Artstation (Free)
     /// </summary>
     public const string Artstation = "\uf77a";
     /// <summary>
-    /// (Free) 
+    /// Asymmetrik, Ltd. (Free)
     /// </summary>
     public const string AsymmetrikLtd = "\uf372";
     /// <summary>
-    /// (Free) 
+    /// Atlassian (Free)
     /// </summary>
     public const string Atlassian = "\uf77b";
     /// <summary>
-    /// (Free) 
+    /// Audible (Free)
     /// </summary>
     public const string Audible = "\uf373";
     /// <summary>
-    /// (Free) 
+    /// Autoprefixer (Free)
     /// </summary>
     public const string Autoprefixer = "\uf41c";
     /// <summary>
-    /// (Free) 
+    /// avianex (Free)
     /// </summary>
     public const string Avianex = "\uf374";
     /// <summary>
-    /// (Free) 
+    /// Aviato (Free)
     /// </summary>
     public const string Aviato = "\uf421";
     /// <summary>
-    /// (Free) 
+    /// Amazon Web Services (AWS) (Free)
     /// </summary>
     public const string AmazonWebServicesAws = "\uf375";
     /// <summary>
-    /// (Free) 
+    /// Bandcamp (Free)
     /// </summary>
     public const string Bandcamp = "\uf2d5";
     /// <summary>
-    /// (Free) 
+    /// Battle.net (Free)
     /// </summary>
     public const string BattleNet = "\uf835";
     /// <summary>
-    /// (Free) 
+    /// Behance (Free)
     /// </summary>
     public const string Behance = "\uf1b4";
     /// <summary>
-    /// (Free) 
+    /// Behance Square (Free)
     /// </summary>
     public const string BehanceSquare = "\uf1b5";
     /// <summary>
-    /// (Free) 
+    /// BIMobject (Free)
     /// </summary>
     public const string Bimobject = "\uf378";
     /// <summary>
-    /// (Free) Keywords: atlassian, bitbucket-square, git
+    /// Bitbucket; Keywords: atlassian, bitbucket-square, git; Keywords: atlassian, bitbucket-square, git (Free)
     /// </summary>
     public const string Bitbucket = "\uf171";
     /// <summary>
-    /// (Free) 
+    /// Bitcoin (Free)
     /// </summary>
     public const string Bitcoin = "\uf379";
     /// <summary>
-    /// (Free) 
+    /// Bity (Free)
     /// </summary>
     public const string Bity = "\uf37a";
     /// <summary>
-    /// (Free) 
+    /// Font Awesome Black Tie (Free)
     /// </summary>
     public const string FontAwesomeBlackTie = "\uf27e";
     /// <summary>
-    /// (Free) 
+    /// BlackBerry (Free)
     /// </summary>
     public const string Blackberry = "\uf37b";
     /// <summary>
-    /// (Free) 
+    /// Blogger (Free)
     /// </summary>
     public const string Blogger = "\uf37c";
     /// <summary>
-    /// (Free) 
+    /// Blogger B (Free)
     /// </summary>
     public const string BloggerB = "\uf37d";
     /// <summary>
-    /// (Free) 
+    /// Bluetooth (Free)
     /// </summary>
     public const string Bluetooth = "\uf293";
     /// <summary>
-    /// (Free) 
+    /// Bluetooth (bluetooth-b) (Free)
     /// </summary>
     public const string BluetoothB = "\uf294";
     /// <summary>
-    /// (Free) 
+    /// Bootstrap (Free)
     /// </summary>
     public const string Bootstrap = "\uf836";
     /// <summary>
-    /// (Free) 
+    /// BTC (Free)
     /// </summary>
     public const string Btc = "\uf15a";
     /// <summary>
-    /// (Free) 
+    /// Buffer (Free)
     /// </summary>
     public const string Buffer = "\uf837";
     /// <summary>
-    /// (Free) 
+    /// Büromöbel-Experte GmbH & Co. KG. (Free)
     /// </summary>
     public const string BüromöbelExperteGmbhCoKg = "\uf37f";
     /// <summary>
-    /// (Free) 
+    /// Buy n Large (Free)
     /// </summary>
     public const string BuyNLarge = "\uf8a6";
     /// <summary>
-    /// (Free) 
+    /// BuySellAds (Free)
     /// </summary>
     public const string Buysellads = "\uf20d";
     /// <summary>
-    /// (Free) Keywords: canada, flag, flora, nature, plant
+    /// Canadian Maple Leaf; Keywords: canada, flag, flora, nature, plant; Keywords: canada, flag, flora, nature, plant (Free)
     /// </summary>
     public const string CanadianMapleLeaf = "\uf785";
     /// <summary>
-    /// (Free) 
+    /// Amazon Pay Credit Card (Free)
     /// </summary>
     public const string AmazonPayCreditCard = "\uf42d";
     /// <summary>
-    /// (Free) Keywords: amex
+    /// American Express Credit Card; Keywords: amex; Keywords: amex (Free)
     /// </summary>
     public const string AmericanExpressCreditCard = "\uf1f3";
     /// <summary>
-    /// (Free) 
+    /// Apple Pay Credit Card (Free)
     /// </summary>
     public const string ApplePayCreditCard = "\uf416";
     /// <summary>
-    /// (Free) 
+    /// Diner's Club Credit Card (Free)
     /// </summary>
     public const string DinerSClubCreditCard = "\uf24c";
     /// <summary>
-    /// (Free) 
+    /// Discover Credit Card (Free)
     /// </summary>
     public const string DiscoverCreditCard = "\uf1f2";
     /// <summary>
-    /// (Free) 
+    /// JCB Credit Card (Free)
     /// </summary>
     public const string JcbCreditCard = "\uf24b";
     /// <summary>
-    /// (Free) 
+    /// MasterCard Credit Card (Free)
     /// </summary>
     public const string MastercardCreditCard = "\uf1f1";
     /// <summary>
-    /// (Free) 
+    /// Paypal Credit Card (Free)
     /// </summary>
     public const string PaypalCreditCard = "\uf1f4";
     /// <summary>
-    /// (Free) 
+    /// Stripe Credit Card (Free)
     /// </summary>
     public const string StripeCreditCard = "\uf1f5";
     /// <summary>
-    /// (Free) 
+    /// Visa Credit Card (Free)
     /// </summary>
     public const string VisaCreditCard = "\uf1f0";
     /// <summary>
-    /// (Free) 
+    /// Centercode (Free)
     /// </summary>
     public const string Centercode = "\uf380";
     /// <summary>
-    /// (Free) Keywords: linux, operating system, os
+    /// Centos; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     /// </summary>
     public const string Centos = "\uf789";
     /// <summary>
-    /// (Free) Keywords: browser
+    /// Chrome; Keywords: browser; Keywords: browser (Free)
     /// </summary>
     public const string Chrome = "\uf268";
     /// <summary>
-    /// (Free) 
+    /// Chromecast (Free)
     /// </summary>
     public const string Chromecast = "\uf838";
     /// <summary>
-    /// (Free) 
+    /// Cloudflare (Free)
     /// </summary>
     public const string Cloudflare = "\ue07d";
     /// <summary>
-    /// (Free) 
+    /// cloudscale.ch (Free)
     /// </summary>
     public const string CloudscaleCh = "\uf383";
     /// <summary>
-    /// (Free) 
+    /// Cloudsmith (Free)
     /// </summary>
     public const string Cloudsmith = "\uf384";
     /// <summary>
-    /// (Free) 
+    /// cloudversify (Free)
     /// </summary>
     public const string Cloudversify = "\uf385";
     /// <summary>
-    /// (Free) 
+    /// Codepen (Free)
     /// </summary>
     public const string Codepen = "\uf1cb";
     /// <summary>
-    /// (Free) 
+    /// Codie Pie (Free)
     /// </summary>
     public const string CodiePie = "\uf284";
     /// <summary>
-    /// (Free) Keywords: atlassian
+    /// Confluence; Keywords: atlassian; Keywords: atlassian (Free)
     /// </summary>
     public const string Confluence = "\uf78d";
     /// <summary>
-    /// (Free) 
+    /// Connect Develop (Free)
     /// </summary>
     public const string ConnectDevelop = "\uf20e";
     /// <summary>
-    /// (Free) 
+    /// Contao (Free)
     /// </summary>
     public const string Contao = "\uf26d";
     /// <summary>
-    /// (Free) Keywords: clothing, t-shirts, tshirts
+    /// Cotton Bureau; Keywords: clothing, t-shirts, tshirts; Keywords: clothing, t-shirts, tshirts (Free)
     /// </summary>
     public const string CottonBureau = "\uf89e";
     /// <summary>
-    /// (Free) 
+    /// cPanel (Free)
     /// </summary>
     public const string Cpanel = "\uf388";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons (Free)
     /// </summary>
     public const string CreativeCommons = "\uf25e";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Attribution (Free)
     /// </summary>
     public const string CreativeCommonsAttribution = "\uf4e7";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Noncommercial (Free)
     /// </summary>
     public const string CreativeCommonsNoncommercial = "\uf4e8";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Noncommercial (Euro Sign) (Free)
     /// </summary>
     public const string CreativeCommonsNoncommercialEuroSign = "\uf4e9";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Noncommercial (Yen Sign) (Free)
     /// </summary>
     public const string CreativeCommonsNoncommercialYenSign = "\uf4ea";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons No Derivative Works (Free)
     /// </summary>
     public const string CreativeCommonsNoDerivativeWorks = "\uf4eb";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Public Domain (Free)
     /// </summary>
     public const string CreativeCommonsPublicDomain = "\uf4ec";
     /// <summary>
-    /// (Free) 
+    /// Alternate Creative Commons Public Domain (Free)
     /// </summary>
     public const string AlternateCreativeCommonsPublicDomain = "\uf4ed";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Remix (Free)
     /// </summary>
     public const string CreativeCommonsRemix = "\uf4ee";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Share Alike (Free)
     /// </summary>
     public const string CreativeCommonsShareAlike = "\uf4ef";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Sampling (Free)
     /// </summary>
     public const string CreativeCommonsSampling = "\uf4f0";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Sampling + (Free)
     /// </summary>
     public const string CreativeCommonsSampling = "\uf4f1";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons Share (Free)
     /// </summary>
     public const string CreativeCommonsShare = "\uf4f2";
     /// <summary>
-    /// (Free) 
+    /// Creative Commons CC0 (Free)
     /// </summary>
     public const string CreativeCommonsCc0 = "\uf4f3";
     /// <summary>
-    /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    /// Critical Role; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     /// </summary>
     public const string CriticalRole = "\uf6c9";
     /// <summary>
-    /// (Free) Keywords: code
+    /// CSS 3 Logo; Keywords: code; Keywords: code (Free)
     /// </summary>
     public const string Css3Logo = "\uf13c";
     /// <summary>
-    /// (Free) 
+    /// Alternate CSS3 Logo (Free)
     /// </summary>
     public const string AlternateCss3Logo = "\uf38b";
     /// <summary>
-    /// (Free) 
+    /// Cuttlefish (Free)
     /// </summary>
     public const string Cuttlefish = "\uf38c";
     /// <summary>
-    /// (Free) 
+    /// Dungeons & Dragons (Free)
     /// </summary>
     public const string DungeonsDragons = "\uf38d";
     /// <summary>
-    /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop
+    /// D&D Beyond; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop (Free)
     /// </summary>
     public const string DDBeyond = "\uf6ca";
     /// <summary>
-    /// (Free) 
+    /// dailymotion (Free)
     /// </summary>
     public const string Dailymotion = "\ue052";
     /// <summary>
-    /// (Free) 
+    /// DashCube (Free)
     /// </summary>
     public const string Dashcube = "\uf210";
     /// <summary>
-    /// (Free) 
+    /// Deezer (Free)
     /// </summary>
     public const string Deezer = "\ue077";
     /// <summary>
-    /// (Free) 
+    /// Delicious (Free)
     /// </summary>
     public const string Delicious = "\uf1a5";
     /// <summary>
-    /// (Free) 
+    /// deploy.dog (Free)
     /// </summary>
     public const string DeployDog = "\uf38e";
     /// <summary>
-    /// (Free) 
+    /// Deskpro (Free)
     /// </summary>
     public const string Deskpro = "\uf38f";
     /// <summary>
-    /// (Free) 
+    /// DEV (Free)
     /// </summary>
     public const string Dev = "\uf6cc";
     /// <summary>
-    /// (Free) 
+    /// deviantART (Free)
     /// </summary>
     public const string Deviantart = "\uf1bd";
     /// <summary>
-    /// (Free) Keywords: Dalsey, Hillblom and Lynn, german, package, shipping
+    /// DHL; Keywords: Dalsey, Hillblom and Lynn, german, package, shipping; Keywords: Dalsey, Hillblom and Lynn, german, package, shipping (Free)
     /// </summary>
     public const string Dhl = "\uf790";
     /// <summary>
-    /// (Free) 
+    /// Diaspora (Free)
     /// </summary>
     public const string Diaspora = "\uf791";
     /// <summary>
-    /// (Free) 
+    /// Digg Logo (Free)
     /// </summary>
     public const string DiggLogo = "\uf1a6";
     /// <summary>
-    /// (Free) 
+    /// Digital Ocean (Free)
     /// </summary>
     public const string DigitalOcean = "\uf391";
     /// <summary>
-    /// (Free) 
+    /// Discord (Free)
     /// </summary>
     public const string Discord = "\uf392";
     /// <summary>
-    /// (Free) 
+    /// Discourse (Free)
     /// </summary>
     public const string Discourse = "\uf393";
     /// <summary>
-    /// (Free) 
+    /// DocHub (Free)
     /// </summary>
     public const string Dochub = "\uf394";
     /// <summary>
-    /// (Free) 
+    /// Docker (Free)
     /// </summary>
     public const string Docker = "\uf395";
     /// <summary>
-    /// (Free) 
+    /// Draft2digital (Free)
     /// </summary>
     public const string Draft2digital = "\uf396";
     /// <summary>
-    /// (Free) 
+    /// Dribbble (Free)
     /// </summary>
     public const string Dribbble = "\uf17d";
     /// <summary>
-    /// (Free) 
+    /// Dribbble Square (Free)
     /// </summary>
     public const string DribbbleSquare = "\uf397";
     /// <summary>
-    /// (Free) 
+    /// Dropbox (Free)
     /// </summary>
     public const string Dropbox = "\uf16b";
     /// <summary>
-    /// (Free) 
+    /// Drupal Logo (Free)
     /// </summary>
     public const string DrupalLogo = "\uf1a9";
     /// <summary>
-    /// (Free) 
+    /// Dyalog (Free)
     /// </summary>
     public const string Dyalog = "\uf399";
     /// <summary>
-    /// (Free) 
+    /// Earlybirds (Free)
     /// </summary>
     public const string Earlybirds = "\uf39a";
     /// <summary>
-    /// (Free) 
+    /// eBay (Free)
     /// </summary>
     public const string Ebay = "\uf4f4";
     /// <summary>
-    /// (Free) Keywords: browser, ie
+    /// Edge Browser; Keywords: browser, ie; Keywords: browser, ie (Free)
     /// </summary>
     public const string EdgeBrowser = "\uf282";
     /// <summary>
-    /// (Free) 
+    /// Edge Legacy Browser (Free)
     /// </summary>
     public const string EdgeLegacyBrowser = "\ue078";
     /// <summary>
-    /// (Free) 
+    /// Elementor (Free)
     /// </summary>
     public const string Elementor = "\uf430";
     /// <summary>
-    /// (Free) 
+    /// Ello (Free)
     /// </summary>
     public const string Ello = "\uf5f1";
     /// <summary>
-    /// (Free) 
+    /// Ember (Free)
     /// </summary>
     public const string Ember = "\uf423";
     /// <summary>
-    /// (Free) 
+    /// Galactic Empire (Free)
     /// </summary>
     public const string GalacticEmpire = "\uf1d1";
     /// <summary>
-    /// (Free) Keywords: leaf
+    /// Envira Gallery; Keywords: leaf; Keywords: leaf (Free)
     /// </summary>
     public const string EnviraGallery = "\uf299";
     /// <summary>
-    /// (Free) 
+    /// Erlang (Free)
     /// </summary>
     public const string Erlang = "\uf39d";
     /// <summary>
-    /// (Free) 
+    /// Ethereum (Free)
     /// </summary>
     public const string Ethereum = "\uf42e";
     /// <summary>
-    /// (Free) 
+    /// Etsy (Free)
     /// </summary>
     public const string Etsy = "\uf2d7";
     /// <summary>
-    /// (Free) 
+    /// Evernote (Free)
     /// </summary>
     public const string Evernote = "\uf839";
     /// <summary>
-    /// (Free) 
+    /// ExpeditedSSL (Free)
     /// </summary>
     public const string Expeditedssl = "\uf23e";
     /// <summary>
-    /// (Free) Keywords: facebook-official, social network
+    /// Facebook; Keywords: facebook-official, social network; Keywords: facebook-official, social network (Free)
     /// </summary>
     public const string Facebook = "\uf09a";
     /// <summary>
-    /// (Free) Keywords: facebook
+    /// Facebook F; Keywords: facebook; Keywords: facebook (Free)
     /// </summary>
     public const string FacebookF = "\uf39e";
     /// <summary>
-    /// (Free) 
+    /// Facebook Messenger (Free)
     /// </summary>
     public const string FacebookMessenger = "\uf39f";
     /// <summary>
-    /// (Free) Keywords: social network
+    /// Facebook Square; Keywords: social network; Keywords: social network (Free)
     /// </summary>
     public const string FacebookSquare = "\uf082";
     /// <summary>
-    /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    /// Fantasy Flight-games; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     /// </summary>
     public const string FantasyFlightGames = "\uf6dc";
     /// <summary>
-    /// (Free) Keywords: Federal Express, package, shipping
+    /// FedEx; Keywords: Federal Express, package, shipping; Keywords: Federal Express, package, shipping (Free)
     /// </summary>
     public const string Fedex = "\uf797";
     /// <summary>
-    /// (Free) Keywords: linux, operating system, os
+    /// Fedora; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     /// </summary>
     public const string Fedora = "\uf798";
     /// <summary>
-    /// (Free) Keywords: app, design, interface
+    /// Figma; Keywords: app, design, interface; Keywords: app, design, interface (Free)
     /// </summary>
     public const string Figma = "\uf799";
     /// <summary>
-    /// (Free) Keywords: browser
+    /// Firefox; Keywords: browser; Keywords: browser (Free)
     /// </summary>
     public const string Firefox = "\uf269";
     /// <summary>
-    /// (Free) Keywords: browser
+    /// Firefox Browser; Keywords: browser; Keywords: browser (Free)
     /// </summary>
     public const string FirefoxBrowser = "\ue007";
     /// <summary>
-    /// (Free) 
+    /// First Order (Free)
     /// </summary>
     public const string FirstOrder = "\uf2b0";
     /// <summary>
-    /// (Free) 
+    /// Alternate First Order (Free)
     /// </summary>
     public const string AlternateFirstOrder = "\uf50a";
     /// <summary>
-    /// (Free) 
+    /// firstdraft (Free)
     /// </summary>
     public const string Firstdraft = "\uf3a1";
     /// <summary>
-    /// (Free) 
+    /// Flickr (Free)
     /// </summary>
     public const string Flickr = "\uf16e";
     /// <summary>
-    /// (Free) 
+    /// Flipboard (Free)
     /// </summary>
     public const string Flipboard = "\uf44d";
     /// <summary>
-    /// (Free) 
+    /// Fly (Free)
     /// </summary>
     public const string Fly = "\uf417";
     /// <summary>
-    /// (Free) Keywords: meanpath
+    /// Font Awesome; Keywords: meanpath; Keywords: meanpath (Free)
     /// </summary>
     public const string FontAwesome = "\uf2b4";
     /// <summary>
-    /// (Free) 
+    /// Alternate Font Awesome (Free)
     /// </summary>
     public const string AlternateFontAwesome = "\uf35c";
     /// <summary>
-    /// (Free) 
+    /// Font Awesome Flag (Free)
     /// </summary>
     public const string FontAwesomeFlag = "\uf425";
     /// <summary>
-    /// (Free) 
+    /// Font Awesome Full Logo (Free)
     /// </summary>
     public const string FontAwesomeFullLogo = "\uf4e6";
     /// <summary>
-    /// (Free) 
+    /// Fonticons (Free)
     /// </summary>
     public const string Fonticons = "\uf280";
     /// <summary>
-    /// (Free) 
+    /// Fonticons Fi (Free)
     /// </summary>
     public const string FonticonsFi = "\uf3a2";
     /// <summary>
-    /// (Free) Keywords: castle
+    /// Fort Awesome; Keywords: castle; Keywords: castle (Free)
     /// </summary>
     public const string FortAwesome = "\uf286";
     /// <summary>
-    /// (Free) Keywords: castle
+    /// Alternate Fort Awesome; Keywords: castle; Keywords: castle (Free)
     /// </summary>
     public const string AlternateFortAwesome = "\uf3a3";
     /// <summary>
-    /// (Free) 
+    /// Forumbee (Free)
     /// </summary>
     public const string Forumbee = "\uf211";
     /// <summary>
-    /// (Free) 
+    /// Foursquare (Free)
     /// </summary>
     public const string Foursquare = "\uf180";
     /// <summary>
-    /// (Free) 
+    /// freeCodeCamp (Free)
     /// </summary>
     public const string Freecodecamp = "\uf2c5";
     /// <summary>
-    /// (Free) 
+    /// FreeBSD (Free)
     /// </summary>
     public const string Freebsd = "\uf3a4";
     /// <summary>
-    /// (Free) 
+    /// Fulcrum (Free)
     /// </summary>
     public const string Fulcrum = "\uf50b";
     /// <summary>
-    /// (Free) Keywords: politics, star wars
+    /// Galactic Republic; Keywords: politics, star wars; Keywords: politics, star wars (Free)
     /// </summary>
     public const string GalacticRepublic = "\uf50c";
     /// <summary>
-    /// (Free) Keywords: star wars
+    /// Galactic Senate; Keywords: star wars; Keywords: star wars (Free)
     /// </summary>
     public const string GalacticSenate = "\uf50d";
     /// <summary>
-    /// (Free) 
+    /// Get Pocket (Free)
     /// </summary>
     public const string GetPocket = "\uf265";
     /// <summary>
-    /// (Free) 
+    /// GG Currency (Free)
     /// </summary>
     public const string GgCurrency = "\uf260";
     /// <summary>
-    /// (Free) 
+    /// GG Currency Circle (Free)
     /// </summary>
     public const string GgCurrencyCircle = "\uf261";
     /// <summary>
-    /// (Free) 
+    /// Git (Free)
     /// </summary>
     public const string Git = "\uf1d3";
     /// <summary>
-    /// (Free) 
+    /// Git Alt (Free)
     /// </summary>
     public const string GitAlt = "\uf841";
     /// <summary>
-    /// (Free) 
+    /// Git Square (Free)
     /// </summary>
     public const string GitSquare = "\uf1d2";
     /// <summary>
-    /// (Free) Keywords: octocat
+    /// GitHub; Keywords: octocat; Keywords: octocat (Free)
     /// </summary>
     public const string Github = "\uf09b";
     /// <summary>
-    /// (Free) Keywords: octocat
+    /// Alternate GitHub; Keywords: octocat; Keywords: octocat (Free)
     /// </summary>
     public const string AlternateGithub = "\uf113";
     /// <summary>
-    /// (Free) Keywords: octocat
+    /// GitHub Square; Keywords: octocat; Keywords: octocat (Free)
     /// </summary>
     public const string GithubSquare = "\uf092";
     /// <summary>
-    /// (Free) 
+    /// GitKraken (Free)
     /// </summary>
     public const string Gitkraken = "\uf3a6";
     /// <summary>
-    /// (Free) Keywords: Axosoft
+    /// GitLab; Keywords: Axosoft; Keywords: Axosoft (Free)
     /// </summary>
     public const string Gitlab = "\uf296";
     /// <summary>
-    /// (Free) 
+    /// Gitter (Free)
     /// </summary>
     public const string Gitter = "\uf426";
     /// <summary>
-    /// (Free) 
+    /// Glide (Free)
     /// </summary>
     public const string Glide = "\uf2a5";
     /// <summary>
-    /// (Free) 
+    /// Glide G (Free)
     /// </summary>
     public const string GlideG = "\uf2a6";
     /// <summary>
-    /// (Free) 
+    /// Gofore (Free)
     /// </summary>
     public const string Gofore = "\uf3a7";
     /// <summary>
-    /// (Free) 
+    /// Goodreads (Free)
     /// </summary>
     public const string Goodreads = "\uf3a8";
     /// <summary>
-    /// (Free) 
+    /// Goodreads G (Free)
     /// </summary>
     public const string GoodreadsG = "\uf3a9";
     /// <summary>
-    /// (Free) 
+    /// Google Logo (Free)
     /// </summary>
     public const string GoogleLogo = "\uf1a0";
     /// <summary>
-    /// (Free) 
+    /// Google Drive (Free)
     /// </summary>
     public const string GoogleDrive = "\uf3aa";
     /// <summary>
-    /// (Free) 
+    /// Google Pay (Free)
     /// </summary>
     public const string GooglePay = "\ue079";
     /// <summary>
-    /// (Free) 
+    /// Google Play (Free)
     /// </summary>
     public const string GooglePlay = "\uf3ab";
     /// <summary>
-    /// (Free) Keywords: google-plus-circle, google-plus-official
+    /// Google Plus; Keywords: google-plus-circle, google-plus-official; Keywords: google-plus-circle, google-plus-official (Free)
     /// </summary>
     public const string GooglePlus = "\uf2b3";
     /// <summary>
-    /// (Free) Keywords: google-plus, social network
+    /// Google Plus G; Keywords: google-plus, social network; Keywords: google-plus, social network (Free)
     /// </summary>
     public const string GooglePlusG = "\uf0d5";
     /// <summary>
-    /// (Free) Keywords: social network
+    /// Google Plus Square; Keywords: social network; Keywords: social network (Free)
     /// </summary>
     public const string GooglePlusSquare = "\uf0d4";
     /// <summary>
-    /// (Free) 
+    /// Google Wallet (Free)
     /// </summary>
     public const string GoogleWallet = "\uf1ee";
     /// <summary>
-    /// (Free) Keywords: favorite, heart, like, love
+    /// Gratipay (Gittip); Keywords: favorite, heart, like, love; Keywords: favorite, heart, like, love (Free)
     /// </summary>
     public const string GratipayGittip = "\uf184";
     /// <summary>
-    /// (Free) 
+    /// Grav (Free)
     /// </summary>
     public const string Grav = "\uf2d6";
     /// <summary>
-    /// (Free) 
+    /// Gripfire, Inc. (Free)
     /// </summary>
     public const string GripfireInc = "\uf3ac";
     /// <summary>
-    /// (Free) 
+    /// Grunt (Free)
     /// </summary>
     public const string Grunt = "\uf3ad";
     /// <summary>
-    /// (Free) 
+    /// Guilded (Free)
     /// </summary>
     public const string Guilded = "\ue07e";
     /// <summary>
-    /// (Free) 
+    /// Gulp (Free)
     /// </summary>
     public const string Gulp = "\uf3ae";
     /// <summary>
-    /// (Free) 
+    /// Hacker News (Free)
     /// </summary>
     public const string HackerNews = "\uf1d4";
     /// <summary>
-    /// (Free) 
+    /// Hacker News Square (Free)
     /// </summary>
     public const string HackerNewsSquare = "\uf3af";
     /// <summary>
-    /// (Free) 
+    /// Hackerrank (Free)
     /// </summary>
     public const string Hackerrank = "\uf5f7";
     /// <summary>
-    /// (Free) 
+    /// Hips (Free)
     /// </summary>
     public const string Hips = "\uf452";
     /// <summary>
-    /// (Free) 
+    /// HireAHelper (Free)
     /// </summary>
     public const string Hireahelper = "\uf3b0";
     /// <summary>
-    /// (Free) 
+    /// Hive Blockchain Network (Free)
     /// </summary>
     public const string HiveBlockchainNetwork = "\ue07f";
     /// <summary>
-    /// (Free) 
+    /// Hooli (Free)
     /// </summary>
     public const string Hooli = "\uf427";
     /// <summary>
-    /// (Free) 
+    /// Hornbill (Free)
     /// </summary>
     public const string Hornbill = "\uf592";
     /// <summary>
-    /// (Free) 
+    /// Hotjar (Free)
     /// </summary>
     public const string Hotjar = "\uf3b1";
     /// <summary>
-    /// (Free) 
+    /// Houzz (Free)
     /// </summary>
     public const string Houzz = "\uf27c";
     /// <summary>
-    /// (Free) 
+    /// HTML 5 Logo (Free)
     /// </summary>
     public const string Html5Logo = "\uf13b";
     /// <summary>
-    /// (Free) 
+    /// HubSpot (Free)
     /// </summary>
     public const string Hubspot = "\uf3b2";
     /// <summary>
-    /// (Free) 
+    /// iDeal (Free)
     /// </summary>
     public const string Ideal = "\ue013";
     /// <summary>
-    /// (Free) 
+    /// IMDB (Free)
     /// </summary>
     public const string Imdb = "\uf2d8";
     /// <summary>
-    /// (Free) 
+    /// Innosoft (Free)
     /// </summary>
     public const string Innosoft = "\ue080";
     /// <summary>
-    /// (Free) 
+    /// Instagram (Free)
     /// </summary>
     public const string Instagram = "\uf16d";
     /// <summary>
-    /// (Free) 
+    /// Instagram Square (Free)
     /// </summary>
     public const string InstagramSquare = "\ue055";
     /// <summary>
-    /// (Free) 
+    /// InstaLOD (Free)
     /// </summary>
     public const string Instalod = "\ue081";
     /// <summary>
-    /// (Free) Keywords: app, customer, messenger
+    /// Intercom; Keywords: app, customer, messenger; Keywords: app, customer, messenger (Free)
     /// </summary>
     public const string Intercom = "\uf7af";
     /// <summary>
-    /// (Free) Keywords: browser, ie
+    /// Internet-explorer; Keywords: browser, ie; Keywords: browser, ie (Free)
     /// </summary>
     public const string InternetExplorer = "\uf26b";
     /// <summary>
-    /// (Free) Keywords: app, design, interface
+    /// InVision; Keywords: app, design, interface; Keywords: app, design, interface (Free)
     /// </summary>
     public const string Invision = "\uf7b0";
     /// <summary>
-    /// (Free) 
+    /// ioxhost (Free)
     /// </summary>
     public const string Ioxhost = "\uf208";
     /// <summary>
-    /// (Free) 
+    /// itch.io (Free)
     /// </summary>
     public const string ItchIo = "\uf83a";
     /// <summary>
-    /// (Free) 
+    /// iTunes (Free)
     /// </summary>
     public const string Itunes = "\uf3b4";
     /// <summary>
-    /// (Free) 
+    /// Itunes Note (Free)
     /// </summary>
     public const string ItunesNote = "\uf3b5";
     /// <summary>
-    /// (Free) 
+    /// Java (Free)
     /// </summary>
     public const string Java = "\uf4e4";
     /// <summary>
-    /// (Free) Keywords: star wars
+    /// Jedi Order; Keywords: star wars; Keywords: star wars (Free)
     /// </summary>
     public const string JediOrder = "\uf50e";
     /// <summary>
-    /// (Free) 
+    /// Jenkis (Free)
     /// </summary>
     public const string Jenkis = "\uf3b6";
     /// <summary>
-    /// (Free) Keywords: atlassian
+    /// Jira; Keywords: atlassian; Keywords: atlassian (Free)
     /// </summary>
     public const string Jira = "\uf7b1";
     /// <summary>
-    /// (Free) 
+    /// Joget (Free)
     /// </summary>
     public const string Joget = "\uf3b7";
     /// <summary>
-    /// (Free) 
+    /// Joomla Logo (Free)
     /// </summary>
     public const string JoomlaLogo = "\uf1aa";
     /// <summary>
-    /// (Free) 
+    /// JavaScript (JS) (Free)
     /// </summary>
     public const string JavascriptJs = "\uf3b8";
     /// <summary>
-    /// (Free) 
+    /// JavaScript (JS) Square (Free)
     /// </summary>
     public const string JavascriptJsSquare = "\uf3b9";
     /// <summary>
-    /// (Free) 
+    /// jsFiddle (Free)
     /// </summary>
     public const string Jsfiddle = "\uf1cc";
     /// <summary>
-    /// (Free) 
+    /// Kaggle (Free)
     /// </summary>
     public const string Kaggle = "\uf5fa";
     /// <summary>
-    /// (Free) 
+    /// Keybase (Free)
     /// </summary>
     public const string Keybase = "\uf4f5";
     /// <summary>
-    /// (Free) 
+    /// KeyCDN (Free)
     /// </summary>
     public const string Keycdn = "\uf3ba";
     /// <summary>
-    /// (Free) 
+    /// Kickstarter (Free)
     /// </summary>
     public const string Kickstarter = "\uf3bb";
     /// <summary>
-    /// (Free) 
+    /// Kickstarter K (Free)
     /// </summary>
     public const string KickstarterK = "\uf3bc";
     /// <summary>
-    /// (Free) 
+    /// KORVUE (Free)
     /// </summary>
     public const string Korvue = "\uf42f";
     /// <summary>
-    /// (Free) 
+    /// Laravel (Free)
     /// </summary>
     public const string Laravel = "\uf3bd";
     /// <summary>
-    /// (Free) 
+    /// last.fm (Free)
     /// </summary>
     public const string LastFm = "\uf202";
     /// <summary>
-    /// (Free) 
+    /// last.fm Square (Free)
     /// </summary>
     public const string LastFmSquare = "\uf203";
     /// <summary>
-    /// (Free) 
+    /// Leanpub (Free)
     /// </summary>
     public const string Leanpub = "\uf212";
     /// <summary>
-    /// (Free) 
+    /// Less (Free)
     /// </summary>
     public const string Less = "\uf41d";
     /// <summary>
-    /// (Free) 
+    /// Line (Free)
     /// </summary>
     public const string Line = "\uf3c0";
     /// <summary>
-    /// (Free) Keywords: linkedin-square
+    /// LinkedIn; Keywords: linkedin-square; Keywords: linkedin-square (Free)
     /// </summary>
     public const string Linkedin = "\uf08c";
     /// <summary>
-    /// (Free) Keywords: linkedin
+    /// LinkedIn In; Keywords: linkedin; Keywords: linkedin (Free)
     /// </summary>
     public const string LinkedinIn = "\uf0e1";
     /// <summary>
-    /// (Free) 
+    /// Linode (Free)
     /// </summary>
     public const string Linode = "\uf2b8";
     /// <summary>
-    /// (Free) Keywords: tux
+    /// Linux; Keywords: tux; Keywords: tux (Free)
     /// </summary>
     public const string Linux = "\uf17c";
     /// <summary>
-    /// (Free) 
+    /// lyft (Free)
     /// </summary>
     public const string Lyft = "\uf3c3";
     /// <summary>
-    /// (Free) 
+    /// Magento (Free)
     /// </summary>
     public const string Magento = "\uf3c4";
     /// <summary>
-    /// (Free) 
+    /// Mailchimp (Free)
     /// </summary>
     public const string Mailchimp = "\uf59e";
     /// <summary>
-    /// (Free) 
+    /// Mandalorian (Free)
     /// </summary>
     public const string Mandalorian = "\uf50f";
     /// <summary>
-    /// (Free) 
+    /// Markdown (Free)
     /// </summary>
     public const string Markdown = "\uf60f";
     /// <summary>
-    /// (Free) 
+    /// Mastodon (Free)
     /// </summary>
     public const string Mastodon = "\uf4f6";
     /// <summary>
-    /// (Free) 
+    /// MaxCDN (Free)
     /// </summary>
     public const string Maxcdn = "\uf136";
     /// <summary>
-    /// (Free) 
+    /// Material Design for Bootstrap (Free)
     /// </summary>
     public const string MaterialDesignForBootstrap = "\uf8ca";
     /// <summary>
-    /// (Free) 
+    /// MedApps (Free)
     /// </summary>
     public const string Medapps = "\uf3c6";
     /// <summary>
-    /// (Free) 
+    /// Medium (Free)
     /// </summary>
     public const string Medium = "\uf23a";
     /// <summary>
-    /// (Free) 
+    /// Medium M (Free)
     /// </summary>
     public const string MediumM = "\uf3c7";
     /// <summary>
-    /// (Free) 
+    /// MRT (Free)
     /// </summary>
     public const string Mrt = "\uf3c8";
     /// <summary>
-    /// (Free) 
+    /// Meetup (Free)
     /// </summary>
     public const string Meetup = "\uf2e0";
     /// <summary>
-    /// (Free) 
+    /// Megaport (Free)
     /// </summary>
     public const string Megaport = "\uf5a3";
     /// <summary>
-    /// (Free) 
+    /// Mendeley (Free)
     /// </summary>
     public const string Mendeley = "\uf7b3";
     /// <summary>
-    /// (Free) 
+    /// Micro.blog (Free)
     /// </summary>
     public const string MicroBlog = "\ue01a";
     /// <summary>
-    /// (Free) 
+    /// Microsoft (Free)
     /// </summary>
     public const string Microsoft = "\uf3ca";
     /// <summary>
-    /// (Free) 
+    /// Mix (Free)
     /// </summary>
     public const string Mix = "\uf3cb";
     /// <summary>
-    /// (Free) 
+    /// Mixcloud (Free)
     /// </summary>
     public const string Mixcloud = "\uf289";
     /// <summary>
-    /// (Free) 
+    /// Mixer (Free)
     /// </summary>
     public const string Mixer = "\ue056";
     /// <summary>
-    /// (Free) 
+    /// Mizuni (Free)
     /// </summary>
     public const string Mizuni = "\uf3cc";
     /// <summary>
-    /// (Free) 
+    /// MODX (Free)
     /// </summary>
     public const string Modx = "\uf285";
     /// <summary>
-    /// (Free) 
+    /// Monero (Free)
     /// </summary>
     public const string Monero = "\uf3d0";
     /// <summary>
-    /// (Free) 
+    /// Napster (Free)
     /// </summary>
     public const string Napster = "\uf3d2";
     /// <summary>
-    /// (Free) 
+    /// Neos (Free)
     /// </summary>
     public const string Neos = "\uf612";
     /// <summary>
-    /// (Free) 
+    /// Nimblr (Free)
     /// </summary>
     public const string Nimblr = "\uf5a8";
     /// <summary>
-    /// (Free) 
+    /// Node.js (Free)
     /// </summary>
     public const string NodeJs = "\uf419";
     /// <summary>
-    /// (Free) 
+    /// Node.js JS (Free)
     /// </summary>
     public const string NodeJsJs = "\uf3d3";
     /// <summary>
-    /// (Free) 
+    /// npm (Free)
     /// </summary>
     public const string Npm = "\uf3d4";
     /// <summary>
-    /// (Free) 
+    /// NS8 (Free)
     /// </summary>
     public const string Ns8 = "\uf3d5";
     /// <summary>
-    /// (Free) 
+    /// Nutritionix (Free)
     /// </summary>
     public const string Nutritionix = "\uf3d6";
     /// <summary>
-    /// (Free) 
+    /// Octopus Deploy (Free)
     /// </summary>
     public const string OctopusDeploy = "\ue082";
     /// <summary>
-    /// (Free) 
+    /// Odnoklassniki (Free)
     /// </summary>
     public const string Odnoklassniki = "\uf263";
     /// <summary>
-    /// (Free) 
+    /// Odnoklassniki Square (Free)
     /// </summary>
     public const string OdnoklassnikiSquare = "\uf264";
     /// <summary>
-    /// (Free) Keywords: politics, star wars
+    /// Old Republic; Keywords: politics, star wars; Keywords: politics, star wars (Free)
     /// </summary>
     public const string OldRepublic = "\uf510";
     /// <summary>
-    /// (Free) 
+    /// OpenCart (Free)
     /// </summary>
     public const string Opencart = "\uf23d";
     /// <summary>
-    /// (Free) 
+    /// OpenID (Free)
     /// </summary>
     public const string Openid = "\uf19b";
     /// <summary>
-    /// (Free) 
+    /// Opera (Free)
     /// </summary>
     public const string Opera = "\uf26a";
     /// <summary>
-    /// (Free) 
+    /// Optin Monster (Free)
     /// </summary>
     public const string OptinMonster = "\uf23c";
     /// <summary>
-    /// (Free) 
+    /// ORCID (Free)
     /// </summary>
     public const string Orcid = "\uf8d2";
     /// <summary>
-    /// (Free) 
+    /// Open Source Initiative (Free)
     /// </summary>
     public const string OpenSourceInitiative = "\uf41a";
     /// <summary>
-    /// (Free) 
+    /// page4 Corporation (Free)
     /// </summary>
     public const string Page4Corporation = "\uf3d7";
     /// <summary>
-    /// (Free) Keywords: eco, flora, leaf, leaves, nature, plant, tree
+    /// Pagelines; Keywords: eco, flora, leaf, leaves, nature, plant, tree; Keywords: eco, flora, leaf, leaves, nature, plant, tree (Free)
     /// </summary>
     public const string Pagelines = "\uf18c";
     /// <summary>
-    /// (Free) 
+    /// Palfed (Free)
     /// </summary>
     public const string Palfed = "\uf3d8";
     /// <summary>
-    /// (Free) 
+    /// Patreon (Free)
     /// </summary>
     public const string Patreon = "\uf3d9";
     /// <summary>
-    /// (Free) 
+    /// Paypal (Free)
     /// </summary>
     public const string Paypal = "\uf1ed";
     /// <summary>
-    /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, pax, tabletop
+    /// Penny Arcade; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, pax, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, pax, tabletop (Free)
     /// </summary>
     public const string PennyArcade = "\uf704";
     /// <summary>
-    /// (Free) 
+    /// PerByte (Free)
     /// </summary>
     public const string Perbyte = "\ue083";
     /// <summary>
-    /// (Free) 
+    /// Periscope (Free)
     /// </summary>
     public const string Periscope = "\uf3da";
     /// <summary>
-    /// (Free) 
+    /// Phabricator (Free)
     /// </summary>
     public const string Phabricator = "\uf3db";
     /// <summary>
-    /// (Free) 
+    /// Phoenix Framework (Free)
     /// </summary>
     public const string PhoenixFramework = "\uf3dc";
     /// <summary>
-    /// (Free) 
+    /// Phoenix Squadron (Free)
     /// </summary>
     public const string PhoenixSquadron = "\uf511";
     /// <summary>
-    /// (Free) 
+    /// PHP (Free)
     /// </summary>
     public const string Php = "\uf457";
     /// <summary>
-    /// (Free) 
+    /// Pied Piper Logo (Free)
     /// </summary>
     public const string PiedPiperLogo = "\uf2ae";
     /// <summary>
-    /// (Free) 
+    /// Alternate Pied Piper Logo (Old) (Free)
     /// </summary>
     public const string AlternatePiedPiperLogoOld = "\uf1a8";
     /// <summary>
-    /// (Free) Keywords: clothing
+    /// Pied Piper Hat (Old); Keywords: clothing; Keywords: clothing (Free)
     /// </summary>
     public const string PiedPiperHatOld = "\uf4e5";
     /// <summary>
-    /// (Free) 
+    /// Pied Piper PP Logo (Old) (Free)
     /// </summary>
     public const string PiedPiperPpLogoOld = "\uf1a7";
     /// <summary>
-    /// (Free) 
+    /// Pied Piper Square Logo (Old) (Free)
     /// </summary>
     public const string PiedPiperSquareLogoOld = "\ue01e";
     /// <summary>
-    /// (Free) 
+    /// Pinterest (Free)
     /// </summary>
     public const string Pinterest = "\uf0d2";
     /// <summary>
-    /// (Free) 
+    /// Pinterest P (Free)
     /// </summary>
     public const string PinterestP = "\uf231";
     /// <summary>
-    /// (Free) 
+    /// Pinterest Square (Free)
     /// </summary>
     public const string PinterestSquare = "\uf0d3";
     /// <summary>
-    /// (Free) 
+    /// PlayStation (Free)
     /// </summary>
     public const string Playstation = "\uf3df";
     /// <summary>
-    /// (Free) 
+    /// Product Hunt (Free)
     /// </summary>
     public const string ProductHunt = "\uf288";
     /// <summary>
-    /// (Free) 
+    /// Pushed (Free)
     /// </summary>
     public const string Pushed = "\uf3e1";
     /// <summary>
-    /// (Free) 
+    /// Python (Free)
     /// </summary>
     public const string Python = "\uf3e2";
     /// <summary>
-    /// (Free) 
+    /// QQ (Free)
     /// </summary>
     public const string Qq = "\uf1d6";
     /// <summary>
-    /// (Free) 
+    /// QuinScape (Free)
     /// </summary>
     public const string Quinscape = "\uf459";
     /// <summary>
-    /// (Free) 
+    /// Quora (Free)
     /// </summary>
     public const string Quora = "\uf2c4";
     /// <summary>
-    /// (Free) 
+    /// R Project (Free)
     /// </summary>
     public const string RProject = "\uf4f7";
     /// <summary>
-    /// (Free) 
+    /// Raspberry Pi (Free)
     /// </summary>
     public const string RaspberryPi = "\uf7bb";
     /// <summary>
-    /// (Free) 
+    /// Ravelry (Free)
     /// </summary>
     public const string Ravelry = "\uf2d9";
     /// <summary>
-    /// (Free) 
+    /// React (Free)
     /// </summary>
     public const string React = "\uf41b";
     /// <summary>
-    /// (Free) 
+    /// ReactEurope (Free)
     /// </summary>
     public const string Reacteurope = "\uf75d";
     /// <summary>
-    /// (Free) 
+    /// ReadMe (Free)
     /// </summary>
     public const string Readme = "\uf4d5";
     /// <summary>
-    /// (Free) 
+    /// Rebel Alliance (Free)
     /// </summary>
     public const string RebelAlliance = "\uf1d0";
     /// <summary>
-    /// (Free) 
+    /// red river (Free)
     /// </summary>
     public const string RedRiver = "\uf3e3";
     /// <summary>
-    /// (Free) 
+    /// reddit Logo (Free)
     /// </summary>
     public const string RedditLogo = "\uf1a1";
     /// <summary>
-    /// (Free) 
+    /// reddit Alien (Free)
     /// </summary>
     public const string RedditAlien = "\uf281";
     /// <summary>
-    /// (Free) 
+    /// reddit Square (Free)
     /// </summary>
     public const string RedditSquare = "\uf1a2";
     /// <summary>
-    /// (Free) Keywords: linux, operating system, os
+    /// Redhat; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     /// </summary>
     public const string Redhat = "\uf7bc";
     /// <summary>
-    /// (Free) 
+    /// Renren (Free)
     /// </summary>
     public const string Renren = "\uf18b";
     /// <summary>
-    /// (Free) 
+    /// replyd (Free)
     /// </summary>
     public const string Replyd = "\uf3e6";
     /// <summary>
-    /// (Free) 
+    /// Researchgate (Free)
     /// </summary>
     public const string Researchgate = "\uf4f8";
     /// <summary>
-    /// (Free) 
+    /// Resolving (Free)
     /// </summary>
     public const string Resolving = "\uf3e7";
     /// <summary>
-    /// (Free) 
+    /// Rev.io (Free)
     /// </summary>
     public const string RevIo = "\uf5b2";
     /// <summary>
-    /// (Free) 
+    /// Rocket.Chat (Free)
     /// </summary>
     public const string RocketChat = "\uf3e8";
     /// <summary>
-    /// (Free) 
+    /// Rockrms (Free)
     /// </summary>
     public const string Rockrms = "\uf3e9";
     /// <summary>
-    /// (Free) 
+    /// Rust (Free)
     /// </summary>
     public const string Rust = "\ue07a";
     /// <summary>
-    /// (Free) Keywords: browser
+    /// Safari; Keywords: browser; Keywords: browser (Free)
     /// </summary>
     public const string Safari = "\uf267";
     /// <summary>
-    /// (Free) 
+    /// Salesforce (Free)
     /// </summary>
     public const string Salesforce = "\uf83b";
     /// <summary>
-    /// (Free) 
+    /// Sass (Free)
     /// </summary>
     public const string Sass = "\uf41e";
     /// <summary>
-    /// (Free) 
+    /// SCHLIX (Free)
     /// </summary>
     public const string Schlix = "\uf3ea";
     /// <summary>
-    /// (Free) 
+    /// Scribd (Free)
     /// </summary>
     public const string Scribd = "\uf28a";
     /// <summary>
-    /// (Free) 
+    /// Searchengin (Free)
     /// </summary>
     public const string Searchengin = "\uf3eb";
     /// <summary>
-    /// (Free) Keywords: eercast
+    /// Sellcast; Keywords: eercast; Keywords: eercast (Free)
     /// </summary>
     public const string Sellcast = "\uf2da";
     /// <summary>
-    /// (Free) 
+    /// Sellsy (Free)
     /// </summary>
     public const string Sellsy = "\uf213";
     /// <summary>
-    /// (Free) 
+    /// Servicestack (Free)
     /// </summary>
     public const string Servicestack = "\uf3ec";
     /// <summary>
-    /// (Free) 
+    /// Shirts in Bulk (Free)
     /// </summary>
     public const string ShirtsInBulk = "\uf214";
     /// <summary>
-    /// (Free) 
+    /// Shopify (Free)
     /// </summary>
     public const string Shopify = "\ue057";
     /// <summary>
-    /// (Free) 
+    /// Shopware (Free)
     /// </summary>
     public const string Shopware = "\uf5b5";
     /// <summary>
-    /// (Free) 
+    /// SimplyBuilt (Free)
     /// </summary>
     public const string Simplybuilt = "\uf215";
     /// <summary>
-    /// (Free) 
+    /// SISTRIX (Free)
     /// </summary>
     public const string Sistrix = "\uf3ee";
     /// <summary>
-    /// (Free) 
+    /// Sith (Free)
     /// </summary>
     public const string Sith = "\uf512";
     /// <summary>
-    /// (Free) Keywords: app, design, interface
+    /// Sketch; Keywords: app, design, interface; Keywords: app, design, interface (Free)
     /// </summary>
     public const string Sketch = "\uf7c6";
     /// <summary>
-    /// (Free) 
+    /// skyatlas (Free)
     /// </summary>
     public const string Skyatlas = "\uf216";
     /// <summary>
-    /// (Free) 
+    /// Skype (Free)
     /// </summary>
     public const string Skype = "\uf17e";
     /// <summary>
-    /// (Free) Keywords: anchor, hash, hashtag
+    /// Slack Logo; Keywords: anchor, hash, hashtag; Keywords: anchor, hash, hashtag (Free)
     /// </summary>
     public const string SlackLogo = "\uf198";
     /// <summary>
-    /// (Free) Keywords: anchor, hash, hashtag
+    /// Slack Hashtag; Keywords: anchor, hash, hashtag; Keywords: anchor, hash, hashtag (Free)
     /// </summary>
     public const string SlackHashtag = "\uf3ef";
     /// <summary>
-    /// (Free) 
+    /// Slideshare (Free)
     /// </summary>
     public const string Slideshare = "\uf1e7";
     /// <summary>
-    /// (Free) 
+    /// Snapchat (Free)
     /// </summary>
     public const string Snapchat = "\uf2ab";
     /// <summary>
-    /// (Free) 
+    /// Snapchat Ghost (Free)
     /// </summary>
     public const string SnapchatGhost = "\uf2ac";
     /// <summary>
-    /// (Free) 
+    /// Snapchat Square (Free)
     /// </summary>
     public const string SnapchatSquare = "\uf2ad";
     /// <summary>
-    /// (Free) 
+    /// SoundCloud (Free)
     /// </summary>
     public const string Soundcloud = "\uf1be";
     /// <summary>
-    /// (Free) 
+    /// Sourcetree (Free)
     /// </summary>
     public const string Sourcetree = "\uf7d3";
     /// <summary>
-    /// (Free) 
+    /// Speakap (Free)
     /// </summary>
     public const string Speakap = "\uf3f3";
     /// <summary>
-    /// (Free) 
+    /// Speaker Deck (Free)
     /// </summary>
     public const string SpeakerDeck = "\uf83c";
     /// <summary>
-    /// (Free) 
+    /// Spotify (Free)
     /// </summary>
     public const string Spotify = "\uf1bc";
     /// <summary>
-    /// (Free) 
+    /// Squarespace (Free)
     /// </summary>
     public const string Squarespace = "\uf5be";
     /// <summary>
-    /// (Free) 
+    /// Stack Exchange (Free)
     /// </summary>
     public const string StackExchange = "\uf18d";
     /// <summary>
-    /// (Free) 
+    /// Stack Overflow (Free)
     /// </summary>
     public const string StackOverflow = "\uf16c";
     /// <summary>
-    /// (Free) 
+    /// Stackpath (Free)
     /// </summary>
     public const string Stackpath = "\uf842";
     /// <summary>
-    /// (Free) 
+    /// StayLinked (Free)
     /// </summary>
     public const string Staylinked = "\uf3f5";
     /// <summary>
-    /// (Free) 
+    /// Steam (Free)
     /// </summary>
     public const string Steam = "\uf1b6";
     /// <summary>
-    /// (Free) 
+    /// Steam Square (Free)
     /// </summary>
     public const string SteamSquare = "\uf1b7";
     /// <summary>
-    /// (Free) 
+    /// Steam Symbol (Free)
     /// </summary>
     public const string SteamSymbol = "\uf3f6";
     /// <summary>
-    /// (Free) 
+    /// Sticker Mule (Free)
     /// </summary>
     public const string StickerMule = "\uf3f7";
     /// <summary>
-    /// (Free) 
+    /// Strava (Free)
     /// </summary>
     public const string Strava = "\uf428";
     /// <summary>
-    /// (Free) 
+    /// Stripe (Free)
     /// </summary>
     public const string Stripe = "\uf429";
     /// <summary>
-    /// (Free) 
+    /// Stripe S (Free)
     /// </summary>
     public const string StripeS = "\uf42a";
     /// <summary>
-    /// (Free) 
+    /// Studio Vinari (Free)
     /// </summary>
     public const string StudioVinari = "\uf3f8";
     /// <summary>
-    /// (Free) 
+    /// StumbleUpon Logo (Free)
     /// </summary>
     public const string StumbleuponLogo = "\uf1a4";
     /// <summary>
-    /// (Free) 
+    /// StumbleUpon Circle (Free)
     /// </summary>
     public const string StumbleuponCircle = "\uf1a3";
     /// <summary>
-    /// (Free) 
+    /// Superpowers (Free)
     /// </summary>
     public const string Superpowers = "\uf2dd";
     /// <summary>
-    /// (Free) 
+    /// Supple (Free)
     /// </summary>
     public const string Supple = "\uf3f9";
     /// <summary>
-    /// (Free) Keywords: linux, operating system, os
+    /// Suse; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     /// </summary>
     public const string Suse = "\uf7d6";
     /// <summary>
-    /// (Free) 
+    /// Swift (Free)
     /// </summary>
     public const string Swift = "\uf8e1";
     /// <summary>
-    /// (Free) 
+    /// Symfony (Free)
     /// </summary>
     public const string Symfony = "\uf83d";
     /// <summary>
-    /// (Free) 
+    /// TeamSpeak (Free)
     /// </summary>
     public const string Teamspeak = "\uf4f9";
     /// <summary>
-    /// (Free) 
+    /// Telegram (Free)
     /// </summary>
     public const string Telegram = "\uf2c6";
     /// <summary>
-    /// (Free) 
+    /// Telegram Plane (Free)
     /// </summary>
     public const string TelegramPlane = "\uf3fe";
     /// <summary>
-    /// (Free) 
+    /// Tencent Weibo (Free)
     /// </summary>
     public const string TencentWeibo = "\uf1d5";
     /// <summary>
-    /// (Free) 
+    /// The Red Yeti (Free)
     /// </summary>
     public const string TheRedYeti = "\uf69d";
     /// <summary>
-    /// (Free) 
+    /// Themeco (Free)
     /// </summary>
     public const string Themeco = "\uf5c6";
     /// <summary>
-    /// (Free) 
+    /// ThemeIsle (Free)
     /// </summary>
     public const string Themeisle = "\uf2b2";
     /// <summary>
-    /// (Free) 
+    /// Think Peaks (Free)
     /// </summary>
     public const string ThinkPeaks = "\uf731";
     /// <summary>
-    /// (Free) 
+    /// TikTok (Free)
     /// </summary>
     public const string Tiktok = "\ue07b";
     /// <summary>
-    /// (Free) 
+    /// Trade Federation (Free)
     /// </summary>
     public const string TradeFederation = "\uf513";
     /// <summary>
-    /// (Free) Keywords: atlassian
+    /// Trello; Keywords: atlassian; Keywords: atlassian (Free)
     /// </summary>
     public const string Trello = "\uf181";
     /// <summary>
-    /// (Free) 
+    /// Tumblr (Free)
     /// </summary>
     public const string Tumblr = "\uf173";
     /// <summary>
-    /// (Free) 
+    /// Tumblr Square (Free)
     /// </summary>
     public const string TumblrSquare = "\uf174";
     /// <summary>
-    /// (Free) 
+    /// Twitch (Free)
     /// </summary>
     public const string Twitch = "\uf1e8";
     /// <summary>
-    /// (Free) Keywords: social network, tweet
+    /// Twitter; Keywords: social network, tweet; Keywords: social network, tweet (Free)
     /// </summary>
     public const string Twitter = "\uf099";
     /// <summary>
-    /// (Free) Keywords: social network, tweet
+    /// Twitter Square; Keywords: social network, tweet; Keywords: social network, tweet (Free)
     /// </summary>
     public const string TwitterSquare = "\uf081";
     /// <summary>
-    /// (Free) 
+    /// Typo3 (Free)
     /// </summary>
     public const string Typo3 = "\uf42b";
     /// <summary>
-    /// (Free) 
+    /// Uber (Free)
     /// </summary>
     public const string Uber = "\uf402";
     /// <summary>
-    /// (Free) Keywords: linux, operating system, os
+    /// Ubuntu; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     /// </summary>
     public const string Ubuntu = "\uf7df";
     /// <summary>
-    /// (Free) 
+    /// UIkit (Free)
     /// </summary>
     public const string Uikit = "\uf403";
     /// <summary>
-    /// (Free) 
+    /// Umbraco (Free)
     /// </summary>
     public const string Umbraco = "\uf8e8";
     /// <summary>
-    /// (Free) 
+    /// Uncharted Software (Free)
     /// </summary>
     public const string UnchartedSoftware = "\ue084";
     /// <summary>
-    /// (Free) 
+    /// Uniregistry (Free)
     /// </summary>
     public const string Uniregistry = "\uf404";
     /// <summary>
-    /// (Free) 
+    /// Unity 3D (Free)
     /// </summary>
     public const string Unity3d = "\ue049";
     /// <summary>
-    /// (Free) 
+    /// Unsplash (Free)
     /// </summary>
     public const string Unsplash = "\ue07c";
     /// <summary>
-    /// (Free) 
+    /// Untappd (Free)
     /// </summary>
     public const string Untappd = "\uf405";
     /// <summary>
-    /// (Free) Keywords: United Parcel Service, package, shipping
+    /// UPS; Keywords: United Parcel Service, package, shipping; Keywords: United Parcel Service, package, shipping (Free)
     /// </summary>
     public const string Ups = "\uf7e0";
     /// <summary>
-    /// (Free) 
+    /// USB (Free)
     /// </summary>
     public const string Usb = "\uf287";
     /// <summary>
-    /// (Free) Keywords: american, package, shipping, usa
+    /// United States Postal Service; Keywords: american, package, shipping, usa; Keywords: american, package, shipping, usa (Free)
     /// </summary>
     public const string UnitedStatesPostalService = "\uf7e1";
     /// <summary>
-    /// (Free) 
+    /// us-Sunnah Foundation (Free)
     /// </summary>
     public const string UsSunnahFoundation = "\uf407";
     /// <summary>
-    /// (Free) 
+    /// Vaadin (Free)
     /// </summary>
     public const string Vaadin = "\uf408";
     /// <summary>
-    /// (Free) 
+    /// Viacoin (Free)
     /// </summary>
     public const string Viacoin = "\uf237";
     /// <summary>
-    /// (Free) 
+    /// Viadeo (Free)
     /// </summary>
     public const string Viadeo = "\uf2a9";
     /// <summary>
-    /// (Free) 
+    /// Viadeo Square (Free)
     /// </summary>
     public const string ViadeoSquare = "\uf2aa";
     /// <summary>
-    /// (Free) 
+    /// Viber (Free)
     /// </summary>
     public const string Viber = "\uf409";
     /// <summary>
-    /// (Free) 
+    /// Vimeo (Free)
     /// </summary>
     public const string Vimeo = "\uf40a";
     /// <summary>
-    /// (Free) 
+    /// Vimeo Square (Free)
     /// </summary>
     public const string VimeoSquare = "\uf194";
     /// <summary>
-    /// (Free) Keywords: vimeo
+    /// Vimeo (vimeo-v); Keywords: vimeo; Keywords: vimeo (Free)
     /// </summary>
     public const string VimeoV = "\uf27d";
     /// <summary>
-    /// (Free) 
+    /// Vine (Free)
     /// </summary>
     public const string Vine = "\uf1ca";
     /// <summary>
-    /// (Free) 
+    /// VK (Free)
     /// </summary>
     public const string Vk = "\uf189";
     /// <summary>
-    /// (Free) 
+    /// VNV (Free)
     /// </summary>
     public const string Vnv = "\uf40b";
     /// <summary>
-    /// (Free) 
+    /// Vue.js (Free)
     /// </summary>
     public const string VueJs = "\uf41f";
     /// <summary>
-    /// (Free) 
+    /// Watchman Monitoring (Free)
     /// </summary>
     public const string WatchmanMonitoring = "\ue087";
     /// <summary>
-    /// (Free) 
+    /// Waze (Free)
     /// </summary>
     public const string Waze = "\uf83f";
     /// <summary>
-    /// (Free) 
+    /// Weebly (Free)
     /// </summary>
     public const string Weebly = "\uf5cc";
     /// <summary>
-    /// (Free) 
+    /// Weibo (Free)
     /// </summary>
     public const string Weibo = "\uf18a";
     /// <summary>
-    /// (Free) 
+    /// Weixin (WeChat) (Free)
     /// </summary>
     public const string WeixinWechat = "\uf1d7";
     /// <summary>
-    /// (Free) 
+    /// What's App (Free)
     /// </summary>
     public const string WhatSApp = "\uf232";
     /// <summary>
-    /// (Free) 
+    /// What's App Square (Free)
     /// </summary>
     public const string WhatSAppSquare = "\uf40c";
     /// <summary>
-    /// (Free) 
+    /// WHMCS (Free)
     /// </summary>
     public const string Whmcs = "\uf40d";
     /// <summary>
-    /// (Free) 
+    /// Wikipedia W (Free)
     /// </summary>
     public const string WikipediaW = "\uf266";
     /// <summary>
-    /// (Free) Keywords: microsoft, operating system, os
+    /// Windows; Keywords: microsoft, operating system, os; Keywords: microsoft, operating system, os (Free)
     /// </summary>
     public const string Windows = "\uf17a";
     /// <summary>
-    /// (Free) 
+    /// Wix (Free)
     /// </summary>
     public const string Wix = "\uf5cf";
     /// <summary>
-    /// (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    /// Wizards of the Coast; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     /// </summary>
     public const string WizardsOfTheCoast = "\uf730";
     /// <summary>
-    /// (Free) 
+    /// Wodu (Free)
     /// </summary>
     public const string Wodu = "\ue088";
     /// <summary>
-    /// (Free) 
+    /// Wolf Pack Battalion (Free)
     /// </summary>
     public const string WolfPackBattalion = "\uf514";
     /// <summary>
-    /// (Free) 
+    /// WordPress Logo (Free)
     /// </summary>
     public const string WordpressLogo = "\uf19a";
     /// <summary>
-    /// (Free) 
+    /// Wordpress Simple (Free)
     /// </summary>
     public const string WordpressSimple = "\uf411";
     /// <summary>
-    /// (Free) 
+    /// WPBeginner (Free)
     /// </summary>
     public const string Wpbeginner = "\uf297";
     /// <summary>
-    /// (Free) 
+    /// WPExplorer (Free)
     /// </summary>
     public const string Wpexplorer = "\uf2de";
     /// <summary>
-    /// (Free) 
+    /// WPForms (Free)
     /// </summary>
     public const string Wpforms = "\uf298";
     /// <summary>
-    /// (Free) Keywords: rendact
+    /// wpressr; Keywords: rendact; Keywords: rendact (Free)
     /// </summary>
     public const string Wpressr = "\uf3e4";
     /// <summary>
-    /// (Free) 
+    /// Xbox (Free)
     /// </summary>
     public const string Xbox = "\uf412";
     /// <summary>
-    /// (Free) 
+    /// Xing (Free)
     /// </summary>
     public const string Xing = "\uf168";
     /// <summary>
-    /// (Free) 
+    /// Xing Square (Free)
     /// </summary>
     public const string XingSquare = "\uf169";
     /// <summary>
-    /// (Free) 
+    /// Y Combinator (Free)
     /// </summary>
     public const string YCombinator = "\uf23b";
     /// <summary>
-    /// (Free) 
+    /// Yahoo Logo (Free)
     /// </summary>
     public const string YahooLogo = "\uf19e";
     /// <summary>
-    /// (Free) 
+    /// Yammer (Free)
     /// </summary>
     public const string Yammer = "\uf840";
     /// <summary>
-    /// (Free) 
+    /// Yandex (Free)
     /// </summary>
     public const string Yandex = "\uf413";
     /// <summary>
-    /// (Free) 
+    /// Yandex International (Free)
     /// </summary>
     public const string YandexInternational = "\uf414";
     /// <summary>
-    /// (Free) 
+    /// Yarn (Free)
     /// </summary>
     public const string Yarn = "\uf7e3";
     /// <summary>
-    /// (Free) 
+    /// Yelp (Free)
     /// </summary>
     public const string Yelp = "\uf1e9";
     /// <summary>
-    /// (Free) 
+    /// Yoast (Free)
     /// </summary>
     public const string Yoast = "\uf2b1";
     /// <summary>
-    /// (Free) Keywords: film, video, youtube-play, youtube-square
+    /// YouTube; Keywords: film, video, youtube-play, youtube-square; Keywords: film, video, youtube-play, youtube-square (Free)
     /// </summary>
     public const string Youtube = "\uf167";
     /// <summary>
-    /// (Free) 
+    /// YouTube Square (Free)
     /// </summary>
     public const string YoutubeSquare = "\uf431";
     /// <summary>
-    /// (Free) 
+    /// Zhihu (Free)
     /// </summary>
     public const string Zhihu = "\uf63f";
 }

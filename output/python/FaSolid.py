@@ -1,4009 +1,4009 @@
 class FaSolid:
     """
-    (Free) Keywords: advertisement, media, newspaper, promotion, publicity
+    Ad; Keywords: advertisement, media, newspaper, promotion, publicity; Keywords: advertisement, media, newspaper, promotion, publicity (Free)
     """
     ad = "\uf641";
     """
-    (Free) Keywords: contact, directory, index, little black book, rolodex
+    Address Book; Keywords: contact, directory, index, little black book, rolodex; Keywords: contact, directory, index, little black book, rolodex (Free)
     """
     address_book = "\uf2b9";
     """
-    (Free) Keywords: about, contact, id, identification, postcard, profile
+    Address Card; Keywords: about, contact, id, identification, postcard, profile; Keywords: about, contact, id, identification, postcard, profile (Free)
     """
     address_card = "\uf2bb";
     """
-    (Free) Keywords: contrast, dark, light, saturation
+    adjust; Keywords: contrast, dark, light, saturation; Keywords: contrast, dark, light, saturation (Free)
     """
     adjust = "\uf042";
     """
-    (Free) Keywords: car, deodorize, fresh, pine, scent
+    Air Freshener; Keywords: car, deodorize, fresh, pine, scent; Keywords: car, deodorize, fresh, pine, scent (Free)
     """
     air_freshener = "\uf5d0";
     """
-    (Free) Keywords: format, middle, paragraph, text
+    align-center; Keywords: format, middle, paragraph, text; Keywords: format, middle, paragraph, text (Free)
     """
     align_center = "\uf037";
     """
-    (Free) Keywords: format, paragraph, text
+    align-justify; Keywords: format, paragraph, text; Keywords: format, paragraph, text (Free)
     """
     align_justify = "\uf039";
     """
-    (Free) Keywords: format, paragraph, text
+    align-left; Keywords: format, paragraph, text; Keywords: format, paragraph, text (Free)
     """
     align_left = "\uf036";
     """
-    (Free) Keywords: format, paragraph, text
+    align-right; Keywords: format, paragraph, text; Keywords: format, paragraph, text (Free)
     """
     align_right = "\uf038";
     """
-    (Free) Keywords: allergy, freckles, hand, hives, pox, skin, spots
+    Allergies; Keywords: allergy, freckles, hand, hives, pox, skin, spots; Keywords: allergy, freckles, hand, hives, pox, skin, spots (Free)
     """
     allergies = "\uf461";
     """
-    (Free) Keywords: covid-19, emergency, emt, er, help, hospital, support, vehicle
+    ambulance; Keywords: covid-19, emergency, emt, er, help, hospital, support, vehicle; Keywords: covid-19, emergency, emt, er, help, hospital, support, vehicle (Free)
     """
     ambulance = "\uf0f9";
     """
-    (Free) Keywords: asl, deaf, finger, hand, interpret, speak
+    American Sign Language Interpreting; Keywords: asl, deaf, finger, hand, interpret, speak; Keywords: asl, deaf, finger, hand, interpret, speak (Free)
     """
     american_sign_language_interpreting = "\uf2a3";
     """
-    (Free) Keywords: berth, boat, dock, embed, link, maritime, moor, secure
+    Anchor; Keywords: berth, boat, dock, embed, link, maritime, moor, secure; Keywords: berth, boat, dock, embed, link, maritime, moor, secure (Free)
     """
     anchor = "\uf13d";
     """
-    (Free) Keywords: arrows, caret, download, expand
+    Angle Double Down; Keywords: arrows, caret, download, expand; Keywords: arrows, caret, download, expand (Free)
     """
     angle_double_down = "\uf103";
     """
-    (Free) Keywords: arrows, back, caret, laquo, previous, quote
+    Angle Double Left; Keywords: arrows, back, caret, laquo, previous, quote; Keywords: arrows, back, caret, laquo, previous, quote (Free)
     """
     angle_double_left = "\uf100";
     """
-    (Free) Keywords: arrows, caret, forward, more, next, quote, raquo
+    Angle Double Right; Keywords: arrows, caret, forward, more, next, quote, raquo; Keywords: arrows, caret, forward, more, next, quote, raquo (Free)
     """
     angle_double_right = "\uf101";
     """
-    (Free) Keywords: arrows, caret, collapse, upload
+    Angle Double Up; Keywords: arrows, caret, collapse, upload; Keywords: arrows, caret, collapse, upload (Free)
     """
     angle_double_up = "\uf102";
     """
-    (Free) Keywords: arrow, caret, download, expand
+    angle-down; Keywords: arrow, caret, download, expand; Keywords: arrow, caret, download, expand (Free)
     """
     angle_down = "\uf107";
     """
-    (Free) Keywords: arrow, back, caret, less, previous
+    angle-left; Keywords: arrow, back, caret, less, previous; Keywords: arrow, back, caret, less, previous (Free)
     """
     angle_left = "\uf104";
     """
-    (Free) Keywords: arrow, care, forward, more, next
+    angle-right; Keywords: arrow, care, forward, more, next; Keywords: arrow, care, forward, more, next (Free)
     """
     angle_right = "\uf105";
     """
-    (Free) Keywords: arrow, caret, collapse, upload
+    angle-up; Keywords: arrow, caret, collapse, upload; Keywords: arrow, caret, collapse, upload (Free)
     """
     angle_up = "\uf106";
     """
-    (Free) Keywords: disapprove, emoticon, face, mad, upset
+    Angry Face; Keywords: disapprove, emoticon, face, mad, upset; Keywords: disapprove, emoticon, face, mad, upset (Free)
     """
     angry_face = "\uf556";
     """
-    (Free) Keywords: amulet, copper, coptic christianity, copts, crux ansata, egypt, venus
+    Ankh; Keywords: amulet, copper, coptic christianity, copts, crux ansata, egypt, venus; Keywords: amulet, copper, coptic christianity, copts, crux ansata, egypt, venus (Free)
     """
     ankh = "\uf644";
     """
-    (Free) Keywords: fall, fruit, fuji, macintosh, orchard, seasonal, vegan
+    Fruit Apple; Keywords: fall, fruit, fuji, macintosh, orchard, seasonal, vegan; Keywords: fall, fruit, fuji, macintosh, orchard, seasonal, vegan (Free)
     """
     fruit_apple = "\uf5d1";
     """
-    (Free) Keywords: box, package, save, storage
+    Archive; Keywords: box, package, save, storage; Keywords: box, package, save, storage (Free)
     """
     archive = "\uf187";
     """
-    (Free) Keywords: arc, monument, road, street, tunnel
+    Archway; Keywords: arc, monument, road, street, tunnel; Keywords: arc, monument, road, street, tunnel (Free)
     """
     archway = "\uf557";
     """
-    (Free) Keywords: arrow-circle-o-down, download
+    Alternate Arrow Circle Down; Keywords: arrow-circle-o-down, download; Keywords: arrow-circle-o-down, download (Free)
     """
     alternate_arrow_circle_down = "\uf358";
     """
-    (Free) Keywords: arrow-circle-o-left, back, previous
+    Alternate Arrow Circle Left; Keywords: arrow-circle-o-left, back, previous; Keywords: arrow-circle-o-left, back, previous (Free)
     """
     alternate_arrow_circle_left = "\uf359";
     """
-    (Free) Keywords: arrow-circle-o-right, forward, next
+    Alternate Arrow Circle Right; Keywords: arrow-circle-o-right, forward, next; Keywords: arrow-circle-o-right, forward, next (Free)
     """
     alternate_arrow_circle_right = "\uf35a";
     """
-    (Free) Keywords: arrow-circle-o-up
+    Alternate Arrow Circle Up; Keywords: arrow-circle-o-up; Keywords: arrow-circle-o-up (Free)
     """
     alternate_arrow_circle_up = "\uf35b";
     """
-    (Free) Keywords: download
+    Arrow Circle Down; Keywords: download; Keywords: download (Free)
     """
     arrow_circle_down = "\uf0ab";
     """
-    (Free) Keywords: back, previous
+    Arrow Circle Left; Keywords: back, previous; Keywords: back, previous (Free)
     """
     arrow_circle_left = "\uf0a8";
     """
-    (Free) Keywords: forward, next
+    Arrow Circle Right; Keywords: forward, next; Keywords: forward, next (Free)
     """
     arrow_circle_right = "\uf0a9";
     """
-    (Free) Keywords: upload
+    Arrow Circle Up; Keywords: upload; Keywords: upload (Free)
     """
     arrow_circle_up = "\uf0aa";
     """
-    (Free) Keywords: download
+    arrow-down; Keywords: download; Keywords: download (Free)
     """
     arrow_down = "\uf063";
     """
-    (Free) Keywords: back, previous
+    arrow-left; Keywords: back, previous; Keywords: back, previous (Free)
     """
     arrow_left = "\uf060";
     """
-    (Free) Keywords: forward, next
+    arrow-right; Keywords: forward, next; Keywords: forward, next (Free)
     """
     arrow_right = "\uf061";
     """
-    (Free) Keywords: forward, upload
+    arrow-up; Keywords: forward, upload; Keywords: forward, upload (Free)
     """
     arrow_up = "\uf062";
     """
-    (Free) Keywords: arrow, arrows, bigger, enlarge, expand, fullscreen, move, position, reorder, resize
+    Alternate Arrows; Keywords: arrow, arrows, bigger, enlarge, expand, fullscreen, move, position, reorder, resize; Keywords: arrow, arrows, bigger, enlarge, expand, fullscreen, move, position, reorder, resize (Free)
     """
     alternate_arrows = "\uf0b2";
     """
-    (Free) Keywords: arrows-h, expand, horizontal, landscape, resize, wide
+    Alternate Arrows Horizontal; Keywords: arrows-h, expand, horizontal, landscape, resize, wide; Keywords: arrows-h, expand, horizontal, landscape, resize, wide (Free)
     """
     alternate_arrows_horizontal = "\uf337";
     """
-    (Free) Keywords: arrows-v, expand, portrait, resize, tall, vertical
+    Alternate Arrows Vertical; Keywords: arrows-v, expand, portrait, resize, tall, vertical; Keywords: arrows-v, expand, portrait, resize, tall, vertical (Free)
     """
     alternate_arrows_vertical = "\uf338";
     """
-    (Free) Keywords: amplify, audio, deaf, ear, headset, hearing, sound
+    Assistive Listening Systems; Keywords: amplify, audio, deaf, ear, headset, hearing, sound; Keywords: amplify, audio, deaf, ear, headset, hearing, sound (Free)
     """
     assistive_listening_systems = "\uf2a2";
     """
-    (Free) Keywords: annotation, details, reference, star
+    asterisk; Keywords: annotation, details, reference, star; Keywords: annotation, details, reference, star (Free)
     """
     asterisk = "\uf069";
     """
-    (Free) Keywords: address, author, e-mail, email, handle
+    At; Keywords: address, author, e-mail, email, handle; Keywords: address, author, e-mail, email, handle (Free)
     """
     at = "\uf1fa";
     """
-    (Free) Keywords: book, directions, geography, globe, map, travel, wayfinding
+    Atlas; Keywords: book, directions, geography, globe, map, travel, wayfinding; Keywords: book, directions, geography, globe, map, travel, wayfinding (Free)
     """
     atlas = "\uf558";
     """
-    (Free) Keywords: atheism, chemistry, electron, ion, isotope, neutron, nuclear, proton, science
+    Atom; Keywords: atheism, chemistry, electron, ion, isotope, neutron, nuclear, proton, science; Keywords: atheism, chemistry, electron, ion, isotope, neutron, nuclear, proton, science (Free)
     """
     atom = "\uf5d2";
     """
-    (Free) Keywords: blind, narration, video, visual
+    Audio Description; Keywords: blind, narration, video, visual; Keywords: blind, narration, video, visual (Free)
     """
     audio_description = "\uf29e";
     """
-    (Free) Keywords: honor, praise, prize, recognition, ribbon, trophy
+    Award; Keywords: honor, praise, prize, recognition, ribbon, trophy; Keywords: honor, praise, prize, recognition, ribbon, trophy (Free)
     """
     award = "\uf559";
     """
-    (Free) Keywords: child, diaper, doll, human, infant, kid, offspring, person, sprout
+    Baby; Keywords: child, diaper, doll, human, infant, kid, offspring, person, sprout; Keywords: child, diaper, doll, human, infant, kid, offspring, person, sprout (Free)
     """
     baby = "\uf77c";
     """
-    (Free) Keywords: buggy, carrier, infant, push, stroller, transportation, walk, wheels
+    Baby Carriage; Keywords: buggy, carrier, infant, push, stroller, transportation, walk, wheels; Keywords: buggy, carrier, infant, push, stroller, transportation, walk, wheels (Free)
     """
     baby_carriage = "\uf77d";
     """
-    (Free) Keywords: command, delete, erase, keyboard, undo
+    Backspace; Keywords: command, delete, erase, keyboard, undo; Keywords: command, delete, erase, keyboard, undo (Free)
     """
     backspace = "\uf55a";
     """
-    (Free) Keywords: previous, rewind
+    backward; Keywords: previous, rewind; Keywords: previous, rewind (Free)
     """
     backward = "\uf04a";
     """
-    (Free) Keywords: blt, breakfast, ham, lard, meat, pancetta, pork, rasher
+    Bacon; Keywords: blt, breakfast, ham, lard, meat, pancetta, pork, rasher; Keywords: blt, breakfast, ham, lard, meat, pancetta, pork, rasher (Free)
     """
     bacon = "\uf7e5";
     """
-    (Free) Keywords: antibiotic, antibody, covid-19, health, organism, sick
+    Bacteria; Keywords: antibiotic, antibody, covid-19, health, organism, sick; Keywords: antibiotic, antibody, covid-19, health, organism, sick (Free)
     """
     bacteria = "\ue059";
     """
-    (Free) Keywords: antibiotic, antibody, covid-19, health, organism, sick
+    Bacterium; Keywords: antibiotic, antibody, covid-19, health, organism, sick; Keywords: antibiotic, antibody, covid-19, health, organism, sick (Free)
     """
     bacterium = "\ue05a";
     """
-    (Free) Keywords: bahai, bahá'í, star
+    Bahá'í; Keywords: bahai, bahá'í, star; Keywords: bahai, bahá'í, star (Free)
     """
     bahá_í = "\uf666";
     """
-    (Free) Keywords: balanced, justice, legal, measure, weight
+    Balance Scale; Keywords: balanced, justice, legal, measure, weight; Keywords: balanced, justice, legal, measure, weight (Free)
     """
     balance_scale = "\uf24e";
     """
-    (Free) Keywords: justice, legal, measure, unbalanced, weight
+    Balance Scale (Left-Weighted); Keywords: justice, legal, measure, unbalanced, weight; Keywords: justice, legal, measure, unbalanced, weight (Free)
     """
     balance_scale_left_weighted = "\uf515";
     """
-    (Free) Keywords: justice, legal, measure, unbalanced, weight
+    Balance Scale (Right-Weighted); Keywords: justice, legal, measure, unbalanced, weight; Keywords: justice, legal, measure, unbalanced, weight (Free)
     """
     balance_scale_right_weighted = "\uf516";
     """
-    (Free) Keywords: abort, ban, block, cancel, delete, hide, prohibit, remove, stop, trash
+    ban; Keywords: abort, ban, block, cancel, delete, hide, prohibit, remove, stop, trash; Keywords: abort, ban, block, cancel, delete, hide, prohibit, remove, stop, trash (Free)
     """
     ban = "\uf05e";
     """
-    (Free) Keywords: bandage, boo boo, first aid, ouch
+    Band-Aid; Keywords: bandage, boo boo, first aid, ouch; Keywords: bandage, boo boo, first aid, ouch (Free)
     """
     band_aid = "\uf462";
     """
-    (Free) Keywords: info, laser, price, scan, upc
+    barcode; Keywords: info, laser, price, scan, upc; Keywords: info, laser, price, scan, upc (Free)
     """
     barcode = "\uf02a";
     """
-    (Free) Keywords: checklist, drag, hamburger, list, menu, nav, navigation, ol, reorder, settings, todo, ul
+    Bars; Keywords: checklist, drag, hamburger, list, menu, nav, navigation, ol, reorder, settings, todo, ul; Keywords: checklist, drag, hamburger, list, menu, nav, navigation, ol, reorder, settings, todo, ul (Free)
     """
     bars = "\uf0c9";
     """
-    (Free) Keywords: foul, hardball, league, leather, mlb, softball, sport
+    Baseball Ball; Keywords: foul, hardball, league, leather, mlb, softball, sport; Keywords: foul, hardball, league, leather, mlb, softball, sport (Free)
     """
     baseball_ball = "\uf433";
     """
-    (Free) Keywords: dribble, dunk, hoop, nba
+    Basketball Ball; Keywords: dribble, dunk, hoop, nba; Keywords: dribble, dunk, hoop, nba (Free)
     """
     basketball_ball = "\uf434";
     """
-    (Free) Keywords: clean, shower, tub, wash
+    Bath; Keywords: clean, shower, tub, wash; Keywords: clean, shower, tub, wash (Free)
     """
     bath = "\uf2cd";
     """
-    (Free) Keywords: charge, dead, power, status
+    Battery Empty; Keywords: charge, dead, power, status; Keywords: charge, dead, power, status (Free)
     """
     battery_empty = "\uf244";
     """
-    (Free) Keywords: charge, power, status
+    Battery Full; Keywords: charge, power, status; Keywords: charge, power, status (Free)
     """
     battery_full = "\uf240";
     """
-    (Free) Keywords: charge, power, status
+    Battery 1/2 Full; Keywords: charge, power, status; Keywords: charge, power, status (Free)
     """
     battery_1_2_full = "\uf242";
     """
-    (Free) Keywords: charge, low, power, status
+    Battery 1/4 Full; Keywords: charge, low, power, status; Keywords: charge, low, power, status (Free)
     """
     battery_1_4_full = "\uf243";
     """
-    (Free) Keywords: charge, power, status
+    Battery 3/4 Full; Keywords: charge, power, status; Keywords: charge, power, status (Free)
     """
     battery_3_4_full = "\uf241";
     """
-    (Free) Keywords: lodging, mattress, rest, sleep, travel
+    Bed; Keywords: lodging, mattress, rest, sleep, travel; Keywords: lodging, mattress, rest, sleep, travel (Free)
     """
     bed = "\uf236";
     """
-    (Free) Keywords: alcohol, ale, bar, beverage, brewery, drink, lager, liquor, mug, stein
+    beer; Keywords: alcohol, ale, bar, beverage, brewery, drink, lager, liquor, mug, stein; Keywords: alcohol, ale, bar, beverage, brewery, drink, lager, liquor, mug, stein (Free)
     """
     beer = "\uf0fc";
     """
-    (Free) Keywords: alarm, alert, chime, notification, reminder
+    bell; Keywords: alarm, alert, chime, notification, reminder; Keywords: alarm, alert, chime, notification, reminder (Free)
     """
     bell = "\uf0f3";
     """
-    (Free) Keywords: alert, cancel, disabled, notification, off, reminder
+    Bell Slash; Keywords: alert, cancel, disabled, notification, off, reminder; Keywords: alert, cancel, disabled, notification, off, reminder (Free)
     """
     bell_slash = "\uf1f6";
     """
-    (Free) Keywords: curves, illustrator, lines, path, vector
+    Bezier Curve; Keywords: curves, illustrator, lines, path, vector; Keywords: curves, illustrator, lines, path, vector (Free)
     """
     bezier_curve = "\uf55b";
     """
-    (Free) Keywords: book, catholicism, christianity, god, holy
+    Bible; Keywords: book, catholicism, christianity, god, holy; Keywords: book, catholicism, christianity, god, holy (Free)
     """
     bible = "\uf647";
     """
-    (Free) Keywords: bike, gears, pedal, transportation, vehicle
+    Bicycle; Keywords: bike, gears, pedal, transportation, vehicle; Keywords: bike, gears, pedal, transportation, vehicle (Free)
     """
     bicycle = "\uf206";
     """
-    (Free) Keywords: bicycle, bike, cycle, cycling, ride, wheel
+    Biking; Keywords: bicycle, bike, cycle, cycling, ride, wheel; Keywords: bicycle, bike, cycle, cycling, ride, wheel (Free)
     """
     biking = "\uf84a";
     """
-    (Free) Keywords: glasses, magnify, scenic, spyglass, view
+    Binoculars; Keywords: glasses, magnify, scenic, spyglass, view; Keywords: glasses, magnify, scenic, spyglass, view (Free)
     """
     binoculars = "\uf1e5";
     """
-    (Free) Keywords: covid-19, danger, dangerous, hazmat, medical, radioactive, toxic, waste, zombie
+    Biohazard; Keywords: covid-19, danger, dangerous, hazmat, medical, radioactive, toxic, waste, zombie; Keywords: covid-19, danger, dangerous, hazmat, medical, radioactive, toxic, waste, zombie (Free)
     """
     biohazard = "\uf780";
     """
-    (Free) Keywords: anniversary, bakery, candles, celebration, dessert, frosting, holiday, party, pastry
+    Birthday Cake; Keywords: anniversary, bakery, candles, celebration, dessert, frosting, holiday, party, pastry; Keywords: anniversary, bakery, candles, celebration, dessert, frosting, holiday, party, pastry (Free)
     """
     birthday_cake = "\uf1fd";
     """
-    (Free) Keywords: cocktail, milkshake, mixer, puree, smoothie
+    Blender; Keywords: cocktail, milkshake, mixer, puree, smoothie; Keywords: cocktail, milkshake, mixer, puree, smoothie (Free)
     """
     blender = "\uf517";
     """
-    (Free) Keywords: appliance, cocktail, communication, fantasy, milkshake, mixer, puree, silly, smoothie
+    Blender Phone; Keywords: appliance, cocktail, communication, fantasy, milkshake, mixer, puree, silly, smoothie; Keywords: appliance, cocktail, communication, fantasy, milkshake, mixer, puree, silly, smoothie (Free)
     """
     blender_phone = "\uf6b6";
     """
-    (Free) Keywords: cane, disability, person, sight
+    Blind; Keywords: cane, disability, person, sight; Keywords: cane, disability, person, sight (Free)
     """
     blind = "\uf29d";
     """
-    (Free) Keywords: journal, log, online, personal, post, web 2.0, wordpress, writing
+    Blog; Keywords: journal, log, online, personal, post, web 2.0, wordpress, writing; Keywords: journal, log, online, personal, post, web 2.0, wordpress, writing (Free)
     """
     blog = "\uf781";
     """
-    (Free) Keywords: emphasis, format, text
+    bold; Keywords: emphasis, format, text; Keywords: emphasis, format, text (Free)
     """
     bold = "\uf032";
     """
-    (Free) Keywords: electricity, lightning, weather, zap
+    Lightning Bolt; Keywords: electricity, lightning, weather, zap; Keywords: electricity, lightning, weather, zap (Free)
     """
     lightning_bolt = "\uf0e7";
     """
-    (Free) Keywords: error, explode, fuse, grenade, warning
+    Bomb; Keywords: error, explode, fuse, grenade, warning; Keywords: error, explode, fuse, grenade, warning (Free)
     """
     bomb = "\uf1e2";
     """
-    (Free) Keywords: calcium, dog, skeletal, skeleton, tibia
+    Bone; Keywords: calcium, dog, skeletal, skeleton, tibia; Keywords: calcium, dog, skeletal, skeleton, tibia (Free)
     """
     bone = "\uf5d7";
     """
-    (Free) Keywords: aparatus, cannabis, marijuana, pipe, smoke, smoking
+    Bong; Keywords: aparatus, cannabis, marijuana, pipe, smoke, smoking; Keywords: aparatus, cannabis, marijuana, pipe, smoke, smoking (Free)
     """
     bong = "\uf55c";
     """
-    (Free) Keywords: diary, documentation, journal, library, read
+    book; Keywords: diary, documentation, journal, library, read; Keywords: diary, documentation, journal, library, read (Free)
     """
     book = "\uf02d";
     """
-    (Free) Keywords: Dungeons & Dragons, crossbones, d&d, dark arts, death, dnd, documentation, evil, fantasy, halloween, holiday, necronomicon, read, skull, spell
+    Book of the Dead; Keywords: Dungeons & Dragons, crossbones, d&d, dark arts, death, dnd, documentation, evil, fantasy, halloween, holiday, necronomicon, read, skull, spell; Keywords: Dungeons & Dragons, crossbones, d&d, dark arts, death, dnd, documentation, evil, fantasy, halloween, holiday, necronomicon, read, skull, spell (Free)
     """
     book_of_the_dead = "\uf6b7";
     """
-    (Free) Keywords: diary, documentation, health, history, journal, library, read, record
+    Medical Book; Keywords: diary, documentation, health, history, journal, library, read, record; Keywords: diary, documentation, health, history, journal, library, read, record (Free)
     """
     medical_book = "\uf7e6";
     """
-    (Free) Keywords: flyer, library, notebook, open book, pamphlet, reading
+    Book Open; Keywords: flyer, library, notebook, open book, pamphlet, reading; Keywords: flyer, library, notebook, open book, pamphlet, reading (Free)
     """
     book_open = "\uf518";
     """
-    (Free) Keywords: flyer, library, notebook, open book, pamphlet, reading
+    Book Reader; Keywords: flyer, library, notebook, open book, pamphlet, reading; Keywords: flyer, library, notebook, open book, pamphlet, reading (Free)
     """
     book_reader = "\uf5da";
     """
-    (Free) Keywords: favorite, marker, read, remember, save
+    bookmark; Keywords: favorite, marker, read, remember, save; Keywords: favorite, marker, read, remember, save (Free)
     """
     bookmark = "\uf02e";
     """
-    (Free) Keywords: cell, grid, outline, stroke, table
+    Border All; Keywords: cell, grid, outline, stroke, table; Keywords: cell, grid, outline, stroke, table (Free)
     """
     border_all = "\uf84c";
     """
-    (Free) Keywords: cell, grid, outline, stroke, table
+    Border None; Keywords: cell, grid, outline, stroke, table; Keywords: cell, grid, outline, stroke, table (Free)
     """
     border_none = "\uf850";
     """
-    (Free) 
+    Border Style (Free)
     """
     border_style = "\uf853";
     """
-    (Free) Keywords: alley, candlepin, gutter, lane, strike, tenpin
+    Bowling Ball; Keywords: alley, candlepin, gutter, lane, strike, tenpin; Keywords: alley, candlepin, gutter, lane, strike, tenpin (Free)
     """
     bowling_ball = "\uf436";
     """
-    (Free) Keywords: archive, container, package, storage
+    Box; Keywords: archive, container, package, storage; Keywords: archive, container, package, storage (Free)
     """
     box = "\uf466";
     """
-    (Free) Keywords: archive, container, package, storage, unpack
+    Box Open; Keywords: archive, container, package, storage, unpack; Keywords: archive, container, package, storage, unpack (Free)
     """
     box_open = "\uf49e";
     """
-    (Free) Keywords: cough, covid-19, kleenex, mucus, nose, sneeze, snot
+    Tissue Box; Keywords: cough, covid-19, kleenex, mucus, nose, sneeze, snot; Keywords: cough, covid-19, kleenex, mucus, nose, sneeze, snot (Free)
     """
     tissue_box = "\ue05b";
     """
-    (Free) Keywords: archives, inventory, storage, warehouse
+    Boxes; Keywords: archives, inventory, storage, warehouse; Keywords: archives, inventory, storage, warehouse (Free)
     """
     boxes = "\uf468";
     """
-    (Free) Keywords: alphabet, blind, dots, raised, vision
+    Braille; Keywords: alphabet, blind, dots, raised, vision; Keywords: alphabet, blind, dots, raised, vision (Free)
     """
     braille = "\uf2a1";
     """
-    (Free) Keywords: cerebellum, gray matter, intellect, medulla oblongata, mind, noodle, wit
+    Brain; Keywords: cerebellum, gray matter, intellect, medulla oblongata, mind, noodle, wit; Keywords: cerebellum, gray matter, intellect, medulla oblongata, mind, noodle, wit (Free)
     """
     brain = "\uf5dc";
     """
-    (Free) Keywords: bake, bakery, baking, dough, flour, gluten, grain, sandwich, sourdough, toast, wheat, yeast
+    Bread Slice; Keywords: bake, bakery, baking, dough, flour, gluten, grain, sandwich, sourdough, toast, wheat, yeast; Keywords: bake, bakery, baking, dough, flour, gluten, grain, sandwich, sourdough, toast, wheat, yeast (Free)
     """
     bread_slice = "\uf7ec";
     """
-    (Free) Keywords: bag, business, luggage, office, work
+    Briefcase; Keywords: bag, business, luggage, office, work; Keywords: bag, business, luggage, office, work (Free)
     """
     briefcase = "\uf0b1";
     """
-    (Free) Keywords: doctor, emt, first aid, health
+    Medical Briefcase; Keywords: doctor, emt, first aid, health; Keywords: doctor, emt, first aid, health (Free)
     """
     medical_briefcase = "\uf469";
     """
-    (Free) Keywords: airwaves, antenna, radio, reception, waves
+    Broadcast Tower; Keywords: airwaves, antenna, radio, reception, waves; Keywords: airwaves, antenna, radio, reception, waves (Free)
     """
     broadcast_tower = "\uf519";
     """
-    (Free) Keywords: clean, firebolt, fly, halloween, nimbus 2000, quidditch, sweep, witch
+    Broom; Keywords: clean, firebolt, fly, halloween, nimbus 2000, quidditch, sweep, witch; Keywords: clean, firebolt, fly, halloween, nimbus 2000, quidditch, sweep, witch (Free)
     """
     broom = "\uf51a";
     """
-    (Free) Keywords: art, bristles, color, handle, paint
+    Brush; Keywords: art, bristles, color, handle, paint; Keywords: art, bristles, color, handle, paint (Free)
     """
     brush = "\uf55d";
     """
-    (Free) Keywords: beetle, error, insect, report
+    Bug; Keywords: beetle, error, insect, report; Keywords: beetle, error, insect, report (Free)
     """
     bug = "\uf188";
     """
-    (Free) Keywords: apartment, business, city, company, office, work
+    Building; Keywords: apartment, business, city, company, office, work; Keywords: apartment, business, city, company, office, work (Free)
     """
     building = "\uf1ad";
     """
-    (Free) Keywords: announcement, broadcast, louder, megaphone, share
+    bullhorn; Keywords: announcement, broadcast, louder, megaphone, share; Keywords: announcement, broadcast, louder, megaphone, share (Free)
     """
     bullhorn = "\uf0a1";
     """
-    (Free) Keywords: archery, goal, objective, target
+    Bullseye; Keywords: archery, goal, objective, target; Keywords: archery, goal, objective, target (Free)
     """
     bullseye = "\uf140";
     """
-    (Free) Keywords: caliente, energy, fire, flame, gas, heat, hot
+    Burn; Keywords: caliente, energy, fire, flame, gas, heat, hot; Keywords: caliente, energy, fire, flame, gas, heat, hot (Free)
     """
     burn = "\uf46a";
     """
-    (Free) Keywords: public transportation, transportation, travel, vehicle
+    Bus; Keywords: public transportation, transportation, travel, vehicle; Keywords: public transportation, transportation, travel, vehicle (Free)
     """
     bus = "\uf207";
     """
-    (Free) Keywords: mta, public transportation, transportation, travel, vehicle
+    Bus Alt; Keywords: mta, public transportation, transportation, travel, vehicle; Keywords: mta, public transportation, transportation, travel, vehicle (Free)
     """
     bus_alt = "\uf55e";
     """
-    (Free) Keywords: alarm, briefcase, business socks, clock, flight of the conchords, reminder, wednesday
+    Business Time; Keywords: alarm, briefcase, business socks, clock, flight of the conchords, reminder, wednesday; Keywords: alarm, briefcase, business socks, clock, flight of the conchords, reminder, wednesday (Free)
     """
     business_time = "\uf64a";
     """
-    (Free) Keywords: abacus, addition, arithmetic, counting, math, multiplication, subtraction
+    Calculator; Keywords: abacus, addition, arithmetic, counting, math, multiplication, subtraction; Keywords: abacus, addition, arithmetic, counting, math, multiplication, subtraction (Free)
     """
     calculator = "\uf1ec";
     """
-    (Free) Keywords: calendar-o, date, event, schedule, time, when
+    Calendar; Keywords: calendar-o, date, event, schedule, time, when; Keywords: calendar-o, date, event, schedule, time, when (Free)
     """
     calendar = "\uf133";
     """
-    (Free) Keywords: calendar, date, event, schedule, time, when
+    Alternate Calendar; Keywords: calendar, date, event, schedule, time, when; Keywords: calendar, date, event, schedule, time, when (Free)
     """
     alternate_calendar = "\uf073";
     """
-    (Free) Keywords: accept, agree, appointment, confirm, correct, date, done, event, ok, schedule, select, success, tick, time, todo, when
+    Calendar Check; Keywords: accept, agree, appointment, confirm, correct, date, done, event, ok, schedule, select, success, tick, time, todo, when; Keywords: accept, agree, appointment, confirm, correct, date, done, event, ok, schedule, select, success, tick, time, todo, when (Free)
     """
     calendar_check = "\uf274";
     """
-    (Free) Keywords: date, detail, event, focus, schedule, single day, time, today, when
+    Calendar with Day Focus; Keywords: date, detail, event, focus, schedule, single day, time, today, when; Keywords: date, detail, event, focus, schedule, single day, time, today, when (Free)
     """
     calendar_with_day_focus = "\uf783";
     """
-    (Free) Keywords: calendar, date, delete, event, negative, remove, schedule, time, when
+    Calendar Minus; Keywords: calendar, date, delete, event, negative, remove, schedule, time, when; Keywords: calendar, date, delete, event, negative, remove, schedule, time, when (Free)
     """
     calendar_minus = "\uf272";
     """
-    (Free) Keywords: add, calendar, create, date, event, new, positive, schedule, time, when
+    Calendar Plus; Keywords: add, calendar, create, date, event, new, positive, schedule, time, when; Keywords: add, calendar, create, date, event, new, positive, schedule, time, when (Free)
     """
     calendar_plus = "\uf271";
     """
-    (Free) Keywords: archive, calendar, date, delete, event, remove, schedule, time, when, x
+    Calendar Times; Keywords: archive, calendar, date, delete, event, remove, schedule, time, when, x; Keywords: archive, calendar, date, delete, event, remove, schedule, time, when, x (Free)
     """
     calendar_times = "\uf273";
     """
-    (Free) Keywords: date, detail, event, focus, schedule, single week, time, today, when
+    Calendar with Week Focus; Keywords: date, detail, event, focus, schedule, single week, time, today, when; Keywords: date, detail, event, focus, schedule, single week, time, today, when (Free)
     """
     calendar_with_week_focus = "\uf784";
     """
-    (Free) Keywords: image, lens, photo, picture, record, shutter, video
+    camera; Keywords: image, lens, photo, picture, record, shutter, video; Keywords: image, lens, photo, picture, record, shutter, video (Free)
     """
     camera = "\uf030";
     """
-    (Free) Keywords: image, lens, photo, picture, record, shutter, video
+    Retro Camera; Keywords: image, lens, photo, picture, record, shutter, video; Keywords: image, lens, photo, picture, record, shutter, video (Free)
     """
     retro_camera = "\uf083";
     """
-    (Free) Keywords: camping, fall, outdoors, teepee, tent, tipi
+    Campground; Keywords: camping, fall, outdoors, teepee, tent, tipi; Keywords: camping, fall, outdoors, teepee, tent, tipi (Free)
     """
     campground = "\uf6bb";
     """
-    (Free) Keywords: candy, christmas, holiday, mint, peppermint, striped, xmas
+    Candy Cane; Keywords: candy, christmas, holiday, mint, peppermint, striped, xmas; Keywords: candy, christmas, holiday, mint, peppermint, striped, xmas (Free)
     """
     candy_cane = "\uf786";
     """
-    (Free) Keywords: bud, chronic, drugs, endica, endo, ganja, marijuana, mary jane, pot, reefer, sativa, spliff, weed, whacky-tabacky
+    Cannabis; Keywords: bud, chronic, drugs, endica, endo, ganja, marijuana, mary jane, pot, reefer, sativa, spliff, weed, whacky-tabacky; Keywords: bud, chronic, drugs, endica, endo, ganja, marijuana, mary jane, pot, reefer, sativa, spliff, weed, whacky-tabacky (Free)
     """
     cannabis = "\uf55f";
     """
-    (Free) Keywords: drugs, medicine, pills, prescription
+    Capsules; Keywords: drugs, medicine, pills, prescription; Keywords: drugs, medicine, pills, prescription (Free)
     """
     capsules = "\uf46b";
     """
-    (Free) Keywords: auto, automobile, sedan, transportation, travel, vehicle
+    Car; Keywords: auto, automobile, sedan, transportation, travel, vehicle; Keywords: auto, automobile, sedan, transportation, travel, vehicle (Free)
     """
     car = "\uf1b9";
     """
-    (Free) Keywords: auto, automobile, sedan, transportation, travel, vehicle
+    Alternate Car; Keywords: auto, automobile, sedan, transportation, travel, vehicle; Keywords: auto, automobile, sedan, transportation, travel, vehicle (Free)
     """
     alternate_car = "\uf5de";
     """
-    (Free) Keywords: auto, electric, mechanic, power
+    Car Battery; Keywords: auto, electric, mechanic, power; Keywords: auto, electric, mechanic, power (Free)
     """
     car_battery = "\uf5df";
     """
-    (Free) Keywords: accident, auto, automobile, insurance, sedan, transportation, vehicle, wreck
+    Car Crash; Keywords: accident, auto, automobile, insurance, sedan, transportation, vehicle, wreck; Keywords: accident, auto, automobile, insurance, sedan, transportation, vehicle, wreck (Free)
     """
     car_crash = "\uf5e1";
     """
-    (Free) Keywords: auto, automobile, sedan, transportation, travel, vehicle
+    Car Side; Keywords: auto, automobile, sedan, transportation, travel, vehicle; Keywords: auto, automobile, sedan, transportation, travel, vehicle (Free)
     """
     car_side = "\uf5e4";
     """
-    (Free) Keywords: camper, motor home, rv, trailer, travel
+    Caravan; Keywords: camper, motor home, rv, trailer, travel; Keywords: camper, motor home, rv, trailer, travel (Free)
     """
     caravan = "\uf8ff";
     """
-    (Free) Keywords: arrow, dropdown, expand, menu, more, triangle
+    Caret Down; Keywords: arrow, dropdown, expand, menu, more, triangle; Keywords: arrow, dropdown, expand, menu, more, triangle (Free)
     """
     caret_down = "\uf0d7";
     """
-    (Free) Keywords: arrow, back, previous, triangle
+    Caret Left; Keywords: arrow, back, previous, triangle; Keywords: arrow, back, previous, triangle (Free)
     """
     caret_left = "\uf0d9";
     """
-    (Free) Keywords: arrow, forward, next, triangle
+    Caret Right; Keywords: arrow, forward, next, triangle; Keywords: arrow, forward, next, triangle (Free)
     """
     caret_right = "\uf0da";
     """
-    (Free) Keywords: arrow, caret-square-o-down, dropdown, expand, menu, more, triangle
+    Caret Square Down; Keywords: arrow, caret-square-o-down, dropdown, expand, menu, more, triangle; Keywords: arrow, caret-square-o-down, dropdown, expand, menu, more, triangle (Free)
     """
     caret_square_down = "\uf150";
     """
-    (Free) Keywords: arrow, back, caret-square-o-left, previous, triangle
+    Caret Square Left; Keywords: arrow, back, caret-square-o-left, previous, triangle; Keywords: arrow, back, caret-square-o-left, previous, triangle (Free)
     """
     caret_square_left = "\uf191";
     """
-    (Free) Keywords: arrow, caret-square-o-right, forward, next, triangle
+    Caret Square Right; Keywords: arrow, caret-square-o-right, forward, next, triangle; Keywords: arrow, caret-square-o-right, forward, next, triangle (Free)
     """
     caret_square_right = "\uf152";
     """
-    (Free) Keywords: arrow, caret-square-o-up, collapse, triangle, upload
+    Caret Square Up; Keywords: arrow, caret-square-o-up, collapse, triangle, upload; Keywords: arrow, caret-square-o-up, collapse, triangle, upload (Free)
     """
     caret_square_up = "\uf151";
     """
-    (Free) Keywords: arrow, collapse, triangle
+    Caret Up; Keywords: arrow, collapse, triangle; Keywords: arrow, collapse, triangle (Free)
     """
     caret_up = "\uf0d8";
     """
-    (Free) Keywords: bugs bunny, orange, vegan, vegetable
+    Carrot; Keywords: bugs bunny, orange, vegan, vegetable; Keywords: bugs bunny, orange, vegan, vegetable (Free)
     """
     carrot = "\uf787";
     """
-    (Free) Keywords: download, save, shopping
+    Shopping Cart Arrow Down; Keywords: download, save, shopping; Keywords: download, save, shopping (Free)
     """
     shopping_cart_arrow_down = "\uf218";
     """
-    (Free) Keywords: add, create, new, positive, shopping
+    Add to Shopping Cart; Keywords: add, create, new, positive, shopping; Keywords: add, create, new, positive, shopping (Free)
     """
     add_to_shopping_cart = "\uf217";
     """
-    (Free) Keywords: buy, cha-ching, change, checkout, commerce, leaerboard, machine, pay, payment, purchase, store
+    Cash Register; Keywords: buy, cha-ching, change, checkout, commerce, leaerboard, machine, pay, payment, purchase, store; Keywords: buy, cha-ching, change, checkout, commerce, leaerboard, machine, pay, payment, purchase, store (Free)
     """
     cash_register = "\uf788";
     """
-    (Free) Keywords: feline, halloween, holiday, kitten, kitty, meow, pet
+    Cat; Keywords: feline, halloween, holiday, kitten, kitty, meow, pet; Keywords: feline, halloween, holiday, kitten, kitty, meow, pet (Free)
     """
     cat = "\uf6be";
     """
-    (Free) Keywords: badge, star, verified
+    certificate; Keywords: badge, star, verified; Keywords: badge, star, verified (Free)
     """
     certificate = "\uf0a3";
     """
-    (Free) Keywords: furniture, seat, sit
+    Chair; Keywords: furniture, seat, sit; Keywords: furniture, seat, sit (Free)
     """
     chair = "\uf6c0";
     """
-    (Free) Keywords: blackboard, learning, school, teaching, whiteboard, writing
+    Chalkboard; Keywords: blackboard, learning, school, teaching, whiteboard, writing; Keywords: blackboard, learning, school, teaching, whiteboard, writing (Free)
     """
     chalkboard = "\uf51b";
     """
-    (Free) Keywords: blackboard, instructor, learning, professor, school, whiteboard, writing
+    Chalkboard Teacher; Keywords: blackboard, instructor, learning, professor, school, whiteboard, writing; Keywords: blackboard, instructor, learning, professor, school, whiteboard, writing (Free)
     """
     chalkboard_teacher = "\uf51c";
     """
-    (Free) Keywords: electric, ev, tesla, vehicle
+    Charging Station; Keywords: electric, ev, tesla, vehicle; Keywords: electric, ev, tesla, vehicle (Free)
     """
     charging_station = "\uf5e7";
     """
-    (Free) Keywords: analytics, area, chart, graph
+    Area Chart; Keywords: analytics, area, chart, graph; Keywords: analytics, area, chart, graph (Free)
     """
     area_chart = "\uf1fe";
     """
-    (Free) Keywords: analytics, bar, chart, graph
+    Bar Chart; Keywords: analytics, bar, chart, graph; Keywords: analytics, bar, chart, graph (Free)
     """
     bar_chart = "\uf080";
     """
-    (Free) Keywords: activity, analytics, chart, dashboard, gain, graph, increase, line
+    Line Chart; Keywords: activity, analytics, chart, dashboard, gain, graph, increase, line; Keywords: activity, analytics, chart, dashboard, gain, graph, increase, line (Free)
     """
     line_chart = "\uf201";
     """
-    (Free) Keywords: analytics, chart, diagram, graph, pie
+    Pie Chart; Keywords: analytics, chart, diagram, graph, pie; Keywords: analytics, chart, diagram, graph, pie (Free)
     """
     pie_chart = "\uf200";
     """
-    (Free) Keywords: accept, agree, checkmark, confirm, correct, done, notice, notification, notify, ok, select, success, tick, todo, yes
+    Check; Keywords: accept, agree, checkmark, confirm, correct, done, notice, notification, notify, ok, select, success, tick, todo, yes; Keywords: accept, agree, checkmark, confirm, correct, done, notice, notification, notify, ok, select, success, tick, todo, yes (Free)
     """
     check = "\uf00c";
     """
-    (Free) Keywords: accept, agree, confirm, correct, done, ok, select, success, tick, todo, yes
+    Check Circle; Keywords: accept, agree, confirm, correct, done, ok, select, success, tick, todo, yes; Keywords: accept, agree, confirm, correct, done, ok, select, success, tick, todo, yes (Free)
     """
     check_circle = "\uf058";
     """
-    (Free) Keywords: accept, agree, checkmark, confirm, correct, done, notice, notification, notify, ok, select, success, tick, todo
+    Double Check; Keywords: accept, agree, checkmark, confirm, correct, done, notice, notification, notify, ok, select, success, tick, todo; Keywords: accept, agree, checkmark, confirm, correct, done, notice, notification, notify, ok, select, success, tick, todo (Free)
     """
     double_check = "\uf560";
     """
-    (Free) Keywords: accept, agree, checkmark, confirm, correct, done, ok, select, success, tick, todo, yes
+    Check Square; Keywords: accept, agree, checkmark, confirm, correct, done, ok, select, success, tick, todo, yes; Keywords: accept, agree, checkmark, confirm, correct, done, ok, select, success, tick, todo, yes (Free)
     """
     check_square = "\uf14a";
     """
-    (Free) Keywords: cheddar, curd, gouda, melt, parmesan, sandwich, swiss, wedge
+    Cheese; Keywords: cheddar, curd, gouda, melt, parmesan, sandwich, swiss, wedge; Keywords: cheddar, curd, gouda, melt, parmesan, sandwich, swiss, wedge (Free)
     """
     cheese = "\uf7ef";
     """
-    (Free) Keywords: board, castle, checkmate, game, king, rook, strategy, tournament
+    Chess; Keywords: board, castle, checkmate, game, king, rook, strategy, tournament; Keywords: board, castle, checkmate, game, king, rook, strategy, tournament (Free)
     """
     chess = "\uf439";
     """
-    (Free) Keywords: board, checkmate, game, strategy
+    Chess Bishop; Keywords: board, checkmate, game, strategy; Keywords: board, checkmate, game, strategy (Free)
     """
     chess_bishop = "\uf43a";
     """
-    (Free) Keywords: board, checkmate, game, strategy
+    Chess Board; Keywords: board, checkmate, game, strategy; Keywords: board, checkmate, game, strategy (Free)
     """
     chess_board = "\uf43c";
     """
-    (Free) Keywords: board, checkmate, game, strategy
+    Chess King; Keywords: board, checkmate, game, strategy; Keywords: board, checkmate, game, strategy (Free)
     """
     chess_king = "\uf43f";
     """
-    (Free) Keywords: board, checkmate, game, horse, strategy
+    Chess Knight; Keywords: board, checkmate, game, horse, strategy; Keywords: board, checkmate, game, horse, strategy (Free)
     """
     chess_knight = "\uf441";
     """
-    (Free) Keywords: board, checkmate, game, strategy
+    Chess Pawn; Keywords: board, checkmate, game, strategy; Keywords: board, checkmate, game, strategy (Free)
     """
     chess_pawn = "\uf443";
     """
-    (Free) Keywords: board, checkmate, game, strategy
+    Chess Queen; Keywords: board, checkmate, game, strategy; Keywords: board, checkmate, game, strategy (Free)
     """
     chess_queen = "\uf445";
     """
-    (Free) Keywords: board, castle, checkmate, game, strategy
+    Chess Rook; Keywords: board, castle, checkmate, game, strategy; Keywords: board, castle, checkmate, game, strategy (Free)
     """
     chess_rook = "\uf447";
     """
-    (Free) Keywords: arrow, download, dropdown, menu, more
+    Chevron Circle Down; Keywords: arrow, download, dropdown, menu, more; Keywords: arrow, download, dropdown, menu, more (Free)
     """
     chevron_circle_down = "\uf13a";
     """
-    (Free) Keywords: arrow, back, previous
+    Chevron Circle Left; Keywords: arrow, back, previous; Keywords: arrow, back, previous (Free)
     """
     chevron_circle_left = "\uf137";
     """
-    (Free) Keywords: arrow, forward, next
+    Chevron Circle Right; Keywords: arrow, forward, next; Keywords: arrow, forward, next (Free)
     """
     chevron_circle_right = "\uf138";
     """
-    (Free) Keywords: arrow, collapse, upload
+    Chevron Circle Up; Keywords: arrow, collapse, upload; Keywords: arrow, collapse, upload (Free)
     """
     chevron_circle_up = "\uf139";
     """
-    (Free) Keywords: arrow, download, expand
+    chevron-down; Keywords: arrow, download, expand; Keywords: arrow, download, expand (Free)
     """
     chevron_down = "\uf078";
     """
-    (Free) Keywords: arrow, back, bracket, previous
+    chevron-left; Keywords: arrow, back, bracket, previous; Keywords: arrow, back, bracket, previous (Free)
     """
     chevron_left = "\uf053";
     """
-    (Free) Keywords: arrow, bracket, forward, next
+    chevron-right; Keywords: arrow, bracket, forward, next; Keywords: arrow, bracket, forward, next (Free)
     """
     chevron_right = "\uf054";
     """
-    (Free) Keywords: arrow, collapse, upload
+    chevron-up; Keywords: arrow, collapse, upload; Keywords: arrow, collapse, upload (Free)
     """
     chevron_up = "\uf077";
     """
-    (Free) Keywords: boy, girl, kid, toddler, young
+    Child; Keywords: boy, girl, kid, toddler, young; Keywords: boy, girl, kid, toddler, young (Free)
     """
     child = "\uf1ae";
     """
-    (Free) Keywords: building, cathedral, chapel, community, religion
+    Church; Keywords: building, cathedral, chapel, community, religion; Keywords: building, cathedral, chapel, community, religion (Free)
     """
     church = "\uf51d";
     """
-    (Free) Keywords: circle-thin, diameter, dot, ellipse, notification, round
+    Circle; Keywords: circle-thin, diameter, dot, ellipse, notification, round; Keywords: circle-thin, diameter, dot, ellipse, notification, round (Free)
     """
     circle = "\uf111";
     """
-    (Free) Keywords: circle-o-notch, diameter, dot, ellipse, round, spinner
+    Circle Notched; Keywords: circle-o-notch, diameter, dot, ellipse, round, spinner; Keywords: circle-o-notch, diameter, dot, ellipse, round, spinner (Free)
     """
     circle_notched = "\uf1ce";
     """
-    (Free) Keywords: buildings, busy, skyscrapers, urban, windows
+    City; Keywords: buildings, busy, skyscrapers, urban, windows; Keywords: buildings, busy, skyscrapers, urban, windows (Free)
     """
     city = "\uf64f";
     """
-    (Free) Keywords: covid-19, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient
+    Medical Clinic; Keywords: covid-19, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient; Keywords: covid-19, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient (Free)
     """
     medical_clinic = "\uf7f2";
     """
-    (Free) Keywords: copy, notes, paste, record
+    Clipboard; Keywords: copy, notes, paste, record; Keywords: copy, notes, paste, record (Free)
     """
     clipboard = "\uf328";
     """
-    (Free) Keywords: accept, agree, confirm, done, ok, select, success, tick, todo, yes
+    Clipboard with Check; Keywords: accept, agree, confirm, done, ok, select, success, tick, todo, yes; Keywords: accept, agree, confirm, done, ok, select, success, tick, todo, yes (Free)
     """
     clipboard_with_check = "\uf46c";
     """
-    (Free) Keywords: checklist, completed, done, finished, intinerary, ol, schedule, tick, todo, ul
+    Clipboard List; Keywords: checklist, completed, done, finished, intinerary, ol, schedule, tick, todo, ul; Keywords: checklist, completed, done, finished, intinerary, ol, schedule, tick, todo, ul (Free)
     """
     clipboard_list = "\uf46d";
     """
-    (Free) Keywords: date, late, schedule, time, timer, timestamp, watch
+    Clock; Keywords: date, late, schedule, time, timer, timestamp, watch; Keywords: date, late, schedule, time, timer, timestamp, watch (Free)
     """
     clock = "\uf017";
     """
-    (Free) Keywords: arrange, copy, duplicate, paste
+    Clone; Keywords: arrange, copy, duplicate, paste; Keywords: arrange, copy, duplicate, paste (Free)
     """
     clone = "\uf24d";
     """
-    (Free) Keywords: cc, deaf, hearing, subtitle, subtitling, text, video
+    Closed Captioning; Keywords: cc, deaf, hearing, subtitle, subtitling, text, video; Keywords: cc, deaf, hearing, subtitle, subtitling, text, video (Free)
     """
     closed_captioning = "\uf20a";
     """
-    (Free) Keywords: atmosphere, fog, overcast, save, upload, weather
+    Cloud; Keywords: atmosphere, fog, overcast, save, upload, weather; Keywords: atmosphere, fog, overcast, save, upload, weather (Free)
     """
     cloud = "\uf0c2";
     """
-    (Free) Keywords: download, export, save
+    Alternate Cloud Download; Keywords: download, export, save; Keywords: download, export, save (Free)
     """
     alternate_cloud_download = "\uf381";
     """
-    (Free) Keywords: FLDSMDFR, food, spaghetti, storm
+    Cloud with (a chance of) Meatball; Keywords: FLDSMDFR, food, spaghetti, storm; Keywords: FLDSMDFR, food, spaghetti, storm (Free)
     """
     cloud_with_a_chance_of_meatball = "\uf73b";
     """
-    (Free) Keywords: crescent, evening, lunar, night, partly cloudy, sky
+    Cloud with Moon; Keywords: crescent, evening, lunar, night, partly cloudy, sky; Keywords: crescent, evening, lunar, night, partly cloudy, sky (Free)
     """
     cloud_with_moon = "\uf6c3";
     """
-    (Free) Keywords: crescent, evening, lunar, night, partly cloudy, precipitation, rain, sky, storm
+    Cloud with Moon and Rain; Keywords: crescent, evening, lunar, night, partly cloudy, precipitation, rain, sky, storm; Keywords: crescent, evening, lunar, night, partly cloudy, precipitation, rain, sky, storm (Free)
     """
     cloud_with_moon_and_rain = "\uf73c";
     """
-    (Free) Keywords: precipitation, rain, sky, storm
+    Cloud with Rain; Keywords: precipitation, rain, sky, storm; Keywords: precipitation, rain, sky, storm (Free)
     """
     cloud_with_rain = "\uf73d";
     """
-    (Free) Keywords: precipitation, rain, sky, storm
+    Cloud with Heavy Showers; Keywords: precipitation, rain, sky, storm; Keywords: precipitation, rain, sky, storm (Free)
     """
     cloud_with_heavy_showers = "\uf740";
     """
-    (Free) Keywords: clear, day, daytime, fall, outdoors, overcast, partly cloudy
+    Cloud with Sun; Keywords: clear, day, daytime, fall, outdoors, overcast, partly cloudy; Keywords: clear, day, daytime, fall, outdoors, overcast, partly cloudy (Free)
     """
     cloud_with_sun = "\uf6c4";
     """
-    (Free) Keywords: day, overcast, precipitation, storm, summer, sunshower
+    Cloud with Sun and Rain; Keywords: day, overcast, precipitation, storm, summer, sunshower; Keywords: day, overcast, precipitation, storm, summer, sunshower (Free)
     """
     cloud_with_sun_and_rain = "\uf743";
     """
-    (Free) Keywords: cloud-upload, import, save, upload
+    Alternate Cloud Upload; Keywords: cloud-upload, import, save, upload; Keywords: cloud-upload, import, save, upload (Free)
     """
     alternate_cloud_upload = "\uf382";
     """
-    (Free) Keywords: alcohol, beverage, drink, gin, glass, margarita, martini, vodka
+    Cocktail; Keywords: alcohol, beverage, drink, gin, glass, margarita, martini, vodka; Keywords: alcohol, beverage, drink, gin, glass, margarita, martini, vodka (Free)
     """
     cocktail = "\uf561";
     """
-    (Free) Keywords: brackets, code, development, html
+    Code; Keywords: brackets, code, development, html; Keywords: brackets, code, development, html (Free)
     """
     code = "\uf121";
     """
-    (Free) Keywords: branch, code-fork, fork, git, github, rebase, svn, vcs, version
+    Code Branch; Keywords: branch, code-fork, fork, git, github, rebase, svn, vcs, version; Keywords: branch, code-fork, fork, git, github, rebase, svn, vcs, version (Free)
     """
     code_branch = "\uf126";
     """
-    (Free) Keywords: beverage, breakfast, cafe, drink, fall, morning, mug, seasonal, tea
+    Coffee; Keywords: beverage, breakfast, cafe, drink, fall, morning, mug, seasonal, tea; Keywords: beverage, breakfast, cafe, drink, fall, morning, mug, seasonal, tea (Free)
     """
     coffee = "\uf0f4";
     """
-    (Free) Keywords: gear, mechanical, settings, sprocket, wheel
+    cog; Keywords: gear, mechanical, settings, sprocket, wheel; Keywords: gear, mechanical, settings, sprocket, wheel (Free)
     """
     cog = "\uf013";
     """
-    (Free) Keywords: gears, mechanical, settings, sprocket, wheel
+    cogs; Keywords: gears, mechanical, settings, sprocket, wheel; Keywords: gears, mechanical, settings, sprocket, wheel (Free)
     """
     cogs = "\uf085";
     """
-    (Free) Keywords: currency, dime, financial, gold, money, penny
+    Coins; Keywords: currency, dime, financial, gold, money, penny; Keywords: currency, dime, financial, gold, money, penny (Free)
     """
     coins = "\uf51e";
     """
-    (Free) Keywords: browser, dashboard, organize, panes, split
+    Columns; Keywords: browser, dashboard, organize, panes, split; Keywords: browser, dashboard, organize, panes, split (Free)
     """
     columns = "\uf0db";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting
+    comment; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting (Free)
     """
     comment = "\uf075";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting
+    Alternate Comment; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting (Free)
     """
     alternate_comment = "\uf27a";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, money, note, notification, pay, sms, speech, spend, texting, transfer
+    Comment Dollar; Keywords: bubble, chat, commenting, conversation, feedback, message, money, note, notification, pay, sms, speech, spend, texting, transfer; Keywords: bubble, chat, commenting, conversation, feedback, message, money, note, notification, pay, sms, speech, spend, texting, transfer (Free)
     """
     comment_dollar = "\uf651";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, more, note, notification, reply, sms, speech, texting
+    Comment Dots; Keywords: bubble, chat, commenting, conversation, feedback, message, more, note, notification, reply, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, more, note, notification, reply, sms, speech, texting (Free)
     """
     comment_dots = "\uf4ad";
     """
-    (Free) Keywords: advice, bubble, chat, commenting, conversation, diagnose, feedback, message, note, notification, prescription, sms, speech, texting
+    Alternate Medical Chat; Keywords: advice, bubble, chat, commenting, conversation, diagnose, feedback, message, note, notification, prescription, sms, speech, texting; Keywords: advice, bubble, chat, commenting, conversation, diagnose, feedback, message, note, notification, prescription, sms, speech, texting (Free)
     """
     alternate_medical_chat = "\uf7f5";
     """
-    (Free) Keywords: bubble, cancel, chat, commenting, conversation, feedback, message, mute, note, notification, quiet, sms, speech, texting
+    Comment Slash; Keywords: bubble, cancel, chat, commenting, conversation, feedback, message, mute, note, notification, quiet, sms, speech, texting; Keywords: bubble, cancel, chat, commenting, conversation, feedback, message, mute, note, notification, quiet, sms, speech, texting (Free)
     """
     comment_slash = "\uf4b3";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting
+    comments; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting; Keywords: bubble, chat, commenting, conversation, feedback, message, note, notification, sms, speech, texting (Free)
     """
     comments = "\uf086";
     """
-    (Free) Keywords: bubble, chat, commenting, conversation, feedback, message, money, note, notification, pay, sms, speech, spend, texting, transfer
+    Comments Dollar; Keywords: bubble, chat, commenting, conversation, feedback, message, money, note, notification, pay, sms, speech, spend, texting, transfer; Keywords: bubble, chat, commenting, conversation, feedback, message, money, note, notification, pay, sms, speech, spend, texting, transfer (Free)
     """
     comments_dollar = "\uf653";
     """
-    (Free) Keywords: album, bluray, cd, disc, dvd, media, movie, music, record, video, vinyl
+    Compact Disc; Keywords: album, bluray, cd, disc, dvd, media, movie, music, record, video, vinyl; Keywords: album, bluray, cd, disc, dvd, media, movie, music, record, video, vinyl (Free)
     """
     compact_disc = "\uf51f";
     """
-    (Free) Keywords: directions, directory, location, menu, navigation, safari, travel
+    Compass; Keywords: directions, directory, location, menu, navigation, safari, travel; Keywords: directions, directory, location, menu, navigation, safari, travel (Free)
     """
     compass = "\uf14e";
     """
-    (Free) Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller
+    Compress; Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller; Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller (Free)
     """
     compress = "\uf066";
     """
-    (Free) Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller
+    Alternate Compress; Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller; Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller (Free)
     """
     alternate_compress = "\uf422";
     """
-    (Free) Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller
+    Alternate Compress Arrows; Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller; Keywords: collapse, fullscreen, minimize, move, resize, shrink, smaller (Free)
     """
     alternate_compress_arrows = "\uf78c";
     """
-    (Free) Keywords: attention, hotel, receptionist, service, support
+    Concierge Bell; Keywords: attention, hotel, receptionist, service, support; Keywords: attention, hotel, receptionist, service, support (Free)
     """
     concierge_bell = "\uf562";
     """
-    (Free) Keywords: baked good, chips, chocolate, eat, snack, sweet, treat
+    Cookie; Keywords: baked good, chips, chocolate, eat, snack, sweet, treat; Keywords: baked good, chips, chocolate, eat, snack, sweet, treat (Free)
     """
     cookie = "\uf563";
     """
-    (Free) Keywords: baked good, bitten, chips, chocolate, eat, snack, sweet, treat
+    Cookie Bite; Keywords: baked good, bitten, chips, chocolate, eat, snack, sweet, treat; Keywords: baked good, bitten, chips, chocolate, eat, snack, sweet, treat (Free)
     """
     cookie_bite = "\uf564";
     """
-    (Free) Keywords: clone, duplicate, file, files-o, paper, paste
+    Copy; Keywords: clone, duplicate, file, files-o, paper, paste; Keywords: clone, duplicate, file, files-o, paper, paste (Free)
     """
     copy = "\uf0c5";
     """
-    (Free) Keywords: brand, mark, register, trademark
+    Copyright; Keywords: brand, mark, register, trademark; Keywords: brand, mark, register, trademark (Free)
     """
     copyright = "\uf1f9";
     """
-    (Free) Keywords: chair, cushion, furniture, relax, sofa
+    Couch; Keywords: chair, cushion, furniture, relax, sofa; Keywords: chair, cushion, furniture, relax, sofa (Free)
     """
     couch = "\uf4b8";
     """
-    (Free) Keywords: buy, checkout, credit-card-alt, debit, money, payment, purchase
+    Credit Card; Keywords: buy, checkout, credit-card-alt, debit, money, payment, purchase; Keywords: buy, checkout, credit-card-alt, debit, money, payment, purchase (Free)
     """
     credit_card = "\uf09d";
     """
-    (Free) Keywords: design, frame, mask, resize, shrink
+    crop; Keywords: design, frame, mask, resize, shrink; Keywords: design, frame, mask, resize, shrink (Free)
     """
     crop = "\uf125";
     """
-    (Free) Keywords: design, frame, mask, resize, shrink
+    Alternate Crop; Keywords: design, frame, mask, resize, shrink; Keywords: design, frame, mask, resize, shrink (Free)
     """
     alternate_crop = "\uf565";
     """
-    (Free) Keywords: catholicism, christianity, church, jesus
+    Cross; Keywords: catholicism, christianity, church, jesus; Keywords: catholicism, christianity, church, jesus (Free)
     """
     cross = "\uf654";
     """
-    (Free) Keywords: aim, bullseye, gpd, picker, position
+    Crosshairs; Keywords: aim, bullseye, gpd, picker, position; Keywords: aim, bullseye, gpd, picker, position (Free)
     """
     crosshairs = "\uf05b";
     """
-    (Free) Keywords: bird, bullfrog, fauna, halloween, holiday, toad
+    Crow; Keywords: bird, bullfrog, fauna, halloween, holiday, toad; Keywords: bird, bullfrog, fauna, halloween, holiday, toad (Free)
     """
     crow = "\uf520";
     """
-    (Free) Keywords: award, favorite, king, queen, royal, tiara
+    Crown; Keywords: award, favorite, king, queen, royal, tiara; Keywords: award, favorite, king, queen, royal, tiara (Free)
     """
     crown = "\uf521";
     """
-    (Free) Keywords: cane, injury, mobility, wheelchair
+    Crutch; Keywords: cane, injury, mobility, wheelchair; Keywords: cane, injury, mobility, wheelchair (Free)
     """
     crutch = "\uf7f7";
     """
-    (Free) Keywords: 3d, block, dice, package, square, tesseract
+    Cube; Keywords: 3d, block, dice, package, square, tesseract; Keywords: 3d, block, dice, package, square, tesseract (Free)
     """
     cube = "\uf1b2";
     """
-    (Free) Keywords: 3d, block, dice, package, pyramid, square, stack, tesseract
+    Cubes; Keywords: 3d, block, dice, package, pyramid, square, stack, tesseract; Keywords: 3d, block, dice, package, pyramid, square, stack, tesseract (Free)
     """
     cubes = "\uf1b3";
     """
-    (Free) Keywords: clip, scissors, snip
+    Cut; Keywords: clip, scissors, snip; Keywords: clip, scissors, snip (Free)
     """
     cut = "\uf0c4";
     """
-    (Free) Keywords: computer, development, directory, memory, storage
+    Database; Keywords: computer, development, directory, memory, storage; Keywords: computer, development, directory, memory, storage (Free)
     """
     database = "\uf1c0";
     """
-    (Free) Keywords: ear, hearing, sign language
+    Deaf; Keywords: ear, hearing, sign language; Keywords: ear, hearing, sign language (Free)
     """
     deaf = "\uf2a4";
     """
-    (Free) Keywords: american, democratic party, donkey, election, left, left-wing, liberal, politics, usa
+    Democrat; Keywords: american, democratic party, donkey, election, left, left-wing, liberal, politics, usa; Keywords: american, democratic party, donkey, election, left, left-wing, liberal, politics, usa (Free)
     """
     democrat = "\uf747";
     """
-    (Free) Keywords: computer, cpu, demo, desktop, device, imac, machine, monitor, pc, screen
+    Desktop; Keywords: computer, cpu, demo, desktop, device, imac, machine, monitor, pc, screen; Keywords: computer, cpu, demo, desktop, device, imac, machine, monitor, pc, screen (Free)
     """
     desktop = "\uf108";
     """
-    (Free) Keywords: buddhism, buddhist, wheel of dharma
+    Dharmachakra; Keywords: buddhism, buddhist, wheel of dharma; Keywords: buddhism, buddhist, wheel of dharma (Free)
     """
     dharmachakra = "\uf655";
     """
-    (Free) Keywords: analyze, detect, diagnosis, examine, medicine
+    Diagnoses; Keywords: analyze, detect, diagnosis, examine, medicine; Keywords: analyze, detect, diagnosis, examine, medicine (Free)
     """
     diagnoses = "\uf470";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice = "\uf522";
     """
-    (Free) Keywords: Dungeons & Dragons, chance, d&d, dnd, fantasy, gambling, game, roll
+    Dice D20; Keywords: Dungeons & Dragons, chance, d&d, dnd, fantasy, gambling, game, roll; Keywords: Dungeons & Dragons, chance, d&d, dnd, fantasy, gambling, game, roll (Free)
     """
     dice_d20 = "\uf6cf";
     """
-    (Free) Keywords: Dungeons & Dragons, chance, d&d, dnd, fantasy, gambling, game, roll
+    Dice D6; Keywords: Dungeons & Dragons, chance, d&d, dnd, fantasy, gambling, game, roll; Keywords: Dungeons & Dragons, chance, d&d, dnd, fantasy, gambling, game, roll (Free)
     """
     dice_d6 = "\uf6d1";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice Five; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice_five = "\uf523";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice Four; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice_four = "\uf524";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice One; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice_one = "\uf525";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice Six; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice_six = "\uf526";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice Three; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice_three = "\uf527";
     """
-    (Free) Keywords: chance, gambling, game, roll
+    Dice Two; Keywords: chance, gambling, game, roll; Keywords: chance, gambling, game, roll (Free)
     """
     dice_two = "\uf528";
     """
-    (Free) Keywords: data, distance, speed, tachometer
+    Digital Tachograph; Keywords: data, distance, speed, tachometer; Keywords: data, distance, speed, tachometer (Free)
     """
     digital_tachograph = "\uf566";
     """
-    (Free) Keywords: map, navigation, sign, turn
+    Directions; Keywords: map, navigation, sign, turn; Keywords: map, navigation, sign, turn (Free)
     """
     directions = "\uf5eb";
     """
-    (Free) Keywords: bacteria, cancer, covid-19, illness, infection, sickness, virus
+    Disease; Keywords: bacteria, cancer, covid-19, illness, infection, sickness, virus; Keywords: bacteria, cancer, covid-19, illness, infection, sickness, virus (Free)
     """
     disease = "\uf7fa";
     """
-    (Free) Keywords: arithmetic, calculus, division, math
+    Divide; Keywords: arithmetic, calculus, division, math; Keywords: arithmetic, calculus, division, math (Free)
     """
     divide = "\uf529";
     """
-    (Free) Keywords: dazed, dead, disapprove, emoticon, face
+    Dizzy Face; Keywords: dazed, dead, disapprove, emoticon, face; Keywords: dazed, dead, disapprove, emoticon, face (Free)
     """
     dizzy_face = "\uf567";
     """
-    (Free) Keywords: double helix, genetic, helix, molecule, protein
+    DNA; Keywords: double helix, genetic, helix, molecule, protein; Keywords: double helix, genetic, helix, molecule, protein (Free)
     """
     dna = "\uf471";
     """
-    (Free) Keywords: animal, canine, fauna, mammal, pet, pooch, puppy, woof
+    Dog; Keywords: animal, canine, fauna, mammal, pet, pooch, puppy, woof; Keywords: animal, canine, fauna, mammal, pet, pooch, puppy, woof (Free)
     """
     dog = "\uf6d3";
     """
-    (Free) Keywords: $, cost, dollar-sign, money, price, usd
+    Dollar Sign; Keywords: $, cost, dollar-sign, money, price, usd; Keywords: $, cost, dollar-sign, money, price, usd (Free)
     """
     dollar_sign = "\uf155";
     """
-    (Free) Keywords: carry, shipping, transport
+    Dolly; Keywords: carry, shipping, transport; Keywords: carry, shipping, transport (Free)
     """
     dolly = "\uf472";
     """
-    (Free) Keywords: carry, inventory, shipping, transport
+    Dolly Flatbed; Keywords: carry, inventory, shipping, transport; Keywords: carry, inventory, shipping, transport (Free)
     """
     dolly_flatbed = "\uf474";
     """
-    (Free) Keywords: contribute, generosity, gift, give
+    Donate; Keywords: contribute, generosity, gift, give; Keywords: contribute, generosity, gift, give (Free)
     """
     donate = "\uf4b9";
     """
-    (Free) Keywords: enter, exit, locked
+    Door Closed; Keywords: enter, exit, locked; Keywords: enter, exit, locked (Free)
     """
     door_closed = "\uf52a";
     """
-    (Free) Keywords: enter, exit, welcome
+    Door Open; Keywords: enter, exit, welcome; Keywords: enter, exit, welcome (Free)
     """
     door_open = "\uf52b";
     """
-    (Free) Keywords: bullseye, notification, target
+    Dot Circle; Keywords: bullseye, notification, target; Keywords: bullseye, notification, target (Free)
     """
     dot_circle = "\uf192";
     """
-    (Free) Keywords: bird, fauna, flying, peace, war
+    Dove; Keywords: bird, fauna, flying, peace, war; Keywords: bird, fauna, flying, peace, war (Free)
     """
     dove = "\uf4ba";
     """
-    (Free) Keywords: export, hard drive, save, transfer
+    Download; Keywords: export, hard drive, save, transfer; Keywords: export, hard drive, save, transfer (Free)
     """
     download = "\uf019";
     """
-    (Free) Keywords: design, map, mechanical drawing, plot, plotting
+    Drafting Compass; Keywords: design, map, mechanical drawing, plot, plotting; Keywords: design, map, mechanical drawing, plot, plotting (Free)
     """
     drafting_compass = "\uf568";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, fire, lizard, serpent
+    Dragon; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, fire, lizard, serpent; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, fire, lizard, serpent (Free)
     """
     dragon = "\uf6d5";
     """
-    (Free) Keywords: anchors, lines, object, render, shape
+    Draw Polygon; Keywords: anchors, lines, object, render, shape; Keywords: anchors, lines, object, render, shape (Free)
     """
     draw_polygon = "\uf5ee";
     """
-    (Free) Keywords: instrument, music, percussion, snare, sound
+    Drum; Keywords: instrument, music, percussion, snare, sound; Keywords: instrument, music, percussion, snare, sound (Free)
     """
     drum = "\uf569";
     """
-    (Free) Keywords: calypso, instrument, music, percussion, reggae, snare, sound, steel, tropical
+    Drum Steelpan; Keywords: calypso, instrument, music, percussion, reggae, snare, sound, steel, tropical; Keywords: calypso, instrument, music, percussion, reggae, snare, sound, steel, tropical (Free)
     """
     drum_steelpan = "\uf56a";
     """
-    (Free) Keywords: bone, chicken, leg, meat, poultry, turkey
+    Drumstick with Bite Taken Out; Keywords: bone, chicken, leg, meat, poultry, turkey; Keywords: bone, chicken, leg, meat, poultry, turkey (Free)
     """
     drumstick_with_bite_taken_out = "\uf6d7";
     """
-    (Free) Keywords: exercise, gym, strength, weight, weight-lifting
+    Dumbbell; Keywords: exercise, gym, strength, weight, weight-lifting; Keywords: exercise, gym, strength, weight, weight-lifting (Free)
     """
     dumbbell = "\uf44b";
     """
-    (Free) Keywords: alley, bin, commercial, trash, waste
+    Dumpster; Keywords: alley, bin, commercial, trash, waste; Keywords: alley, bin, commercial, trash, waste (Free)
     """
     dumpster = "\uf793";
     """
-    (Free) Keywords: alley, bin, commercial, danger, dangerous, euphemism, flame, heat, hot, trash, waste
+    Dumpster Fire; Keywords: alley, bin, commercial, danger, dangerous, euphemism, flame, heat, hot, trash, waste; Keywords: alley, bin, commercial, danger, dangerous, euphemism, flame, heat, hot, trash, waste (Free)
     """
     dumpster_fire = "\uf794";
     """
-    (Free) Keywords: Dungeons & Dragons, building, d&d, dnd, door, entrance, fantasy, gate
+    Dungeon; Keywords: Dungeons & Dragons, building, d&d, dnd, door, entrance, fantasy, gate; Keywords: Dungeons & Dragons, building, d&d, dnd, door, entrance, fantasy, gate (Free)
     """
     dungeon = "\uf6d9";
     """
-    (Free) Keywords: edit, pen, pencil, update, write
+    Edit; Keywords: edit, pen, pencil, update, write; Keywords: edit, pen, pencil, update, write (Free)
     """
     edit = "\uf044";
     """
-    (Free) Keywords: breakfast, chicken, easter, shell, yolk
+    Egg; Keywords: breakfast, chicken, easter, shell, yolk; Keywords: breakfast, chicken, easter, shell, yolk (Free)
     """
     egg = "\uf7fb";
     """
-    (Free) Keywords: abort, cancel, cd, discharge
+    eject; Keywords: abort, cancel, cd, discharge; Keywords: abort, cancel, cd, discharge (Free)
     """
     eject = "\uf052";
     """
-    (Free) Keywords: dots, drag, kebab, list, menu, nav, navigation, ol, reorder, settings, ul
+    Horizontal Ellipsis; Keywords: dots, drag, kebab, list, menu, nav, navigation, ol, reorder, settings, ul; Keywords: dots, drag, kebab, list, menu, nav, navigation, ol, reorder, settings, ul (Free)
     """
     horizontal_ellipsis = "\uf141";
     """
-    (Free) Keywords: dots, drag, kebab, list, menu, nav, navigation, ol, reorder, settings, ul
+    Vertical Ellipsis; Keywords: dots, drag, kebab, list, menu, nav, navigation, ol, reorder, settings, ul; Keywords: dots, drag, kebab, list, menu, nav, navigation, ol, reorder, settings, ul (Free)
     """
     vertical_ellipsis = "\uf142";
     """
-    (Free) Keywords: e-mail, email, letter, mail, message, notification, support
+    Envelope; Keywords: e-mail, email, letter, mail, message, notification, support; Keywords: e-mail, email, letter, mail, message, notification, support (Free)
     """
     envelope = "\uf0e0";
     """
-    (Free) Keywords: e-mail, email, letter, mail, message, notification, support
+    Envelope Open; Keywords: e-mail, email, letter, mail, message, notification, support; Keywords: e-mail, email, letter, mail, message, notification, support (Free)
     """
     envelope_open = "\uf2b6";
     """
-    (Free) Keywords: e-mail, email, letter, mail, message, notification, support
+    Envelope Open-text; Keywords: e-mail, email, letter, mail, message, notification, support; Keywords: e-mail, email, letter, mail, message, notification, support (Free)
     """
     envelope_open_text = "\uf658";
     """
-    (Free) Keywords: e-mail, email, letter, mail, message, notification, support
+    Envelope Square; Keywords: e-mail, email, letter, mail, message, notification, support; Keywords: e-mail, email, letter, mail, message, notification, support (Free)
     """
     envelope_square = "\uf199";
     """
-    (Free) Keywords: arithmetic, even, match, math
+    Equals; Keywords: arithmetic, even, match, math; Keywords: arithmetic, even, match, math (Free)
     """
     equals = "\uf52c";
     """
-    (Free) Keywords: art, delete, remove, rubber
+    eraser; Keywords: art, delete, remove, rubber; Keywords: art, delete, remove, rubber (Free)
     """
     eraser = "\uf12d";
     """
-    (Free) Keywords: cable, cat 5, cat 6, connection, hardware, internet, network, wired
+    Ethernet; Keywords: cable, cat 5, cat 6, connection, hardware, internet, network, wired; Keywords: cable, cat 5, cat 6, connection, hardware, internet, network, wired (Free)
     """
     ethernet = "\uf796";
     """
-    (Free) Keywords: currency, dollar, exchange, money
+    Euro Sign; Keywords: currency, dollar, exchange, money; Keywords: currency, dollar, exchange, money (Free)
     """
     euro_sign = "\uf153";
     """
-    (Free) Keywords: arrow, arrows, exchange, reciprocate, return, swap, transfer
+    Alternate Exchange; Keywords: arrow, arrows, exchange, reciprocate, return, swap, transfer; Keywords: arrow, arrows, exchange, reciprocate, return, swap, transfer (Free)
     """
     alternate_exchange = "\uf362";
     """
-    (Free) Keywords: alert, danger, error, important, notice, notification, notify, problem, warning
+    exclamation; Keywords: alert, danger, error, important, notice, notification, notify, problem, warning; Keywords: alert, danger, error, important, notice, notification, notify, problem, warning (Free)
     """
     exclamation = "\uf12a";
     """
-    (Free) Keywords: alert, danger, error, important, notice, notification, notify, problem, warning
+    Exclamation Circle; Keywords: alert, danger, error, important, notice, notification, notify, problem, warning; Keywords: alert, danger, error, important, notice, notification, notify, problem, warning (Free)
     """
     exclamation_circle = "\uf06a";
     """
-    (Free) Keywords: alert, danger, error, important, notice, notification, notify, problem, warning
+    Exclamation Triangle; Keywords: alert, danger, error, important, notice, notification, notify, problem, warning; Keywords: alert, danger, error, important, notice, notification, notify, problem, warning (Free)
     """
     exclamation_triangle = "\uf071";
     """
-    (Free) Keywords: bigger, enlarge, fullscreen, resize
+    Expand; Keywords: bigger, enlarge, fullscreen, resize; Keywords: bigger, enlarge, fullscreen, resize (Free)
     """
     expand = "\uf065";
     """
-    (Free) Keywords: arrows, bigger, enlarge, fullscreen, resize
+    Alternate Expand; Keywords: arrows, bigger, enlarge, fullscreen, resize; Keywords: arrows, bigger, enlarge, fullscreen, resize (Free)
     """
     alternate_expand = "\uf424";
     """
-    (Free) Keywords: bigger, enlarge, fullscreen, move, resize
+    Alternate Expand Arrows; Keywords: bigger, enlarge, fullscreen, move, resize; Keywords: bigger, enlarge, fullscreen, move, resize (Free)
     """
     alternate_expand_arrows = "\uf31e";
     """
-    (Free) Keywords: external-link, new, open, share
+    Alternate External Link; Keywords: external-link, new, open, share; Keywords: external-link, new, open, share (Free)
     """
     alternate_external_link = "\uf35d";
     """
-    (Free) Keywords: external-link-square, new, open, share
+    Alternate External Link Square; Keywords: external-link-square, new, open, share; Keywords: external-link-square, new, open, share (Free)
     """
     alternate_external_link_square = "\uf360";
     """
-    (Free) Keywords: look, optic, see, seen, show, sight, views, visible
+    Eye; Keywords: look, optic, see, seen, show, sight, views, visible; Keywords: look, optic, see, seen, show, sight, views, visible (Free)
     """
     eye = "\uf06e";
     """
-    (Free) Keywords: beaker, clone, color, copy, eyedropper, pipette
+    Eye Dropper; Keywords: beaker, clone, color, copy, eyedropper, pipette; Keywords: beaker, clone, color, copy, eyedropper, pipette (Free)
     """
     eye_dropper = "\uf1fb";
     """
-    (Free) Keywords: blind, hide, show, toggle, unseen, views, visible, visiblity
+    Eye Slash; Keywords: blind, hide, show, toggle, unseen, views, visible, visiblity; Keywords: blind, hide, show, toggle, unseen, views, visible, visiblity (Free)
     """
     eye_slash = "\uf070";
     """
-    (Free) Keywords: ac, air conditioning, blade, blower, cool, hot
+    Fan; Keywords: ac, air conditioning, blade, blower, cool, hot; Keywords: ac, air conditioning, blade, blower, cool, hot (Free)
     """
     fan = "\uf863";
     """
-    (Free) Keywords: beginning, first, previous, rewind, start
+    fast-backward; Keywords: beginning, first, previous, rewind, start; Keywords: beginning, first, previous, rewind, start (Free)
     """
     fast_backward = "\uf049";
     """
-    (Free) Keywords: end, last, next
+    fast-forward; Keywords: end, last, next; Keywords: end, last, next (Free)
     """
     fast_forward = "\uf050";
     """
-    (Free) Keywords: covid-19, drip, house, hygiene, kitchen, sink, water
+    Faucet; Keywords: covid-19, drip, house, hygiene, kitchen, sink, water; Keywords: covid-19, drip, house, hygiene, kitchen, sink, water (Free)
     """
     faucet = "\ue005";
     """
-    (Free) Keywords: business, communicate, copy, facsimile, send
+    Fax; Keywords: business, communicate, copy, facsimile, send; Keywords: business, communicate, copy, facsimile, send (Free)
     """
     fax = "\uf1ac";
     """
-    (Free) Keywords: bird, light, plucked, quill, write
+    Feather; Keywords: bird, light, plucked, quill, write; Keywords: bird, light, plucked, quill, write (Free)
     """
     feather = "\uf52d";
     """
-    (Free) Keywords: bird, light, plucked, quill, write
+    Alternate Feather; Keywords: bird, light, plucked, quill, write; Keywords: bird, light, plucked, quill, write (Free)
     """
     alternate_feather = "\uf56b";
     """
-    (Free) Keywords: human, person, profile, user, woman
+    Female; Keywords: human, person, profile, user, woman; Keywords: human, person, profile, user, woman (Free)
     """
     female = "\uf182";
     """
-    (Free) Keywords: airplane, fast, fly, goose, maverick, plane, quick, top gun, transportation, travel
+    fighter-jet; Keywords: airplane, fast, fly, goose, maverick, plane, quick, top gun, transportation, travel; Keywords: airplane, fast, fly, goose, maverick, plane, quick, top gun, transportation, travel (Free)
     """
     fighter_jet = "\uf0fb";
     """
-    (Free) Keywords: document, new, page, pdf, resume
+    File; Keywords: document, new, page, pdf, resume; Keywords: document, new, page, pdf, resume (Free)
     """
     file = "\uf15b";
     """
-    (Free) Keywords: document, file-text, invoice, new, page, pdf
+    Alternate File; Keywords: document, file-text, invoice, new, page, pdf; Keywords: document, file-text, invoice, new, page, pdf (Free)
     """
     alternate_file = "\uf15c";
     """
-    (Free) Keywords: .zip, bundle, compress, compression, download, zip
+    Archive File; Keywords: .zip, bundle, compress, compression, download, zip; Keywords: .zip, bundle, compress, compression, download, zip (Free)
     """
     archive_file = "\uf1c6";
     """
-    (Free) Keywords: document, mp3, music, page, play, sound
+    Audio File; Keywords: document, mp3, music, page, play, sound; Keywords: document, mp3, music, page, play, sound (Free)
     """
     audio_file = "\uf1c7";
     """
-    (Free) Keywords: css, development, document, html
+    Code File; Keywords: css, development, document, html; Keywords: css, development, document, html (Free)
     """
     code_file = "\uf1c9";
     """
-    (Free) Keywords: agreement, binding, document, legal, signature
+    File Contract; Keywords: agreement, binding, document, legal, signature; Keywords: agreement, binding, document, legal, signature (Free)
     """
     file_contract = "\uf56c";
     """
-    (Free) Keywords: document, excel, numbers, spreadsheets, table
+    File CSV; Keywords: document, excel, numbers, spreadsheets, table; Keywords: document, excel, numbers, spreadsheets, table (Free)
     """
     file_csv = "\uf6dd";
     """
-    (Free) Keywords: document, export, save
+    File Download; Keywords: document, export, save; Keywords: document, export, save (Free)
     """
     file_download = "\uf56d";
     """
-    (Free) Keywords: csv, document, numbers, spreadsheets, table
+    Excel File; Keywords: csv, document, numbers, spreadsheets, table; Keywords: csv, document, numbers, spreadsheets, table (Free)
     """
     excel_file = "\uf1c3";
     """
-    (Free) Keywords: download, save
+    File Export; Keywords: download, save; Keywords: download, save (Free)
     """
     file_export = "\uf56e";
     """
-    (Free) Keywords: document, image, jpg, photo, png
+    Image File; Keywords: document, image, jpg, photo, png; Keywords: document, image, jpg, photo, png (Free)
     """
     image_file = "\uf1c5";
     """
-    (Free) Keywords: copy, document, send, upload
+    File Import; Keywords: copy, document, send, upload; Keywords: copy, document, send, upload (Free)
     """
     file_import = "\uf56f";
     """
-    (Free) Keywords: account, bill, charge, document, payment, receipt
+    File Invoice; Keywords: account, bill, charge, document, payment, receipt; Keywords: account, bill, charge, document, payment, receipt (Free)
     """
     file_invoice = "\uf570";
     """
-    (Free) Keywords: $, account, bill, charge, document, dollar-sign, money, payment, receipt, usd
+    File Invoice with US Dollar; Keywords: $, account, bill, charge, document, dollar-sign, money, payment, receipt, usd; Keywords: $, account, bill, charge, document, dollar-sign, money, payment, receipt, usd (Free)
     """
     file_invoice_with_us_dollar = "\uf571";
     """
-    (Free) Keywords: document, health, history, prescription, record
+    Medical File; Keywords: document, health, history, prescription, record; Keywords: document, health, history, prescription, record (Free)
     """
     medical_file = "\uf477";
     """
-    (Free) Keywords: document, health, history, prescription, record
+    Alternate Medical File; Keywords: document, health, history, prescription, record; Keywords: document, health, history, prescription, record (Free)
     """
     alternate_medical_file = "\uf478";
     """
-    (Free) Keywords: acrobat, document, preview, save
+    PDF File; Keywords: acrobat, document, preview, save; Keywords: acrobat, document, preview, save (Free)
     """
     pdf_file = "\uf1c1";
     """
-    (Free) Keywords: display, document, keynote, presentation
+    Powerpoint File; Keywords: display, document, keynote, presentation; Keywords: display, document, keynote, presentation (Free)
     """
     powerpoint_file = "\uf1c4";
     """
-    (Free) Keywords: document, drugs, medical, medicine, rx
+    File Prescription; Keywords: document, drugs, medical, medicine, rx; Keywords: document, drugs, medical, medicine, rx (Free)
     """
     file_prescription = "\uf572";
     """
-    (Free) Keywords: John Hancock, contract, document, name
+    File Signature; Keywords: John Hancock, contract, document, name; Keywords: John Hancock, contract, document, name (Free)
     """
     file_signature = "\uf573";
     """
-    (Free) Keywords: document, import, page, save
+    File Upload; Keywords: document, import, page, save; Keywords: document, import, page, save (Free)
     """
     file_upload = "\uf574";
     """
-    (Free) Keywords: document, m4v, movie, mp4, play
+    Video File; Keywords: document, m4v, movie, mp4, play; Keywords: document, m4v, movie, mp4, play (Free)
     """
     video_file = "\uf1c8";
     """
-    (Free) Keywords: document, edit, page, text, writing
+    Word File; Keywords: document, edit, page, text, writing; Keywords: document, edit, page, text, writing (Free)
     """
     word_file = "\uf1c2";
     """
-    (Free) Keywords: bucket, color, paint, paint bucket
+    Fill; Keywords: bucket, color, paint, paint bucket; Keywords: bucket, color, paint, paint bucket (Free)
     """
     fill = "\uf575";
     """
-    (Free) Keywords: bucket, color, drop, paint, paint bucket, spill
+    Fill Drip; Keywords: bucket, color, drop, paint, paint bucket, spill; Keywords: bucket, color, drop, paint, paint bucket, spill (Free)
     """
     fill_drip = "\uf576";
     """
-    (Free) Keywords: cinema, movie, strip, video
+    Film; Keywords: cinema, movie, strip, video; Keywords: cinema, movie, strip, video (Free)
     """
     film = "\uf008";
     """
-    (Free) Keywords: funnel, options, separate, sort
+    Filter; Keywords: funnel, options, separate, sort; Keywords: funnel, options, separate, sort (Free)
     """
     filter = "\uf0b0";
     """
-    (Free) Keywords: human, id, identification, lock, smudge, touch, unique, unlock
+    Fingerprint; Keywords: human, id, identification, lock, smudge, touch, unique, unlock; Keywords: human, id, identification, lock, smudge, touch, unique, unlock (Free)
     """
     fingerprint = "\uf577";
     """
-    (Free) Keywords: burn, caliente, flame, heat, hot, popular
+    fire; Keywords: burn, caliente, flame, heat, hot, popular; Keywords: burn, caliente, flame, heat, hot, popular (Free)
     """
     fire = "\uf06d";
     """
-    (Free) Keywords: burn, caliente, flame, heat, hot, popular
+    Alternate Fire; Keywords: burn, caliente, flame, heat, hot, popular; Keywords: burn, caliente, flame, heat, hot, popular (Free)
     """
     alternate_fire = "\uf7e4";
     """
-    (Free) Keywords: burn, caliente, fire fighter, flame, heat, hot, rescue
+    fire-extinguisher; Keywords: burn, caliente, fire fighter, flame, heat, hot, rescue; Keywords: burn, caliente, fire fighter, flame, heat, hot, rescue (Free)
     """
     fire_extinguisher = "\uf134";
     """
-    (Free) Keywords: emergency, emt, health, medical, rescue
+    First Aid; Keywords: emergency, emt, health, medical, rescue; Keywords: emergency, emt, health, medical, rescue (Free)
     """
     first_aid = "\uf479";
     """
-    (Free) Keywords: fauna, gold, seafood, swimming
+    Fish; Keywords: fauna, gold, seafood, swimming; Keywords: fauna, gold, seafood, swimming (Free)
     """
     fish = "\uf578";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, hand, ki, monk, resist, strength, unarmed combat
+    Raised Fist; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, hand, ki, monk, resist, strength, unarmed combat; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, hand, ki, monk, resist, strength, unarmed combat (Free)
     """
     raised_fist = "\uf6de";
     """
-    (Free) Keywords: country, notice, notification, notify, pole, report, symbol
+    flag; Keywords: country, notice, notification, notify, pole, report, symbol; Keywords: country, notice, notification, notify, pole, report, symbol (Free)
     """
     flag = "\uf024";
     """
-    (Free) Keywords: notice, notification, notify, pole, racing, report, symbol
+    flag-checkered; Keywords: notice, notification, notify, pole, racing, report, symbol; Keywords: notice, notification, notify, pole, racing, report, symbol (Free)
     """
     flag_checkered = "\uf11e";
     """
-    (Free) Keywords: betsy ross, country, old glory, stars, stripes, symbol
+    United States of America Flag; Keywords: betsy ross, country, old glory, stars, stripes, symbol; Keywords: betsy ross, country, old glory, stars, stripes, symbol (Free)
     """
     united_states_of_america_flag = "\uf74d";
     """
-    (Free) Keywords: beaker, experimental, labs, science
+    Flask; Keywords: beaker, experimental, labs, science; Keywords: beaker, experimental, labs, science (Free)
     """
     flask = "\uf0c3";
     """
-    (Free) Keywords: embarrassed, emoticon, face
+    Flushed Face; Keywords: embarrassed, emoticon, face; Keywords: embarrassed, emoticon, face (Free)
     """
     flushed_face = "\uf579";
     """
-    (Free) Keywords: archive, directory, document, file
+    Folder; Keywords: archive, directory, document, file; Keywords: archive, directory, document, file (Free)
     """
     folder = "\uf07b";
     """
-    (Free) Keywords: archive, delete, directory, document, file, negative, remove
+    Folder Minus; Keywords: archive, delete, directory, document, file, negative, remove; Keywords: archive, delete, directory, document, file, negative, remove (Free)
     """
     folder_minus = "\uf65d";
     """
-    (Free) Keywords: archive, directory, document, empty, file, new
+    Folder Open; Keywords: archive, directory, document, empty, file, new; Keywords: archive, directory, document, empty, file, new (Free)
     """
     folder_open = "\uf07c";
     """
-    (Free) Keywords: add, archive, create, directory, document, file, new, positive
+    Folder Plus; Keywords: add, archive, create, directory, document, file, new, positive; Keywords: add, archive, create, directory, document, file, new, positive (Free)
     """
     folder_plus = "\uf65e";
     """
-    (Free) Keywords: alphabet, glyph, text, type, typeface
+    font; Keywords: alphabet, glyph, text, type, typeface; Keywords: alphabet, glyph, text, type, typeface (Free)
     """
     font = "\uf031";
     """
-    (Free) 
+    Font Awesome Full Logo (Free)
     """
     font_awesome_full_logo = "\uf4e6";
     """
-    (Free) Keywords: ball, fall, nfl, pigskin, seasonal
+    Football Ball; Keywords: ball, fall, nfl, pigskin, seasonal; Keywords: ball, fall, nfl, pigskin, seasonal (Free)
     """
     football_ball = "\uf44e";
     """
-    (Free) Keywords: forward, next, skip
+    forward; Keywords: forward, next, skip; Keywords: forward, next, skip (Free)
     """
     forward = "\uf04e";
     """
-    (Free) Keywords: amphibian, bullfrog, fauna, hop, kermit, kiss, prince, ribbit, toad, wart
+    Frog; Keywords: amphibian, bullfrog, fauna, hop, kermit, kiss, prince, ribbit, toad, wart; Keywords: amphibian, bullfrog, fauna, hop, kermit, kiss, prince, ribbit, toad, wart (Free)
     """
     frog = "\uf52e";
     """
-    (Free) Keywords: disapprove, emoticon, face, rating, sad
+    Frowning Face; Keywords: disapprove, emoticon, face, rating, sad; Keywords: disapprove, emoticon, face, rating, sad (Free)
     """
     frowning_face = "\uf119";
     """
-    (Free) Keywords: disapprove, emoticon, face, rating, sad
+    Frowning Face With Open Mouth; Keywords: disapprove, emoticon, face, rating, sad; Keywords: disapprove, emoticon, face, rating, sad (Free)
     """
     frowning_face_with_open_mouth = "\uf57a";
     """
-    (Free) Keywords: filter, money, options, separate, sort
+    Funnel Dollar; Keywords: filter, money, options, separate, sort; Keywords: filter, money, options, separate, sort (Free)
     """
     funnel_dollar = "\uf662";
     """
-    (Free) Keywords: ball, football, mls, soccer
+    Futbol; Keywords: ball, football, mls, soccer; Keywords: ball, football, mls, soccer (Free)
     """
     futbol = "\uf1e3";
     """
-    (Free) Keywords: arcade, controller, d-pad, joystick, video, video game
+    Gamepad; Keywords: arcade, controller, d-pad, joystick, video, video game; Keywords: arcade, controller, d-pad, joystick, video, video game (Free)
     """
     gamepad = "\uf11b";
     """
-    (Free) Keywords: car, fuel, gasoline, petrol
+    Gas Pump; Keywords: car, fuel, gasoline, petrol; Keywords: car, fuel, gasoline, petrol (Free)
     """
     gas_pump = "\uf52f";
     """
-    (Free) Keywords: hammer, judge, law, lawyer, opinion
+    Gavel; Keywords: hammer, judge, law, lawyer, opinion; Keywords: hammer, judge, law, lawyer, opinion (Free)
     """
     gavel = "\uf0e3";
     """
-    (Free) Keywords: diamond, jewelry, sapphire, stone, treasure
+    Gem; Keywords: diamond, jewelry, sapphire, stone, treasure; Keywords: diamond, jewelry, sapphire, stone, treasure (Free)
     """
     gem = "\uf3a5";
     """
-    (Free) Keywords: androgynous, asexual, sexless
+    Genderless; Keywords: androgynous, asexual, sexless; Keywords: androgynous, asexual, sexless (Free)
     """
     genderless = "\uf22d";
     """
-    (Free) Keywords: apparition, blinky, clyde, floating, halloween, holiday, inky, pinky, spirit
+    Ghost; Keywords: apparition, blinky, clyde, floating, halloween, holiday, inky, pinky, spirit; Keywords: apparition, blinky, clyde, floating, halloween, holiday, inky, pinky, spirit (Free)
     """
     ghost = "\uf6e2";
     """
-    (Free) Keywords: christmas, generosity, giving, holiday, party, present, wrapped, xmas
+    gift; Keywords: christmas, generosity, giving, holiday, party, present, wrapped, xmas; Keywords: christmas, generosity, giving, holiday, party, present, wrapped, xmas (Free)
     """
     gift = "\uf06b";
     """
-    (Free) Keywords: christmas, generosity, giving, holiday, party, present, wrapped, xmas
+    Gifts; Keywords: christmas, generosity, giving, holiday, party, present, wrapped, xmas; Keywords: christmas, generosity, giving, holiday, party, present, wrapped, xmas (Free)
     """
     gifts = "\uf79c";
     """
-    (Free) Keywords: alcohol, bar, beverage, celebration, champagne, clink, drink, holiday, new year's eve, party, toast
+    Glass Cheers; Keywords: alcohol, bar, beverage, celebration, champagne, clink, drink, holiday, new year's eve, party, toast; Keywords: alcohol, bar, beverage, celebration, champagne, clink, drink, holiday, new year's eve, party, toast (Free)
     """
     glass_cheers = "\uf79f";
     """
-    (Free) Keywords: alcohol, bar, beverage, drink, liquor
+    Martini Glass; Keywords: alcohol, bar, beverage, drink, liquor; Keywords: alcohol, bar, beverage, drink, liquor (Free)
     """
     martini_glass = "\uf000";
     """
-    (Free) Keywords: alcohol, bar, beverage, drink, liquor
+    Alternate Glass Martini; Keywords: alcohol, bar, beverage, drink, liquor; Keywords: alcohol, bar, beverage, drink, liquor (Free)
     """
     alternate_glass_martini = "\uf57b";
     """
-    (Free) Keywords: alcohol, bar, beverage, bourbon, drink, liquor, neat, rye, scotch, whisky
+    Glass Whiskey; Keywords: alcohol, bar, beverage, bourbon, drink, liquor, neat, rye, scotch, whisky; Keywords: alcohol, bar, beverage, bourbon, drink, liquor, neat, rye, scotch, whisky (Free)
     """
     glass_whiskey = "\uf7a0";
     """
-    (Free) Keywords: hipster, nerd, reading, sight, spectacles, vision
+    Glasses; Keywords: hipster, nerd, reading, sight, spectacles, vision; Keywords: hipster, nerd, reading, sight, spectacles, vision (Free)
     """
     glasses = "\uf530";
     """
-    (Free) Keywords: all, coordinates, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world
+    Globe; Keywords: all, coordinates, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world; Keywords: all, coordinates, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world (Free)
     """
     globe = "\uf0ac";
     """
-    (Free) Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world
+    Globe with Africa shown; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world (Free)
     """
     globe_with_africa_shown = "\uf57c";
     """
-    (Free) Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world
+    Globe with Americas shown; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world (Free)
     """
     globe_with_americas_shown = "\uf57d";
     """
-    (Free) Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world
+    Globe with Asia shown; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world (Free)
     """
     globe_with_asia_shown = "\uf57e";
     """
-    (Free) Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world
+    Globe with Europe shown; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world; Keywords: all, country, earth, global, gps, language, localize, location, map, online, place, planet, translate, travel, world (Free)
     """
     globe_with_europe_shown = "\uf7a2";
     """
-    (Free) Keywords: caddy, eagle, putt, tee
+    Golf Ball; Keywords: caddy, eagle, putt, tee; Keywords: caddy, eagle, putt, tee (Free)
     """
     golf_ball = "\uf450";
     """
-    (Free) Keywords: building, entrance, hinduism, temple, tower
+    Gopuram; Keywords: building, entrance, hinduism, temple, tower; Keywords: building, entrance, hinduism, temple, tower (Free)
     """
     gopuram = "\uf664";
     """
-    (Free) Keywords: ceremony, college, graduate, learning, school, student
+    Graduation Cap; Keywords: ceremony, college, graduate, learning, school, student; Keywords: ceremony, college, graduate, learning, school, student (Free)
     """
     graduation_cap = "\uf19d";
     """
-    (Free) Keywords: arithmetic, compare, math
+    Greater Than; Keywords: arithmetic, compare, math; Keywords: arithmetic, compare, math (Free)
     """
     greater_than = "\uf531";
     """
-    (Free) Keywords: arithmetic, compare, math
+    Greater Than Equal To; Keywords: arithmetic, compare, math; Keywords: arithmetic, compare, math (Free)
     """
     greater_than_equal_to = "\uf532";
     """
-    (Free) Keywords: cringe, emoticon, face, teeth
+    Grimacing Face; Keywords: cringe, emoticon, face, teeth; Keywords: cringe, emoticon, face, teeth (Free)
     """
     grimacing_face = "\uf57f";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Grinning Face; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     grinning_face = "\uf580";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Alternate Grinning Face; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     alternate_grinning_face = "\uf581";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Grinning Face With Smiling Eyes; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     grinning_face_with_smiling_eyes = "\uf582";
     """
-    (Free) Keywords: embarass, emoticon, face, smile
+    Grinning Face With Sweat; Keywords: embarass, emoticon, face, smile; Keywords: embarass, emoticon, face, smile (Free)
     """
     grinning_face_with_sweat = "\uf583";
     """
-    (Free) Keywords: emoticon, face, love, smile
+    Smiling Face With Heart-Eyes; Keywords: emoticon, face, love, smile; Keywords: emoticon, face, love, smile (Free)
     """
     smiling_face_with_heart_eyes = "\uf584";
     """
-    (Free) Keywords: emoticon, face, laugh, smile
+    Grinning Squinting Face; Keywords: emoticon, face, laugh, smile; Keywords: emoticon, face, laugh, smile (Free)
     """
     grinning_squinting_face = "\uf585";
     """
-    (Free) Keywords: emoticon, face, happy, smile
+    Rolling on the Floor Laughing; Keywords: emoticon, face, happy, smile; Keywords: emoticon, face, happy, smile (Free)
     """
     rolling_on_the_floor_laughing = "\uf586";
     """
-    (Free) Keywords: emoticon, face, star-struck
+    Star-Struck; Keywords: emoticon, face, star-struck; Keywords: emoticon, face, star-struck (Free)
     """
     star_struck = "\uf587";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Face With Tears of Joy; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     face_with_tears_of_joy = "\uf588";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Face With Tongue; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     face_with_tongue = "\uf589";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Squinting Face With Tongue; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     squinting_face_with_tongue = "\uf58a";
     """
-    (Free) Keywords: LOL, emoticon, face
+    Winking Face With Tongue; Keywords: LOL, emoticon, face; Keywords: LOL, emoticon, face (Free)
     """
     winking_face_with_tongue = "\uf58b";
     """
-    (Free) Keywords: emoticon, face, flirt, laugh, smile
+    Grinning Winking Face; Keywords: emoticon, face, flirt, laugh, smile; Keywords: emoticon, face, flirt, laugh, smile (Free)
     """
     grinning_winking_face = "\uf58c";
     """
-    (Free) Keywords: affordance, drag, drop, grab, handle
+    Grip Horizontal; Keywords: affordance, drag, drop, grab, handle; Keywords: affordance, drag, drop, grab, handle (Free)
     """
     grip_horizontal = "\uf58d";
     """
-    (Free) Keywords: affordance, drag, drop, grab, handle
+    Grip Lines; Keywords: affordance, drag, drop, grab, handle; Keywords: affordance, drag, drop, grab, handle (Free)
     """
     grip_lines = "\uf7a4";
     """
-    (Free) Keywords: affordance, drag, drop, grab, handle
+    Grip Lines Vertical; Keywords: affordance, drag, drop, grab, handle; Keywords: affordance, drag, drop, grab, handle (Free)
     """
     grip_lines_vertical = "\uf7a5";
     """
-    (Free) Keywords: affordance, drag, drop, grab, handle
+    Grip Vertical; Keywords: affordance, drag, drop, grab, handle; Keywords: affordance, drag, drop, grab, handle (Free)
     """
     grip_vertical = "\uf58e";
     """
-    (Free) Keywords: acoustic, instrument, music, rock, rock and roll, song, strings
+    Guitar; Keywords: acoustic, instrument, music, rock, rock and roll, song, strings; Keywords: acoustic, instrument, music, rock, rock and roll, song, strings (Free)
     """
     guitar = "\uf7a6";
     """
-    (Free) Keywords: directions, emergency, hospital, hotel, map
+    H Square; Keywords: directions, emergency, hospital, hotel, map; Keywords: directions, emergency, hospital, hotel, map (Free)
     """
     h_square = "\uf0fd";
     """
-    (Free) Keywords: bacon, beef, burger, burger king, cheeseburger, fast food, grill, ground beef, mcdonalds, sandwich
+    Hamburger; Keywords: bacon, beef, burger, burger king, cheeseburger, fast food, grill, ground beef, mcdonalds, sandwich; Keywords: bacon, beef, burger, burger king, cheeseburger, fast food, grill, ground beef, mcdonalds, sandwich (Free)
     """
     hamburger = "\uf805";
     """
-    (Free) Keywords: admin, fix, repair, settings, tool
+    Hammer; Keywords: admin, fix, repair, settings, tool; Keywords: admin, fix, repair, settings, tool (Free)
     """
     hammer = "\uf6e3";
     """
-    (Free) Keywords: amulet, christianity, islam, jewish, judaism, muslim, protection
+    Hamsa; Keywords: amulet, christianity, islam, jewish, judaism, muslim, protection; Keywords: amulet, christianity, islam, jewish, judaism, muslim, protection (Free)
     """
     hamsa = "\uf665";
     """
-    (Free) Keywords: carry, lift
+    Hand Holding; Keywords: carry, lift; Keywords: carry, lift (Free)
     """
     hand_holding = "\uf4bd";
     """
-    (Free) Keywords: carry, charity, gift, lift, package
+    Hand Holding Heart; Keywords: carry, charity, gift, lift, package; Keywords: carry, charity, gift, lift, package (Free)
     """
     hand_holding_heart = "\uf4be";
     """
-    (Free) Keywords: care, covid-19, donate, help
+    Hand Holding Medical Cross; Keywords: care, covid-19, donate, help; Keywords: care, covid-19, donate, help (Free)
     """
     hand_holding_medical_cross = "\ue05c";
     """
-    (Free) Keywords: $, carry, dollar sign, donation, giving, lift, money, price
+    Hand Holding US Dollar; Keywords: $, carry, dollar sign, donation, giving, lift, money, price; Keywords: $, carry, dollar sign, donation, giving, lift, money, price (Free)
     """
     hand_holding_us_dollar = "\uf4c0";
     """
-    (Free) Keywords: carry, covid-19, drought, grow, lift
+    Hand Holding Water; Keywords: carry, covid-19, drought, grow, lift; Keywords: carry, covid-19, drought, grow, lift (Free)
     """
     hand_holding_water = "\uf4c1";
     """
-    (Free) Keywords: game, roshambo
+    Lizard (Hand); Keywords: game, roshambo; Keywords: game, roshambo (Free)
     """
     lizard_hand = "\uf258";
     """
-    (Free) Keywords: flip the bird, gesture, hate, rude
+    Hand with Middle Finger Raised; Keywords: flip the bird, gesture, hate, rude; Keywords: flip the bird, gesture, hate, rude (Free)
     """
     hand_with_middle_finger_raised = "\uf806";
     """
-    (Free) Keywords: game, halt, roshambo, stop
+    Paper (Hand); Keywords: game, halt, roshambo, stop; Keywords: game, halt, roshambo, stop (Free)
     """
     paper_hand = "\uf256";
     """
-    (Free) Keywords: rest, truce
+    Peace (Hand); Keywords: rest, truce; Keywords: rest, truce (Free)
     """
     peace_hand = "\uf25b";
     """
-    (Free) Keywords: finger, hand-o-down, point
+    Hand Pointing Down; Keywords: finger, hand-o-down, point; Keywords: finger, hand-o-down, point (Free)
     """
     hand_pointing_down = "\uf0a7";
     """
-    (Free) Keywords: back, finger, hand-o-left, left, point, previous
+    Hand Pointing Left; Keywords: back, finger, hand-o-left, left, point, previous; Keywords: back, finger, hand-o-left, left, point, previous (Free)
     """
     hand_pointing_left = "\uf0a5";
     """
-    (Free) Keywords: finger, forward, hand-o-right, next, point, right
+    Hand Pointing Right; Keywords: finger, forward, hand-o-right, next, point, right; Keywords: finger, forward, hand-o-right, next, point, right (Free)
     """
     hand_pointing_right = "\uf0a4";
     """
-    (Free) Keywords: finger, hand-o-up, point
+    Hand Pointing Up; Keywords: finger, hand-o-up, point; Keywords: finger, hand-o-up, point (Free)
     """
     hand_pointing_up = "\uf0a6";
     """
-    (Free) Keywords: arrow, cursor, select
+    Pointer (Hand); Keywords: arrow, cursor, select; Keywords: arrow, cursor, select (Free)
     """
     pointer_hand = "\uf25a";
     """
-    (Free) Keywords: fist, game, roshambo
+    Rock (Hand); Keywords: fist, game, roshambo; Keywords: fist, game, roshambo (Free)
     """
     rock_hand = "\uf255";
     """
-    (Free) Keywords: cut, game, roshambo
+    Scissors (Hand); Keywords: cut, game, roshambo; Keywords: cut, game, roshambo (Free)
     """
     scissors_hand = "\uf257";
     """
-    (Free) Keywords: clean, covid-19, hygiene, magic, soap, wash
+    Hand Sparkles; Keywords: clean, covid-19, hygiene, magic, soap, wash; Keywords: clean, covid-19, hygiene, magic, soap, wash (Free)
     """
     hand_sparkles = "\ue05d";
     """
-    (Free) Keywords: live long, prosper, salute, star trek, vulcan
+    Spock (Hand); Keywords: live long, prosper, salute, star trek, vulcan; Keywords: live long, prosper, salute, star trek, vulcan (Free)
     """
     spock_hand = "\uf259";
     """
-    (Free) Keywords: carry, hold, lift
+    Hands; Keywords: carry, hold, lift; Keywords: carry, hold, lift (Free)
     """
     hands = "\uf4c2";
     """
-    (Free) Keywords: aid, assistance, handshake, partnership, volunteering
+    Helping Hands; Keywords: aid, assistance, handshake, partnership, volunteering; Keywords: aid, assistance, handshake, partnership, volunteering (Free)
     """
     helping_hands = "\uf4c4";
     """
-    (Free) Keywords: covid-19, hygiene, soap, wash
+    Hands Wash; Keywords: covid-19, hygiene, soap, wash; Keywords: covid-19, hygiene, soap, wash (Free)
     """
     hands_wash = "\ue05e";
     """
-    (Free) Keywords: agreement, greeting, meeting, partnership
+    Handshake; Keywords: agreement, greeting, meeting, partnership; Keywords: agreement, greeting, meeting, partnership (Free)
     """
     handshake = "\uf2b5";
     """
-    (Free) Keywords: broken, covid-19, social distance
+    Handshake Alternate Slash; Keywords: broken, covid-19, social distance; Keywords: broken, covid-19, social distance (Free)
     """
     handshake_alternate_slash = "\ue05f";
     """
-    (Free) Keywords: broken, covid-19, social distance
+    Handshake Slash; Keywords: broken, covid-19, social distance; Keywords: broken, covid-19, social distance (Free)
     """
     handshake_slash = "\ue060";
     """
-    (Free) Keywords: candle, hanukkah, jewish, judaism, light
+    Hanukiah; Keywords: candle, hanukkah, jewish, judaism, light; Keywords: candle, hanukkah, jewish, judaism, light (Free)
     """
     hanukiah = "\uf6e6";
     """
-    (Free) Keywords: construction, hardhat, helmet, safety
+    Hard Hat; Keywords: construction, hardhat, helmet, safety; Keywords: construction, hardhat, helmet, safety (Free)
     """
     hard_hat = "\uf807";
     """
-    (Free) Keywords: Twitter, instagram, pound, social media, tag
+    Hashtag; Keywords: Twitter, instagram, pound, social media, tag; Keywords: Twitter, instagram, pound, social media, tag (Free)
     """
     hashtag = "\uf292";
     """
-    (Free) Keywords: buckaroo, horse, jackeroo, john b., old west, pardner, ranch, rancher, rodeo, western, wrangler
+    Cowboy Hat; Keywords: buckaroo, horse, jackeroo, john b., old west, pardner, ranch, rancher, rodeo, western, wrangler; Keywords: buckaroo, horse, jackeroo, john b., old west, pardner, ranch, rancher, rodeo, western, wrangler (Free)
     """
     cowboy_hat = "\uf8c0";
     """
-    (Free) Keywords: buckaroo, horse, jackeroo, john b., old west, pardner, ranch, rancher, rodeo, western, wrangler
+    Cowboy Hat Side; Keywords: buckaroo, horse, jackeroo, john b., old west, pardner, ranch, rancher, rodeo, western, wrangler; Keywords: buckaroo, horse, jackeroo, john b., old west, pardner, ranch, rancher, rodeo, western, wrangler (Free)
     """
     cowboy_hat_side = "\uf8c1";
     """
-    (Free) Keywords: Dungeons & Dragons, accessory, buckle, clothing, d&d, dnd, fantasy, halloween, head, holiday, mage, magic, pointy, witch
+    Wizard's Hat; Keywords: Dungeons & Dragons, accessory, buckle, clothing, d&d, dnd, fantasy, halloween, head, holiday, mage, magic, pointy, witch; Keywords: Dungeons & Dragons, accessory, buckle, clothing, d&d, dnd, fantasy, halloween, head, holiday, mage, magic, pointy, witch (Free)
     """
     wizard_s_hat = "\uf6e8";
     """
-    (Free) Keywords: cpu, hard drive, harddrive, machine, save, storage
+    HDD; Keywords: cpu, hard drive, harddrive, machine, save, storage; Keywords: cpu, hard drive, harddrive, machine, save, storage (Free)
     """
     hdd = "\uf0a0";
     """
-    (Free) Keywords: cough, covid-19, germs, lungs, respiratory, sick
+    Head Side Cough; Keywords: cough, covid-19, germs, lungs, respiratory, sick; Keywords: cough, covid-19, germs, lungs, respiratory, sick (Free)
     """
     head_side_cough = "\ue061";
     """
-    (Free) Keywords: cough, covid-19, germs, lungs, respiratory, sick
+    Head Side-cough-slash; Keywords: cough, covid-19, germs, lungs, respiratory, sick; Keywords: cough, covid-19, germs, lungs, respiratory, sick (Free)
     """
     head_side_cough_slash = "\ue062";
     """
-    (Free) Keywords: breath, covid-19, filter, respirator, virus
+    Head Side Mask; Keywords: breath, covid-19, filter, respirator, virus; Keywords: breath, covid-19, filter, respirator, virus (Free)
     """
     head_side_mask = "\ue063";
     """
-    (Free) Keywords: cold, covid-19, flu, sick
+    Head Side Virus; Keywords: cold, covid-19, flu, sick; Keywords: cold, covid-19, flu, sick (Free)
     """
     head_side_virus = "\ue064";
     """
-    (Free) Keywords: format, header, text, title
+    heading; Keywords: format, header, text, title; Keywords: format, header, text, title (Free)
     """
     heading = "\uf1dc";
     """
-    (Free) Keywords: audio, listen, music, sound, speaker
+    headphones; Keywords: audio, listen, music, sound, speaker; Keywords: audio, listen, music, sound, speaker (Free)
     """
     headphones = "\uf025";
     """
-    (Free) Keywords: audio, listen, music, sound, speaker
+    Alternate Headphones; Keywords: audio, listen, music, sound, speaker; Keywords: audio, listen, music, sound, speaker (Free)
     """
     alternate_headphones = "\uf58f";
     """
-    (Free) Keywords: audio, gamer, gaming, listen, live chat, microphone, shot caller, sound, support, telemarketer
+    Headset; Keywords: audio, gamer, gaming, listen, live chat, microphone, shot caller, sound, support, telemarketer; Keywords: audio, gamer, gaming, listen, live chat, microphone, shot caller, sound, support, telemarketer (Free)
     """
     headset = "\uf590";
     """
-    (Free) Keywords: favorite, like, love, relationship, valentine
+    Heart; Keywords: favorite, like, love, relationship, valentine; Keywords: favorite, like, love, relationship, valentine (Free)
     """
     heart = "\uf004";
     """
-    (Free) Keywords: breakup, crushed, dislike, dumped, grief, love, lovesick, relationship, sad
+    Heart Broken; Keywords: breakup, crushed, dislike, dumped, grief, love, lovesick, relationship, sad; Keywords: breakup, crushed, dislike, dumped, grief, love, lovesick, relationship, sad (Free)
     """
     heart_broken = "\uf7a9";
     """
-    (Free) Keywords: ekg, electrocardiogram, health, lifeline, vital signs
+    Heartbeat; Keywords: ekg, electrocardiogram, health, lifeline, vital signs; Keywords: ekg, electrocardiogram, health, lifeline, vital signs (Free)
     """
     heartbeat = "\uf21e";
     """
-    (Free) Keywords: airwolf, apache, chopper, flight, fly, travel
+    Helicopter; Keywords: airwolf, apache, chopper, flight, fly, travel; Keywords: airwolf, apache, chopper, flight, fly, travel (Free)
     """
     helicopter = "\uf533";
     """
-    (Free) Keywords: edit, marker, sharpie, update, write
+    Highlighter; Keywords: edit, marker, sharpie, update, write; Keywords: edit, marker, sharpie, update, write (Free)
     """
     highlighter = "\uf591";
     """
-    (Free) Keywords: activity, backpack, fall, fitness, outdoors, person, seasonal, walking
+    Hiking; Keywords: activity, backpack, fall, fitness, outdoors, person, seasonal, walking; Keywords: activity, backpack, fall, fitness, outdoors, person, seasonal, walking (Free)
     """
     hiking = "\uf6ec";
     """
-    (Free) Keywords: animal, fauna, hippopotamus, hungry, mammal
+    Hippo; Keywords: animal, fauna, hippopotamus, hungry, mammal; Keywords: animal, fauna, hippopotamus, hungry, mammal (Free)
     """
     hippo = "\uf6ed";
     """
-    (Free) Keywords: Rewind, clock, reverse, time, time machine
+    History; Keywords: Rewind, clock, reverse, time, time machine; Keywords: Rewind, clock, reverse, time, time machine (Free)
     """
     history = "\uf1da";
     """
-    (Free) Keywords: ice, nhl, sport
+    Hockey Puck; Keywords: ice, nhl, sport; Keywords: ice, nhl, sport (Free)
     """
     hockey_puck = "\uf453";
     """
-    (Free) Keywords: catwoman, christmas, decoration, flora, halle, holiday, ororo munroe, plant, storm, xmas
+    Holly Berry; Keywords: catwoman, christmas, decoration, flora, halle, holiday, ororo munroe, plant, storm, xmas; Keywords: catwoman, christmas, decoration, flora, halle, holiday, ororo munroe, plant, storm, xmas (Free)
     """
     holly_berry = "\uf7aa";
     """
-    (Free) Keywords: abode, building, house, main
+    home; Keywords: abode, building, house, main; Keywords: abode, building, house, main (Free)
     """
     home = "\uf015";
     """
-    (Free) Keywords: equus, fauna, mammmal, mare, neigh, pony
+    Horse; Keywords: equus, fauna, mammmal, mare, neigh, pony; Keywords: equus, fauna, mammmal, mare, neigh, pony (Free)
     """
     horse = "\uf6f0";
     """
-    (Free) Keywords: equus, fauna, mammmal, mare, neigh, pony
+    Horse Head; Keywords: equus, fauna, mammmal, mare, neigh, pony; Keywords: equus, fauna, mammmal, mare, neigh, pony (Free)
     """
     horse_head = "\uf7ab";
     """
-    (Free) Keywords: building, covid-19, emergency room, medical center
+    hospital; Keywords: building, covid-19, emergency room, medical center; Keywords: building, covid-19, emergency room, medical center (Free)
     """
     hospital = "\uf0f8";
     """
-    (Free) Keywords: building, covid-19, emergency room, medical center
+    Alternate Hospital; Keywords: building, covid-19, emergency room, medical center; Keywords: building, covid-19, emergency room, medical center (Free)
     """
     alternate_hospital = "\uf47d";
     """
-    (Free) Keywords: clinic, covid-19, emergency, map
+    Hospital Symbol; Keywords: clinic, covid-19, emergency, map; Keywords: clinic, covid-19, emergency, map (Free)
     """
     hospital_symbol = "\uf47e";
     """
-    (Free) Keywords: covid-19, doctor, network, patient, primary care
+    Hospital with User; Keywords: covid-19, doctor, network, patient, primary care; Keywords: covid-19, doctor, network, patient, primary care (Free)
     """
     hospital_with_user = "\uf80d";
     """
-    (Free) Keywords: bath, jacuzzi, massage, sauna, spa
+    Hot Tub; Keywords: bath, jacuzzi, massage, sauna, spa; Keywords: bath, jacuzzi, massage, sauna, spa (Free)
     """
     hot_tub = "\uf593";
     """
-    (Free) Keywords: bun, chili, frankfurt, frankfurter, kosher, polish, sandwich, sausage, vienna, weiner
+    Hot Dog; Keywords: bun, chili, frankfurt, frankfurter, kosher, polish, sandwich, sausage, vienna, weiner; Keywords: bun, chili, frankfurt, frankfurter, kosher, polish, sandwich, sausage, vienna, weiner (Free)
     """
     hot_dog = "\uf80f";
     """
-    (Free) Keywords: building, inn, lodging, motel, resort, travel
+    Hotel; Keywords: building, inn, lodging, motel, resort, travel; Keywords: building, inn, lodging, motel, resort, travel (Free)
     """
     hotel = "\uf594";
     """
-    (Free) Keywords: hour, minute, sand, stopwatch, time
+    Hourglass; Keywords: hour, minute, sand, stopwatch, time; Keywords: hour, minute, sand, stopwatch, time (Free)
     """
     hourglass = "\uf254";
     """
-    (Free) Keywords: hour, minute, sand, stopwatch, time
+    Hourglass End; Keywords: hour, minute, sand, stopwatch, time; Keywords: hour, minute, sand, stopwatch, time (Free)
     """
     hourglass_end = "\uf253";
     """
-    (Free) Keywords: hour, minute, sand, stopwatch, time
+    Hourglass Half; Keywords: hour, minute, sand, stopwatch, time; Keywords: hour, minute, sand, stopwatch, time (Free)
     """
     hourglass_half = "\uf252";
     """
-    (Free) Keywords: hour, minute, sand, stopwatch, time
+    Hourglass Start; Keywords: hour, minute, sand, stopwatch, time; Keywords: hour, minute, sand, stopwatch, time (Free)
     """
     hourglass_start = "\uf251";
     """
-    (Free) Keywords: building, devastation, disaster, home, insurance
+    Damaged House; Keywords: building, devastation, disaster, home, insurance; Keywords: building, devastation, disaster, home, insurance (Free)
     """
     damaged_house = "\uf6f1";
     """
-    (Free) Keywords: covid-19, home, isolation, quarantine
+    House User; Keywords: covid-19, home, isolation, quarantine; Keywords: covid-19, home, isolation, quarantine (Free)
     """
     house_user = "\ue065";
     """
-    (Free) Keywords: currency, money, ukraine, ukrainian
+    Hryvnia; Keywords: currency, money, ukraine, ukrainian; Keywords: currency, money, ukraine, ukrainian (Free)
     """
     hryvnia = "\uf6f2";
     """
-    (Free) Keywords: editing, i-beam, type, writing
+    I Beam Cursor; Keywords: editing, i-beam, type, writing; Keywords: editing, i-beam, type, writing (Free)
     """
     i_beam_cursor = "\uf246";
     """
-    (Free) Keywords: chocolate, cone, dessert, frozen, scoop, sorbet, vanilla, yogurt
+    Ice Cream; Keywords: chocolate, cone, dessert, frozen, scoop, sorbet, vanilla, yogurt; Keywords: chocolate, cone, dessert, frozen, scoop, sorbet, vanilla, yogurt (Free)
     """
     ice_cream = "\uf810";
     """
-    (Free) Keywords: cold, frozen, hanging, ice, seasonal, sharp
+    Icicles; Keywords: cold, frozen, hanging, ice, seasonal, sharp; Keywords: cold, frozen, hanging, ice, seasonal, sharp (Free)
     """
     icicles = "\uf7ad";
     """
-    (Free) Keywords: bolt, emoji, heart, image, music, photo, symbols
+    Icons; Keywords: bolt, emoji, heart, image, music, photo, symbols; Keywords: bolt, emoji, heart, image, music, photo, symbols (Free)
     """
     icons = "\uf86d";
     """
-    (Free) Keywords: address, contact, identification, license, profile
+    Identification Badge; Keywords: address, contact, identification, license, profile; Keywords: address, contact, identification, license, profile (Free)
     """
     identification_badge = "\uf2c1";
     """
-    (Free) Keywords: contact, demographics, document, identification, issued, profile
+    Identification Card; Keywords: contact, demographics, document, identification, issued, profile; Keywords: contact, demographics, document, identification, issued, profile (Free)
     """
     identification_card = "\uf2c2";
     """
-    (Free) Keywords: contact, demographics, document, identification, issued, profile
+    Alternate Identification Card; Keywords: contact, demographics, document, identification, issued, profile; Keywords: contact, demographics, document, identification, issued, profile (Free)
     """
     alternate_identification_card = "\uf47f";
     """
-    (Free) Keywords: dome, dwelling, eskimo, home, house, ice, snow
+    Igloo; Keywords: dome, dwelling, eskimo, home, house, ice, snow; Keywords: dome, dwelling, eskimo, home, house, ice, snow (Free)
     """
     igloo = "\uf7ae";
     """
-    (Free) Keywords: album, landscape, photo, picture
+    Image; Keywords: album, landscape, photo, picture; Keywords: album, landscape, photo, picture (Free)
     """
     image = "\uf03e";
     """
-    (Free) Keywords: album, landscape, photo, picture
+    Images; Keywords: album, landscape, photo, picture; Keywords: album, landscape, photo, picture (Free)
     """
     images = "\uf302";
     """
-    (Free) Keywords: archive, desk, email, mail, message
+    inbox; Keywords: archive, desk, email, mail, message; Keywords: archive, desk, email, mail, message (Free)
     """
     inbox = "\uf01c";
     """
-    (Free) Keywords: align, justify, paragraph, tab
+    Indent; Keywords: align, justify, paragraph, tab; Keywords: align, justify, paragraph, tab (Free)
     """
     indent = "\uf03c";
     """
-    (Free) Keywords: building, factory, industrial, manufacturing, mill, warehouse
+    Industry; Keywords: building, factory, industrial, manufacturing, mill, warehouse; Keywords: building, factory, industrial, manufacturing, mill, warehouse (Free)
     """
     industry = "\uf275";
     """
-    (Free) Keywords: eternity, forever, math
+    Infinity; Keywords: eternity, forever, math; Keywords: eternity, forever, math (Free)
     """
     infinity = "\uf534";
     """
-    (Free) Keywords: details, help, information, more, support
+    Info; Keywords: details, help, information, more, support; Keywords: details, help, information, more, support (Free)
     """
     info = "\uf129";
     """
-    (Free) Keywords: details, help, information, more, support
+    Info Circle; Keywords: details, help, information, more, support; Keywords: details, help, information, more, support (Free)
     """
     info_circle = "\uf05a";
     """
-    (Free) Keywords: edit, emphasis, font, format, text, type
+    italic; Keywords: edit, emphasis, font, format, text, type; Keywords: edit, emphasis, font, format, text, type (Free)
     """
     italic = "\uf033";
     """
-    (Free) Keywords: crest, force, sith, skywalker, star wars, yoda
+    Jedi; Keywords: crest, force, sith, skywalker, star wars, yoda; Keywords: crest, force, sith, skywalker, star wars, yoda (Free)
     """
     jedi = "\uf669";
     """
-    (Free) Keywords: blunt, cannabis, doobie, drugs, marijuana, roach, smoke, smoking, spliff
+    Joint; Keywords: blunt, cannabis, doobie, drugs, marijuana, roach, smoke, smoking, spliff; Keywords: blunt, cannabis, doobie, drugs, marijuana, roach, smoke, smoking, spliff (Free)
     """
     joint = "\uf595";
     """
-    (Free) Keywords: book, force, jedi, sith, star wars, yoda
+    Journal of the Whills; Keywords: book, force, jedi, sith, star wars, yoda; Keywords: book, force, jedi, sith, star wars, yoda (Free)
     """
     journal_of_the_whills = "\uf66a";
     """
-    (Free) Keywords: building, cube, islam, muslim
+    Kaaba; Keywords: building, cube, islam, muslim; Keywords: building, cube, islam, muslim (Free)
     """
     kaaba = "\uf66b";
     """
-    (Free) Keywords: lock, password, private, secret, unlock
+    key; Keywords: lock, password, private, secret, unlock; Keywords: lock, password, private, secret, unlock (Free)
     """
     key = "\uf084";
     """
-    (Free) Keywords: accessory, edit, input, text, type, write
+    Keyboard; Keywords: accessory, edit, input, text, type, write; Keywords: accessory, edit, input, text, type, write (Free)
     """
     keyboard = "\uf11c";
     """
-    (Free) Keywords: chakkar, sikh, sikhism, sword
+    Khanda; Keywords: chakkar, sikh, sikhism, sword; Keywords: chakkar, sikh, sikhism, sword (Free)
     """
     khanda = "\uf66d";
     """
-    (Free) Keywords: beso, emoticon, face, love, smooch
+    Kissing Face; Keywords: beso, emoticon, face, love, smooch; Keywords: beso, emoticon, face, love, smooch (Free)
     """
     kissing_face = "\uf596";
     """
-    (Free) Keywords: beso, emoticon, face, love, smooch
+    Kissing Face With Smiling Eyes; Keywords: beso, emoticon, face, love, smooch; Keywords: beso, emoticon, face, love, smooch (Free)
     """
     kissing_face_with_smiling_eyes = "\uf597";
     """
-    (Free) Keywords: beso, emoticon, face, love, smooch
+    Face Blowing a Kiss; Keywords: beso, emoticon, face, love, smooch; Keywords: beso, emoticon, face, love, smooch (Free)
     """
     face_blowing_a_kiss = "\uf598";
     """
-    (Free) Keywords: bird, fauna, new zealand
+    Kiwi Bird; Keywords: bird, fauna, new zealand; Keywords: bird, fauna, new zealand (Free)
     """
     kiwi_bird = "\uf535";
     """
-    (Free) Keywords: building, historic, memorable, monument, politics
+    Landmark; Keywords: building, historic, memorable, monument, politics; Keywords: building, historic, memorable, monument, politics (Free)
     """
     landmark = "\uf66f";
     """
-    (Free) Keywords: dialect, idiom, localize, speech, translate, vernacular
+    Language; Keywords: dialect, idiom, localize, speech, translate, vernacular; Keywords: dialect, idiom, localize, speech, translate, vernacular (Free)
     """
     language = "\uf1ab";
     """
-    (Free) Keywords: computer, cpu, dell, demo, device, mac, macbook, machine, pc
+    Laptop; Keywords: computer, cpu, dell, demo, device, mac, macbook, machine, pc; Keywords: computer, cpu, dell, demo, device, mac, macbook, machine, pc (Free)
     """
     laptop = "\uf109";
     """
-    (Free) Keywords: computer, cpu, dell, demo, develop, device, mac, macbook, machine, pc
+    Laptop Code; Keywords: computer, cpu, dell, demo, develop, device, mac, macbook, machine, pc; Keywords: computer, cpu, dell, demo, develop, device, mac, macbook, machine, pc (Free)
     """
     laptop_code = "\uf5fc";
     """
-    (Free) Keywords: computer, covid-19, device, office, remote, work from home
+    Laptop House; Keywords: computer, covid-19, device, office, remote, work from home; Keywords: computer, covid-19, device, office, remote, work from home (Free)
     """
     laptop_house = "\ue066";
     """
-    (Free) Keywords: computer, device, ehr, electronic health records, history
+    Laptop Medical; Keywords: computer, device, ehr, electronic health records, history; Keywords: computer, device, ehr, electronic health records, history (Free)
     """
     laptop_medical = "\uf812";
     """
-    (Free) Keywords: LOL, emoticon, face, laugh, smile
+    Grinning Face With Big Eyes; Keywords: LOL, emoticon, face, laugh, smile; Keywords: LOL, emoticon, face, laugh, smile (Free)
     """
     grinning_face_with_big_eyes = "\uf599";
     """
-    (Free) Keywords: LOL, emoticon, face, happy, smile
+    Laugh Face with Beaming Eyes; Keywords: LOL, emoticon, face, happy, smile; Keywords: LOL, emoticon, face, happy, smile (Free)
     """
     laugh_face_with_beaming_eyes = "\uf59a";
     """
-    (Free) Keywords: LOL, emoticon, face, happy, smile
+    Laughing Squinting Face; Keywords: LOL, emoticon, face, happy, smile; Keywords: LOL, emoticon, face, happy, smile (Free)
     """
     laughing_squinting_face = "\uf59b";
     """
-    (Free) Keywords: LOL, emoticon, face, happy, smile
+    Laughing Winking Face; Keywords: LOL, emoticon, face, happy, smile; Keywords: LOL, emoticon, face, happy, smile (Free)
     """
     laughing_winking_face = "\uf59c";
     """
-    (Free) Keywords: arrange, develop, layers, map, stack
+    Layer Group; Keywords: arrange, develop, layers, map, stack; Keywords: arrange, develop, layers, map, stack (Free)
     """
     layer_group = "\uf5fd";
     """
-    (Free) Keywords: eco, flora, nature, plant, vegan
+    leaf; Keywords: eco, flora, nature, plant, vegan; Keywords: eco, flora, nature, plant, vegan (Free)
     """
     leaf = "\uf06c";
     """
-    (Free) Keywords: citrus, lemonade, lime, tart
+    Lemon; Keywords: citrus, lemonade, lime, tart; Keywords: citrus, lemonade, lime, tart (Free)
     """
     lemon = "\uf094";
     """
-    (Free) Keywords: arithmetic, compare, math
+    Less Than; Keywords: arithmetic, compare, math; Keywords: arithmetic, compare, math (Free)
     """
     less_than = "\uf536";
     """
-    (Free) Keywords: arithmetic, compare, math
+    Less Than Equal To; Keywords: arithmetic, compare, math; Keywords: arithmetic, compare, math (Free)
     """
     less_than_equal_to = "\uf537";
     """
-    (Free) Keywords: arrow, level-down
+    Alternate Level Down; Keywords: arrow, level-down; Keywords: arrow, level-down (Free)
     """
     alternate_level_down = "\uf3be";
     """
-    (Free) Keywords: arrow, level-up
+    Alternate Level Up; Keywords: arrow, level-up; Keywords: arrow, level-up (Free)
     """
     alternate_level_up = "\uf3bf";
     """
-    (Free) Keywords: coast guard, help, overboard, save, support
+    Life Ring; Keywords: coast guard, help, overboard, save, support; Keywords: coast guard, help, overboard, save, support (Free)
     """
     life_ring = "\uf1cd";
     """
-    (Free) Keywords: energy, idea, inspiration, light
+    Lightbulb; Keywords: energy, idea, inspiration, light; Keywords: energy, idea, inspiration, light (Free)
     """
     lightbulb = "\uf0eb";
     """
-    (Free) Keywords: attach, attachment, chain, connect
+    Link; Keywords: attach, attachment, chain, connect; Keywords: attach, attachment, chain, connect (Free)
     """
     link = "\uf0c1";
     """
-    (Free) Keywords: currency, money, try, turkish
+    Turkish Lira Sign; Keywords: currency, money, try, turkish; Keywords: currency, money, try, turkish (Free)
     """
     turkish_lira_sign = "\uf195";
     """
-    (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
+    List; Keywords: checklist, completed, done, finished, ol, todo, ul; Keywords: checklist, completed, done, finished, ol, todo, ul (Free)
     """
     list = "\uf03a";
     """
-    (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
+    Alternate List; Keywords: checklist, completed, done, finished, ol, todo, ul; Keywords: checklist, completed, done, finished, ol, todo, ul (Free)
     """
     alternate_list = "\uf022";
     """
-    (Free) Keywords: checklist, completed, done, finished, numbers, ol, todo, ul
+    list-ol; Keywords: checklist, completed, done, finished, numbers, ol, todo, ul; Keywords: checklist, completed, done, finished, numbers, ol, todo, ul (Free)
     """
     list_ol = "\uf0cb";
     """
-    (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
+    list-ul; Keywords: checklist, completed, done, finished, ol, todo, ul; Keywords: checklist, completed, done, finished, ol, todo, ul (Free)
     """
     list_ul = "\uf0ca";
     """
-    (Free) Keywords: address, compass, coordinate, direction, gps, map, navigation, place
+    location-arrow; Keywords: address, compass, coordinate, direction, gps, map, navigation, place; Keywords: address, compass, coordinate, direction, gps, map, navigation, place (Free)
     """
     location_arrow = "\uf124";
     """
-    (Free) Keywords: admin, lock, open, password, private, protect, security
+    lock; Keywords: admin, lock, open, password, private, protect, security; Keywords: admin, lock, open, password, private, protect, security (Free)
     """
     lock = "\uf023";
     """
-    (Free) Keywords: admin, lock, open, password, private, protect, security
+    Lock Open; Keywords: admin, lock, open, password, private, protect, security; Keywords: admin, lock, open, password, private, protect, security (Free)
     """
     lock_open = "\uf3c1";
     """
-    (Free) Keywords: download, long-arrow-down
+    Alternate Long Arrow Down; Keywords: download, long-arrow-down; Keywords: download, long-arrow-down (Free)
     """
     alternate_long_arrow_down = "\uf309";
     """
-    (Free) Keywords: back, long-arrow-left, previous
+    Alternate Long Arrow Left; Keywords: back, long-arrow-left, previous; Keywords: back, long-arrow-left, previous (Free)
     """
     alternate_long_arrow_left = "\uf30a";
     """
-    (Free) Keywords: forward, long-arrow-right, next
+    Alternate Long Arrow Right; Keywords: forward, long-arrow-right, next; Keywords: forward, long-arrow-right, next (Free)
     """
     alternate_long_arrow_right = "\uf30b";
     """
-    (Free) Keywords: long-arrow-up, upload
+    Alternate Long Arrow Up; Keywords: long-arrow-up, upload; Keywords: long-arrow-up, upload (Free)
     """
     alternate_long_arrow_up = "\uf30c";
     """
-    (Free) Keywords: blind, eye, sight
+    Low Vision; Keywords: blind, eye, sight; Keywords: blind, eye, sight (Free)
     """
     low_vision = "\uf2a8";
     """
-    (Free) Keywords: bag, baggage, suitcase, travel
+    Luggage Cart; Keywords: bag, baggage, suitcase, travel; Keywords: bag, baggage, suitcase, travel (Free)
     """
     luggage_cart = "\uf59d";
     """
-    (Free) Keywords: air, breath, covid-19, organ, respiratory
+    Lungs; Keywords: air, breath, covid-19, organ, respiratory; Keywords: air, breath, covid-19, organ, respiratory (Free)
     """
     lungs = "\uf604";
     """
-    (Free) Keywords: breath, covid-19, respiratory, sick
+    Lungs Virus; Keywords: breath, covid-19, respiratory, sick; Keywords: breath, covid-19, respiratory, sick (Free)
     """
     lungs_virus = "\ue067";
     """
-    (Free) Keywords: autocomplete, automatic, mage, magic, spell, wand, witch, wizard
+    magic; Keywords: autocomplete, automatic, mage, magic, spell, wand, witch, wizard; Keywords: autocomplete, automatic, mage, magic, spell, wand, witch, wizard (Free)
     """
     magic = "\uf0d0";
     """
-    (Free) Keywords: Attract, lodestone, tool
+    magnet; Keywords: Attract, lodestone, tool; Keywords: Attract, lodestone, tool (Free)
     """
     magnet = "\uf076";
     """
-    (Free) Keywords: archive, envelope, letter, post office, postal, postcard, send, stamp, usps
+    Mail Bulk; Keywords: archive, envelope, letter, post office, postal, postcard, send, stamp, usps; Keywords: archive, envelope, letter, post office, postal, postcard, send, stamp, usps (Free)
     """
     mail_bulk = "\uf674";
     """
-    (Free) Keywords: human, man, person, profile, user
+    Male; Keywords: human, man, person, profile, user; Keywords: human, man, person, profile, user (Free)
     """
     male = "\uf183";
     """
-    (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
+    Map; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel (Free)
     """
     map = "\uf279";
     """
-    (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
+    Map Marked; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel (Free)
     """
     map_marked = "\uf59f";
     """
-    (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
+    Alternate Map Marked; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel (Free)
     """
     alternate_map_marked = "\uf5a0";
     """
-    (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
+    map-marker; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel (Free)
     """
     map_marker = "\uf041";
     """
-    (Free) Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel
+    Alternate Map Marker; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel; Keywords: address, coordinates, destination, gps, localize, location, map, navigation, paper, pin, place, point of interest, position, route, travel (Free)
     """
     alternate_map_marker = "\uf3c5";
     """
-    (Free) Keywords: address, agree, coordinates, destination, gps, localize, location, map, marker, navigation, pin, place, position, travel
+    Map Pin; Keywords: address, agree, coordinates, destination, gps, localize, location, map, marker, navigation, pin, place, position, travel; Keywords: address, agree, coordinates, destination, gps, localize, location, map, marker, navigation, pin, place, position, travel (Free)
     """
     map_pin = "\uf276";
     """
-    (Free) Keywords: directions, directory, map, signage, wayfinding
+    Map Signs; Keywords: directions, directory, map, signage, wayfinding; Keywords: directions, directory, map, signage, wayfinding (Free)
     """
     map_signs = "\uf277";
     """
-    (Free) Keywords: design, edit, sharpie, update, write
+    Marker; Keywords: design, edit, sharpie, update, write; Keywords: design, edit, sharpie, update, write (Free)
     """
     marker = "\uf5a1";
     """
-    (Free) Keywords: male
+    Mars; Keywords: male; Keywords: male (Free)
     """
     mars = "\uf222";
     """
-    (Free) 
+    Mars Double (Free)
     """
     mars_double = "\uf227";
     """
-    (Free) 
+    Mars Stroke (Free)
     """
     mars_stroke = "\uf229";
     """
-    (Free) 
+    Mars Stroke Horizontal (Free)
     """
     mars_stroke_horizontal = "\uf22b";
     """
-    (Free) 
+    Mars Stroke Vertical (Free)
     """
     mars_stroke_vertical = "\uf22a";
     """
-    (Free) Keywords: carnivale, costume, disguise, halloween, secret, super hero
+    Mask; Keywords: carnivale, costume, disguise, halloween, secret, super hero; Keywords: carnivale, costume, disguise, halloween, secret, super hero (Free)
     """
     mask = "\uf6fa";
     """
-    (Free) Keywords: award, ribbon, star, trophy
+    Medal; Keywords: award, ribbon, star, trophy; Keywords: award, ribbon, star, trophy (Free)
     """
     medal = "\uf5a2";
     """
-    (Free) Keywords: first aid, firstaid, health, help, support
+    medkit; Keywords: first aid, firstaid, health, help, support; Keywords: first aid, firstaid, health, help, support (Free)
     """
     medkit = "\uf0fa";
     """
-    (Free) Keywords: emoticon, face, neutral, rating
+    Neutral Face; Keywords: emoticon, face, neutral, rating; Keywords: emoticon, face, neutral, rating (Free)
     """
     neutral_face = "\uf11a";
     """
-    (Free) Keywords: emoticon, face, neutral, rating
+    Face Without Mouth; Keywords: emoticon, face, neutral, rating; Keywords: emoticon, face, neutral, rating (Free)
     """
     face_without_mouth = "\uf5a4";
     """
-    (Free) Keywords: emoticon, face, neutral, rating
+    Face With Rolling Eyes; Keywords: emoticon, face, neutral, rating; Keywords: emoticon, face, neutral, rating (Free)
     """
     face_with_rolling_eyes = "\uf5a5";
     """
-    (Free) Keywords: DIMM, RAM, hardware, storage, technology
+    Memory; Keywords: DIMM, RAM, hardware, storage, technology; Keywords: DIMM, RAM, hardware, storage, technology (Free)
     """
     memory = "\uf538";
     """
-    (Free) Keywords: candle, hanukkah, jewish, judaism, light
+    Menorah; Keywords: candle, hanukkah, jewish, judaism, light; Keywords: candle, hanukkah, jewish, judaism, light (Free)
     """
     menorah = "\uf676";
     """
-    (Free) Keywords: transgender
+    Mercury; Keywords: transgender; Keywords: transgender (Free)
     """
     mercury = "\uf223";
     """
-    (Free) Keywords: armageddon, asteroid, comet, shooting star, space
+    Meteor; Keywords: armageddon, asteroid, comet, shooting star, space; Keywords: armageddon, asteroid, comet, shooting star, space (Free)
     """
     meteor = "\uf753";
     """
-    (Free) Keywords: cpu, hardware, processor, technology
+    Microchip; Keywords: cpu, hardware, processor, technology; Keywords: cpu, hardware, processor, technology (Free)
     """
     microchip = "\uf2db";
     """
-    (Free) Keywords: audio, podcast, record, sing, sound, voice
+    microphone; Keywords: audio, podcast, record, sing, sound, voice; Keywords: audio, podcast, record, sing, sound, voice (Free)
     """
     microphone = "\uf130";
     """
-    (Free) Keywords: audio, podcast, record, sing, sound, voice
+    Alternate Microphone; Keywords: audio, podcast, record, sing, sound, voice; Keywords: audio, podcast, record, sing, sound, voice (Free)
     """
     alternate_microphone = "\uf3c9";
     """
-    (Free) Keywords: audio, disable, mute, podcast, record, sing, sound, voice
+    Alternate Microphone Slash; Keywords: audio, disable, mute, podcast, record, sing, sound, voice; Keywords: audio, disable, mute, podcast, record, sing, sound, voice (Free)
     """
     alternate_microphone_slash = "\uf539";
     """
-    (Free) Keywords: audio, disable, mute, podcast, record, sing, sound, voice
+    Microphone Slash; Keywords: audio, disable, mute, podcast, record, sing, sound, voice; Keywords: audio, disable, mute, podcast, record, sing, sound, voice (Free)
     """
     microphone_slash = "\uf131";
     """
-    (Free) Keywords: covid-19, electron, lens, optics, science, shrink
+    Microscope; Keywords: covid-19, electron, lens, optics, science, shrink; Keywords: covid-19, electron, lens, optics, science, shrink (Free)
     """
     microscope = "\uf610";
     """
-    (Free) Keywords: collapse, delete, hide, minify, negative, remove, trash
+    minus; Keywords: collapse, delete, hide, minify, negative, remove, trash; Keywords: collapse, delete, hide, minify, negative, remove, trash (Free)
     """
     minus = "\uf068";
     """
-    (Free) Keywords: delete, hide, negative, remove, shape, trash
+    Minus Circle; Keywords: delete, hide, negative, remove, shape, trash; Keywords: delete, hide, negative, remove, shape, trash (Free)
     """
     minus_circle = "\uf056";
     """
-    (Free) Keywords: collapse, delete, hide, minify, negative, remove, shape, trash
+    Minus Square; Keywords: collapse, delete, hide, minify, negative, remove, shape, trash; Keywords: collapse, delete, hide, minify, negative, remove, shape, trash (Free)
     """
     minus_square = "\uf146";
     """
-    (Free) Keywords: clothing, cold, glove, hands, knitted, seasonal, warmth
+    Mitten; Keywords: clothing, cold, glove, hands, knitted, seasonal, warmth; Keywords: clothing, cold, glove, hands, knitted, seasonal, warmth (Free)
     """
     mitten = "\uf7b5";
     """
-    (Free) Keywords: apple, call, cell phone, cellphone, device, iphone, number, screen, telephone
+    Mobile Phone; Keywords: apple, call, cell phone, cellphone, device, iphone, number, screen, telephone; Keywords: apple, call, cell phone, cellphone, device, iphone, number, screen, telephone (Free)
     """
     mobile_phone = "\uf10b";
     """
-    (Free) Keywords: apple, call, cell phone, cellphone, device, iphone, number, screen, telephone
+    Alternate Mobile; Keywords: apple, call, cell phone, cellphone, device, iphone, number, screen, telephone; Keywords: apple, call, cell phone, cellphone, device, iphone, number, screen, telephone (Free)
     """
     alternate_mobile = "\uf3cd";
     """
-    (Free) Keywords: buy, cash, checkout, money, payment, price, purchase
+    Money Bill; Keywords: buy, cash, checkout, money, payment, price, purchase; Keywords: buy, cash, checkout, money, payment, price, purchase (Free)
     """
     money_bill = "\uf0d6";
     """
-    (Free) Keywords: buy, cash, checkout, money, payment, price, purchase
+    Alternate Money Bill; Keywords: buy, cash, checkout, money, payment, price, purchase; Keywords: buy, cash, checkout, money, payment, price, purchase (Free)
     """
     alternate_money_bill = "\uf3d1";
     """
-    (Free) Keywords: buy, cash, checkout, money, payment, price, purchase
+    Wavy Money Bill; Keywords: buy, cash, checkout, money, payment, price, purchase; Keywords: buy, cash, checkout, money, payment, price, purchase (Free)
     """
     wavy_money_bill = "\uf53a";
     """
-    (Free) Keywords: buy, cash, checkout, money, payment, price, purchase
+    Alternate Wavy Money Bill; Keywords: buy, cash, checkout, money, payment, price, purchase; Keywords: buy, cash, checkout, money, payment, price, purchase (Free)
     """
     alternate_wavy_money_bill = "\uf53b";
     """
-    (Free) Keywords: bank check, buy, checkout, cheque, money, payment, price, purchase
+    Money Check; Keywords: bank check, buy, checkout, cheque, money, payment, price, purchase; Keywords: bank check, buy, checkout, cheque, money, payment, price, purchase (Free)
     """
     money_check = "\uf53c";
     """
-    (Free) Keywords: bank check, buy, checkout, cheque, money, payment, price, purchase
+    Alternate Money Check; Keywords: bank check, buy, checkout, cheque, money, payment, price, purchase; Keywords: bank check, buy, checkout, cheque, money, payment, price, purchase (Free)
     """
     alternate_money_check = "\uf53d";
     """
-    (Free) Keywords: building, historic, landmark, memorable
+    Monument; Keywords: building, historic, landmark, memorable; Keywords: building, historic, landmark, memorable (Free)
     """
     monument = "\uf5a6";
     """
-    (Free) Keywords: contrast, crescent, dark, lunar, night
+    Moon; Keywords: contrast, crescent, dark, lunar, night; Keywords: contrast, crescent, dark, lunar, night (Free)
     """
     moon = "\uf186";
     """
-    (Free) Keywords: crush, culinary, grind, medical, mix, pharmacy, prescription, spices
+    Mortar Pestle; Keywords: crush, culinary, grind, medical, mix, pharmacy, prescription, spices; Keywords: crush, culinary, grind, medical, mix, pharmacy, prescription, spices (Free)
     """
     mortar_pestle = "\uf5a7";
     """
-    (Free) Keywords: building, islam, landmark, muslim
+    Mosque; Keywords: building, islam, landmark, muslim; Keywords: building, islam, landmark, muslim (Free)
     """
     mosque = "\uf678";
     """
-    (Free) Keywords: bike, machine, transportation, vehicle
+    Motorcycle; Keywords: bike, machine, transportation, vehicle; Keywords: bike, machine, transportation, vehicle (Free)
     """
     motorcycle = "\uf21c";
     """
-    (Free) Keywords: glacier, hiking, hill, landscape, travel, view
+    Mountain; Keywords: glacier, hiking, hill, landscape, travel, view; Keywords: glacier, hiking, hill, landscape, travel, view (Free)
     """
     mountain = "\uf6fc";
     """
-    (Free) Keywords: click, computer, cursor, input, peripheral
+    Mouse; Keywords: click, computer, cursor, input, peripheral; Keywords: click, computer, cursor, input, peripheral (Free)
     """
     mouse = "\uf8cc";
     """
-    (Free) Keywords: arrow, cursor, select
+    Mouse Pointer; Keywords: arrow, cursor, select; Keywords: arrow, cursor, select (Free)
     """
     mouse_pointer = "\uf245";
     """
-    (Free) Keywords: caliente, cocoa, coffee, cup, drink, holiday, hot chocolate, steam, tea, warmth
+    Mug Hot; Keywords: caliente, cocoa, coffee, cup, drink, holiday, hot chocolate, steam, tea, warmth; Keywords: caliente, cocoa, coffee, cup, drink, holiday, hot chocolate, steam, tea, warmth (Free)
     """
     mug_hot = "\uf7b6";
     """
-    (Free) Keywords: lyrics, melody, note, sing, sound
+    Music; Keywords: lyrics, melody, note, sing, sound; Keywords: lyrics, melody, note, sing, sound (Free)
     """
     music = "\uf001";
     """
-    (Free) Keywords: computer, connect, ethernet, internet, intranet
+    Wired Network; Keywords: computer, connect, ethernet, internet, intranet; Keywords: computer, connect, ethernet, internet, intranet (Free)
     """
     wired_network = "\uf6ff";
     """
-    (Free) 
+    Neuter (Free)
     """
     neuter = "\uf22c";
     """
-    (Free) Keywords: article, editorial, headline, journal, journalism, news, press
+    Newspaper; Keywords: article, editorial, headline, journal, journalism, news, press; Keywords: article, editorial, headline, journal, journalism, news, press (Free)
     """
     newspaper = "\uf1ea";
     """
-    (Free) Keywords: arithmetic, compare, math
+    Not Equal; Keywords: arithmetic, compare, math; Keywords: arithmetic, compare, math (Free)
     """
     not_equal = "\uf53e";
     """
-    (Free) Keywords: clipboard, doctor, ehr, health, history, records
+    Medical Notes; Keywords: clipboard, doctor, ehr, health, history, records; Keywords: clipboard, doctor, ehr, health, history, records (Free)
     """
     medical_notes = "\uf481";
     """
-    (Free) Keywords: combine, copy, design, merge, select
+    Object Group; Keywords: combine, copy, design, merge, select; Keywords: combine, copy, design, merge, select (Free)
     """
     object_group = "\uf247";
     """
-    (Free) Keywords: copy, design, merge, select, separate
+    Object Ungroup; Keywords: copy, design, merge, select, separate; Keywords: copy, design, merge, select, separate (Free)
     """
     object_ungroup = "\uf248";
     """
-    (Free) Keywords: auto, crude, gasoline, grease, lubricate, petroleum
+    Oil Can; Keywords: auto, crude, gasoline, grease, lubricate, petroleum; Keywords: auto, crude, gasoline, grease, lubricate, petroleum (Free)
     """
     oil_can = "\uf613";
     """
-    (Free) Keywords: buddhism, hinduism, jainism, mantra
+    Om; Keywords: buddhism, hinduism, jainism, mantra; Keywords: buddhism, hinduism, jainism, mantra (Free)
     """
     om = "\uf679";
     """
-    (Free) Keywords: animal, badger, fauna, fur, mammal, marten
+    Otter; Keywords: animal, badger, fauna, fur, mammal, marten; Keywords: animal, badger, fauna, fur, mammal, marten (Free)
     """
     otter = "\uf700";
     """
-    (Free) Keywords: align, justify, paragraph, tab
+    Outdent; Keywords: align, justify, paragraph, tab; Keywords: align, justify, paragraph, tab (Free)
     """
     outdent = "\uf03b";
     """
-    (Free) Keywords: beeper, cellphone, communication
+    Pager; Keywords: beeper, cellphone, communication; Keywords: beeper, cellphone, communication (Free)
     """
     pager = "\uf815";
     """
-    (Free) Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor
+    Paint Brush; Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor; Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor (Free)
     """
     paint_brush = "\uf1fc";
     """
-    (Free) Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor
+    Paint Roller; Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor; Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor (Free)
     """
     paint_roller = "\uf5aa";
     """
-    (Free) Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor
+    Palette; Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor; Keywords: acrylic, art, brush, color, fill, paint, pigment, watercolor (Free)
     """
     palette = "\uf53f";
     """
-    (Free) Keywords: archive, box, inventory, shipping, warehouse
+    Pallet; Keywords: archive, box, inventory, shipping, warehouse; Keywords: archive, box, inventory, shipping, warehouse (Free)
     """
     pallet = "\uf482";
     """
-    (Free) Keywords: air, float, fold, mail, paper, send
+    Paper Plane; Keywords: air, float, fold, mail, paper, send; Keywords: air, float, fold, mail, paper, send (Free)
     """
     paper_plane = "\uf1d8";
     """
-    (Free) Keywords: attach, attachment, connect, link
+    Paperclip; Keywords: attach, attachment, connect, link; Keywords: attach, attachment, connect, link (Free)
     """
     paperclip = "\uf0c6";
     """
-    (Free) Keywords: aid, assistance, rescue, supplies
+    Parachute Box; Keywords: aid, assistance, rescue, supplies; Keywords: aid, assistance, rescue, supplies (Free)
     """
     parachute_box = "\uf4cd";
     """
-    (Free) Keywords: edit, format, text, writing
+    paragraph; Keywords: edit, format, text, writing; Keywords: edit, format, text, writing (Free)
     """
     paragraph = "\uf1dd";
     """
-    (Free) Keywords: auto, car, garage, meter
+    Parking; Keywords: auto, car, garage, meter; Keywords: auto, car, garage, meter (Free)
     """
     parking = "\uf540";
     """
-    (Free) Keywords: document, id, identification, issued, travel
+    Passport; Keywords: document, id, identification, issued, travel; Keywords: document, id, identification, issued, travel (Free)
     """
     passport = "\uf5ab";
     """
-    (Free) Keywords: agnosticism, atheism, flying spaghetti monster, fsm
+    Pastafarianism; Keywords: agnosticism, atheism, flying spaghetti monster, fsm; Keywords: agnosticism, atheism, flying spaghetti monster, fsm (Free)
     """
     pastafarianism = "\uf67b";
     """
-    (Free) Keywords: clipboard, copy, document, paper
+    Paste; Keywords: clipboard, copy, document, paper; Keywords: clipboard, copy, document, paper (Free)
     """
     paste = "\uf0ea";
     """
-    (Free) Keywords: hold, wait
+    pause; Keywords: hold, wait; Keywords: hold, wait (Free)
     """
     pause = "\uf04c";
     """
-    (Free) Keywords: hold, wait
+    Pause Circle; Keywords: hold, wait; Keywords: hold, wait (Free)
     """
     pause_circle = "\uf28b";
     """
-    (Free) Keywords: animal, cat, dog, pet, print
+    Paw; Keywords: animal, cat, dog, pet, print; Keywords: animal, cat, dog, pet, print (Free)
     """
     paw = "\uf1b0";
     """
-    (Free) Keywords: serenity, tranquility, truce, war
+    Peace; Keywords: serenity, tranquility, truce, war; Keywords: serenity, tranquility, truce, war (Free)
     """
     peace = "\uf67c";
     """
-    (Free) Keywords: design, edit, update, write
+    Pen; Keywords: design, edit, update, write; Keywords: design, edit, update, write (Free)
     """
     pen = "\uf304";
     """
-    (Free) Keywords: design, edit, update, write
+    Alternate Pen; Keywords: design, edit, update, write; Keywords: design, edit, update, write (Free)
     """
     alternate_pen = "\uf305";
     """
-    (Free) Keywords: design, edit, fountain pen, update, write
+    Pen Fancy; Keywords: design, edit, fountain pen, update, write; Keywords: design, edit, fountain pen, update, write (Free)
     """
     pen_fancy = "\uf5ac";
     """
-    (Free) Keywords: design, edit, fountain pen, update, write
+    Pen Nib; Keywords: design, edit, fountain pen, update, write; Keywords: design, edit, fountain pen, update, write (Free)
     """
     pen_nib = "\uf5ad";
     """
-    (Free) Keywords: edit, pencil-square, update, write
+    Pen Square; Keywords: edit, pencil-square, update, write; Keywords: edit, pencil-square, update, write (Free)
     """
     pen_square = "\uf14b";
     """
-    (Free) Keywords: design, edit, pencil, update, write
+    Alternate Pencil; Keywords: design, edit, pencil, update, write; Keywords: design, edit, pencil, update, write (Free)
     """
     alternate_pencil = "\uf303";
     """
-    (Free) Keywords: design, draft, draw, pencil
+    Pencil Ruler; Keywords: design, draft, draw, pencil; Keywords: design, draft, draw, pencil (Free)
     """
     pencil_ruler = "\uf5ae";
     """
-    (Free) Keywords: covid-19, personal space, social distance, space, spread, users
+    People Arrows; Keywords: covid-19, personal space, social distance, space, spread, users; Keywords: covid-19, personal space, social distance, space, spread, users (Free)
     """
     people_arrows = "\ue068";
     """
-    (Free) Keywords: box, carry, fragile, help, movers, package
+    People Carry; Keywords: box, carry, fragile, help, movers, package; Keywords: box, carry, fragile, help, movers, package (Free)
     """
     people_carry = "\uf4ce";
     """
-    (Free) Keywords: buffalo wings, capsicum, chili, chilli, habanero, jalapeno, mexican, spicy, tabasco, vegetable
+    Hot Pepper; Keywords: buffalo wings, capsicum, chili, chilli, habanero, jalapeno, mexican, spicy, tabasco, vegetable; Keywords: buffalo wings, capsicum, chili, chilli, habanero, jalapeno, mexican, spicy, tabasco, vegetable (Free)
     """
     hot_pepper = "\uf816";
     """
-    (Free) Keywords: discount, fraction, proportion, rate, ratio
+    Percent; Keywords: discount, fraction, proportion, rate, ratio; Keywords: discount, fraction, proportion, rate, ratio (Free)
     """
     percent = "\uf295";
     """
-    (Free) Keywords: discount, fraction, proportion, rate, ratio
+    Percentage; Keywords: discount, fraction, proportion, rate, ratio; Keywords: discount, fraction, proportion, rate, ratio (Free)
     """
     percentage = "\uf541";
     """
-    (Free) Keywords: changing, changing room, election, human, person, vote, voting
+    Person Entering Booth; Keywords: changing, changing room, election, human, person, vote, voting; Keywords: changing, changing room, election, human, person, vote, voting (Free)
     """
     person_entering_booth = "\uf756";
     """
-    (Free) Keywords: call, earphone, number, support, telephone, voice
+    Phone; Keywords: call, earphone, number, support, telephone, voice; Keywords: call, earphone, number, support, telephone, voice (Free)
     """
     phone = "\uf095";
     """
-    (Free) Keywords: call, earphone, number, support, telephone, voice
+    Alternate Phone; Keywords: call, earphone, number, support, telephone, voice; Keywords: call, earphone, number, support, telephone, voice (Free)
     """
     alternate_phone = "\uf879";
     """
-    (Free) Keywords: call, cancel, earphone, mute, number, support, telephone, voice
+    Phone Slash; Keywords: call, cancel, earphone, mute, number, support, telephone, voice; Keywords: call, cancel, earphone, mute, number, support, telephone, voice (Free)
     """
     phone_slash = "\uf3dd";
     """
-    (Free) Keywords: call, earphone, number, support, telephone, voice
+    Phone Square; Keywords: call, earphone, number, support, telephone, voice; Keywords: call, earphone, number, support, telephone, voice (Free)
     """
     phone_square = "\uf098";
     """
-    (Free) Keywords: call, earphone, number, support, telephone, voice
+    Alternate Phone Square; Keywords: call, earphone, number, support, telephone, voice; Keywords: call, earphone, number, support, telephone, voice (Free)
     """
     alternate_phone_square = "\uf87b";
     """
-    (Free) Keywords: call, earphone, number, sound, support, telephone, voice, volume-control-phone
+    Phone Volume; Keywords: call, earphone, number, sound, support, telephone, voice, volume-control-phone; Keywords: call, earphone, number, sound, support, telephone, voice, volume-control-phone (Free)
     """
     phone_volume = "\uf2a0";
     """
-    (Free) Keywords: av, film, image, library, media
+    Photo Video; Keywords: av, film, image, library, media; Keywords: av, film, image, library, media (Free)
     """
     photo_video = "\uf87c";
     """
-    (Free) Keywords: bank, save, savings
+    Piggy Bank; Keywords: bank, save, savings; Keywords: bank, save, savings (Free)
     """
     piggy_bank = "\uf4d3";
     """
-    (Free) Keywords: drugs, medicine, prescription, tablets
+    Pills; Keywords: drugs, medicine, prescription, tablets; Keywords: drugs, medicine, prescription, tablets (Free)
     """
     pills = "\uf484";
     """
-    (Free) Keywords: cheese, chicago, italian, mozzarella, new york, pepperoni, pie, slice, teenage mutant ninja turtles, tomato
+    Pizza Slice; Keywords: cheese, chicago, italian, mozzarella, new york, pepperoni, pie, slice, teenage mutant ninja turtles, tomato; Keywords: cheese, chicago, italian, mozzarella, new york, pepperoni, pie, slice, teenage mutant ninja turtles, tomato (Free)
     """
     pizza_slice = "\uf818";
     """
-    (Free) Keywords: building, church, holy, mosque, synagogue
+    Place of Worship; Keywords: building, church, holy, mosque, synagogue; Keywords: building, church, holy, mosque, synagogue (Free)
     """
     place_of_worship = "\uf67f";
     """
-    (Free) Keywords: airplane, destination, fly, location, mode, travel, trip
+    plane; Keywords: airplane, destination, fly, location, mode, travel, trip; Keywords: airplane, destination, fly, location, mode, travel, trip (Free)
     """
     plane = "\uf072";
     """
-    (Free) Keywords: airplane, arriving, destination, fly, land, landing, location, mode, travel, trip
+    Plane Arrival; Keywords: airplane, arriving, destination, fly, land, landing, location, mode, travel, trip; Keywords: airplane, arriving, destination, fly, land, landing, location, mode, travel, trip (Free)
     """
     plane_arrival = "\uf5af";
     """
-    (Free) Keywords: airplane, departing, destination, fly, location, mode, take off, taking off, travel, trip
+    Plane Departure; Keywords: airplane, departing, destination, fly, location, mode, take off, taking off, travel, trip; Keywords: airplane, departing, destination, fly, location, mode, take off, taking off, travel, trip (Free)
     """
     plane_departure = "\uf5b0";
     """
-    (Free) Keywords: airplane mode, canceled, covid-19, delayed, grounded, travel
+    Plane Slash; Keywords: airplane mode, canceled, covid-19, delayed, grounded, travel; Keywords: airplane mode, canceled, covid-19, delayed, grounded, travel (Free)
     """
     plane_slash = "\ue069";
     """
-    (Free) Keywords: audio, music, playing, sound, start, video
+    play; Keywords: audio, music, playing, sound, start, video; Keywords: audio, music, playing, sound, start, video (Free)
     """
     play = "\uf04b";
     """
-    (Free) Keywords: audio, music, playing, sound, start, video
+    Play Circle; Keywords: audio, music, playing, sound, start, video; Keywords: audio, music, playing, sound, start, video (Free)
     """
     play_circle = "\uf144";
     """
-    (Free) Keywords: connect, electric, online, power
+    Plug; Keywords: connect, electric, online, power; Keywords: connect, electric, online, power (Free)
     """
     plug = "\uf1e6";
     """
-    (Free) Keywords: add, create, expand, new, positive, shape
+    plus; Keywords: add, create, expand, new, positive, shape; Keywords: add, create, expand, new, positive, shape (Free)
     """
     plus = "\uf067";
     """
-    (Free) Keywords: add, create, expand, new, positive, shape
+    Plus Circle; Keywords: add, create, expand, new, positive, shape; Keywords: add, create, expand, new, positive, shape (Free)
     """
     plus_circle = "\uf055";
     """
-    (Free) Keywords: add, create, expand, new, positive, shape
+    Plus Square; Keywords: add, create, expand, new, positive, shape; Keywords: add, create, expand, new, positive, shape (Free)
     """
     plus_square = "\uf0fe";
     """
-    (Free) Keywords: audio, broadcast, music, sound
+    Podcast; Keywords: audio, broadcast, music, sound; Keywords: audio, broadcast, music, sound (Free)
     """
     podcast = "\uf2ce";
     """
-    (Free) Keywords: results, survey, trend, vote, voting
+    Poll; Keywords: results, survey, trend, vote, voting; Keywords: results, survey, trend, vote, voting (Free)
     """
     poll = "\uf681";
     """
-    (Free) Keywords: results, survey, trend, vote, voting
+    Poll H; Keywords: results, survey, trend, vote, voting; Keywords: results, survey, trend, vote, voting (Free)
     """
     poll_h = "\uf682";
     """
-    (Free) Keywords: crap, poop, shit, smile, turd
+    Poo; Keywords: crap, poop, shit, smile, turd; Keywords: crap, poop, shit, smile, turd (Free)
     """
     poo = "\uf2fe";
     """
-    (Free) Keywords: bolt, cloud, euphemism, lightning, mess, poop, shit, turd
+    Poo Storm; Keywords: bolt, cloud, euphemism, lightning, mess, poop, shit, turd; Keywords: bolt, cloud, euphemism, lightning, mess, poop, shit, turd (Free)
     """
     poo_storm = "\uf75a";
     """
-    (Free) Keywords: crap, poop, shit, smile, turd
+    Poop; Keywords: crap, poop, shit, smile, turd; Keywords: crap, poop, shit, smile, turd (Free)
     """
     poop = "\uf619";
     """
-    (Free) Keywords: id, image, photo, picture, selfie
+    Portrait; Keywords: id, image, photo, picture, selfie; Keywords: id, image, photo, picture, selfie (Free)
     """
     portrait = "\uf3e0";
     """
-    (Free) Keywords: currency, gbp, money
+    Pound Sign; Keywords: currency, gbp, money; Keywords: currency, gbp, money (Free)
     """
     pound_sign = "\uf154";
     """
-    (Free) Keywords: cancel, computer, on, reboot, restart
+    Power Off; Keywords: cancel, computer, on, reboot, restart; Keywords: cancel, computer, on, reboot, restart (Free)
     """
     power_off = "\uf011";
     """
-    (Free) Keywords: kneel, preach, religion, worship
+    Pray; Keywords: kneel, preach, religion, worship; Keywords: kneel, preach, religion, worship (Free)
     """
     pray = "\uf683";
     """
-    (Free) Keywords: kneel, preach, religion, worship
+    Praying Hands; Keywords: kneel, preach, religion, worship; Keywords: kneel, preach, religion, worship (Free)
     """
     praying_hands = "\uf684";
     """
-    (Free) Keywords: drugs, medical, medicine, pharmacy, rx
+    Prescription; Keywords: drugs, medical, medicine, pharmacy, rx; Keywords: drugs, medical, medicine, pharmacy, rx (Free)
     """
     prescription = "\uf5b1";
     """
-    (Free) Keywords: drugs, medical, medicine, pharmacy, rx
+    Prescription Bottle; Keywords: drugs, medical, medicine, pharmacy, rx; Keywords: drugs, medical, medicine, pharmacy, rx (Free)
     """
     prescription_bottle = "\uf485";
     """
-    (Free) Keywords: drugs, medical, medicine, pharmacy, rx
+    Alternate Prescription Bottle; Keywords: drugs, medical, medicine, pharmacy, rx; Keywords: drugs, medical, medicine, pharmacy, rx (Free)
     """
     alternate_prescription_bottle = "\uf486";
     """
-    (Free) Keywords: business, copy, document, office, paper
+    print; Keywords: business, copy, document, office, paper; Keywords: business, copy, document, office, paper (Free)
     """
     print = "\uf02f";
     """
-    (Free) Keywords: EKG, bed, electrocardiogram, health, hospital, life, patient, vital
+    Procedures; Keywords: EKG, bed, electrocardiogram, health, hospital, life, patient, vital; Keywords: EKG, bed, electrocardiogram, health, hospital, life, patient, vital (Free)
     """
     procedures = "\uf487";
     """
-    (Free) Keywords: chart, graph, network, pert
+    Project Diagram; Keywords: chart, graph, network, pert; Keywords: chart, graph, network, pert (Free)
     """
     project_diagram = "\uf542";
     """
-    (Free) Keywords: anti-bacterial, clean, covid-19, disinfect, hygiene, medical grade, sanitizer, soap
+    Pump Medical; Keywords: anti-bacterial, clean, covid-19, disinfect, hygiene, medical grade, sanitizer, soap; Keywords: anti-bacterial, clean, covid-19, disinfect, hygiene, medical grade, sanitizer, soap (Free)
     """
     pump_medical = "\ue06a";
     """
-    (Free) Keywords: anti-bacterial, clean, covid-19, disinfect, hygiene, sanitizer, soap
+    Pump Soap; Keywords: anti-bacterial, clean, covid-19, disinfect, hygiene, sanitizer, soap; Keywords: anti-bacterial, clean, covid-19, disinfect, hygiene, sanitizer, soap (Free)
     """
     pump_soap = "\ue06b";
     """
-    (Free) Keywords: add-on, addon, game, section
+    Puzzle Piece; Keywords: add-on, addon, game, section; Keywords: add-on, addon, game, section (Free)
     """
     puzzle_piece = "\uf12e";
     """
-    (Free) Keywords: barcode, info, information, scan
+    qrcode; Keywords: barcode, info, information, scan; Keywords: barcode, info, information, scan (Free)
     """
     qrcode = "\uf029";
     """
-    (Free) Keywords: help, information, support, unknown
+    Question; Keywords: help, information, support, unknown; Keywords: help, information, support, unknown (Free)
     """
     question = "\uf128";
     """
-    (Free) Keywords: help, information, support, unknown
+    Question Circle; Keywords: help, information, support, unknown; Keywords: help, information, support, unknown (Free)
     """
     question_circle = "\uf059";
     """
-    (Free) Keywords: ball, bludger, broom, golden snitch, harry potter, hogwarts, quaffle, sport, wizard
+    Quidditch; Keywords: ball, bludger, broom, golden snitch, harry potter, hogwarts, quaffle, sport, wizard; Keywords: ball, bludger, broom, golden snitch, harry potter, hogwarts, quaffle, sport, wizard (Free)
     """
     quidditch = "\uf458";
     """
-    (Free) Keywords: mention, note, phrase, text, type
+    quote-left; Keywords: mention, note, phrase, text, type; Keywords: mention, note, phrase, text, type (Free)
     """
     quote_left = "\uf10d";
     """
-    (Free) Keywords: mention, note, phrase, text, type
+    quote-right; Keywords: mention, note, phrase, text, type; Keywords: mention, note, phrase, text, type (Free)
     """
     quote_right = "\uf10e";
     """
-    (Free) Keywords: book, islam, muslim, religion
+    Quran; Keywords: book, islam, muslim, religion; Keywords: book, islam, muslim, religion (Free)
     """
     quran = "\uf687";
     """
-    (Free) Keywords: danger, dangerous, deadly, hazard, nuclear, radioactive, warning
+    Radiation; Keywords: danger, dangerous, deadly, hazard, nuclear, radioactive, warning; Keywords: danger, dangerous, deadly, hazard, nuclear, radioactive, warning (Free)
     """
     radiation = "\uf7b9";
     """
-    (Free) Keywords: danger, dangerous, deadly, hazard, nuclear, radioactive, warning
+    Alternate Radiation; Keywords: danger, dangerous, deadly, hazard, nuclear, radioactive, warning; Keywords: danger, dangerous, deadly, hazard, nuclear, radioactive, warning (Free)
     """
     alternate_radiation = "\uf7ba";
     """
-    (Free) Keywords: gold, leprechaun, prism, rain, sky
+    Rainbow; Keywords: gold, leprechaun, prism, rain, sky; Keywords: gold, leprechaun, prism, rain, sky (Free)
     """
     rainbow = "\uf75b";
     """
-    (Free) Keywords: arrows, shuffle, sort, swap, switch, transfer
+    random; Keywords: arrows, shuffle, sort, swap, switch, transfer; Keywords: arrows, shuffle, sort, swap, switch, transfer (Free)
     """
     random = "\uf074";
     """
-    (Free) Keywords: check, invoice, money, pay, table
+    Receipt; Keywords: check, invoice, money, pay, table; Keywords: check, invoice, money, pay, table (Free)
     """
     receipt = "\uf543";
     """
-    (Free) Keywords: LP, album, analog, music, phonograph, sound
+    Record Vinyl; Keywords: LP, album, analog, music, phonograph, sound; Keywords: LP, album, analog, music, phonograph, sound (Free)
     """
     record_vinyl = "\uf8d9";
     """
-    (Free) Keywords: Waste, compost, garbage, reuse, trash
+    Recycle; Keywords: Waste, compost, garbage, reuse, trash; Keywords: Waste, compost, garbage, reuse, trash (Free)
     """
     recycle = "\uf1b8";
     """
-    (Free) Keywords: forward, refresh, reload, repeat
+    Redo; Keywords: forward, refresh, reload, repeat; Keywords: forward, refresh, reload, repeat (Free)
     """
     redo = "\uf01e";
     """
-    (Free) Keywords: forward, refresh, reload, repeat
+    Alternate Redo; Keywords: forward, refresh, reload, repeat; Keywords: forward, refresh, reload, repeat (Free)
     """
     alternate_redo = "\uf2f9";
     """
-    (Free) Keywords: copyright, mark, trademark
+    Registered Trademark; Keywords: copyright, mark, trademark; Keywords: copyright, mark, trademark (Free)
     """
     registered_trademark = "\uf25d";
     """
-    (Free) Keywords: cancel, font, format, remove, style, text
+    Remove Format; Keywords: cancel, font, format, remove, style, text; Keywords: cancel, font, format, remove, style, text (Free)
     """
     remove_format = "\uf87d";
     """
-    (Free) Keywords: mail, message, respond
+    Reply; Keywords: mail, message, respond; Keywords: mail, message, respond (Free)
     """
     reply = "\uf3e5";
     """
-    (Free) Keywords: mail, message, respond
+    reply-all; Keywords: mail, message, respond; Keywords: mail, message, respond (Free)
     """
     reply_all = "\uf122";
     """
-    (Free) Keywords: american, conservative, election, elephant, politics, republican party, right, right-wing, usa
+    Republican; Keywords: american, conservative, election, elephant, politics, republican party, right, right-wing, usa; Keywords: american, conservative, election, elephant, politics, republican party, right, right-wing, usa (Free)
     """
     republican = "\uf75e";
     """
-    (Free) Keywords: bathroom, john, loo, potty, washroom, waste, wc
+    Restroom; Keywords: bathroom, john, loo, potty, washroom, waste, wc; Keywords: bathroom, john, loo, potty, washroom, waste, wc (Free)
     """
     restroom = "\uf7bd";
     """
-    (Free) Keywords: refresh, reload, share, swap
+    Retweet; Keywords: refresh, reload, share, swap; Keywords: refresh, reload, share, swap (Free)
     """
     retweet = "\uf079";
     """
-    (Free) Keywords: badge, cause, lapel, pin
+    Ribbon; Keywords: badge, cause, lapel, pin; Keywords: badge, cause, lapel, pin (Free)
     """
     ribbon = "\uf4d6";
     """
-    (Free) Keywords: Dungeons & Dragons, Gollum, band, binding, d&d, dnd, engagement, fantasy, gold, jewelry, marriage, precious
+    Ring; Keywords: Dungeons & Dragons, Gollum, band, binding, d&d, dnd, engagement, fantasy, gold, jewelry, marriage, precious; Keywords: Dungeons & Dragons, Gollum, band, binding, d&d, dnd, engagement, fantasy, gold, jewelry, marriage, precious (Free)
     """
     ring = "\uf70b";
     """
-    (Free) Keywords: highway, map, pavement, route, street, travel
+    road; Keywords: highway, map, pavement, route, street, travel; Keywords: highway, map, pavement, route, street, travel (Free)
     """
     road = "\uf018";
     """
-    (Free) Keywords: android, automate, computer, cyborg
+    Robot; Keywords: android, automate, computer, cyborg; Keywords: android, automate, computer, cyborg (Free)
     """
     robot = "\uf544";
     """
-    (Free) Keywords: aircraft, app, jet, launch, nasa, space
+    rocket; Keywords: aircraft, app, jet, launch, nasa, space; Keywords: aircraft, app, jet, launch, nasa, space (Free)
     """
     rocket = "\uf135";
     """
-    (Free) Keywords: directions, navigation, travel
+    Route; Keywords: directions, navigation, travel; Keywords: directions, navigation, travel (Free)
     """
     route = "\uf4d7";
     """
-    (Free) Keywords: blog, feed, journal, news, writing
+    rss; Keywords: blog, feed, journal, news, writing; Keywords: blog, feed, journal, news, writing (Free)
     """
     rss = "\uf09e";
     """
-    (Free) Keywords: blog, feed, journal, news, writing
+    RSS Square; Keywords: blog, feed, journal, news, writing; Keywords: blog, feed, journal, news, writing (Free)
     """
     rss_square = "\uf143";
     """
-    (Free) Keywords: currency, money, rub
+    Ruble Sign; Keywords: currency, money, rub; Keywords: currency, money, rub (Free)
     """
     ruble_sign = "\uf158";
     """
-    (Free) Keywords: design, draft, length, measure, planning
+    Ruler; Keywords: design, draft, length, measure, planning; Keywords: design, draft, length, measure, planning (Free)
     """
     ruler = "\uf545";
     """
-    (Free) Keywords: design, draft, length, measure, planning
+    Ruler Combined; Keywords: design, draft, length, measure, planning; Keywords: design, draft, length, measure, planning (Free)
     """
     ruler_combined = "\uf546";
     """
-    (Free) Keywords: design, draft, length, measure, planning
+    Ruler Horizontal; Keywords: design, draft, length, measure, planning; Keywords: design, draft, length, measure, planning (Free)
     """
     ruler_horizontal = "\uf547";
     """
-    (Free) Keywords: design, draft, length, measure, planning
+    Ruler Vertical; Keywords: design, draft, length, measure, planning; Keywords: design, draft, length, measure, planning (Free)
     """
     ruler_vertical = "\uf548";
     """
-    (Free) Keywords: exercise, health, jog, person, run, sport, sprint
+    Running; Keywords: exercise, health, jog, person, run, sport, sprint; Keywords: exercise, health, jog, person, run, sport, sprint (Free)
     """
     running = "\uf70c";
     """
-    (Free) Keywords: currency, indian, inr, money
+    Indian Rupee Sign; Keywords: currency, indian, inr, money; Keywords: currency, indian, inr, money (Free)
     """
     indian_rupee_sign = "\uf156";
     """
-    (Free) Keywords: emoticon, face, tear, tears
+    Crying Face; Keywords: emoticon, face, tear, tears; Keywords: emoticon, face, tear, tears (Free)
     """
     crying_face = "\uf5b3";
     """
-    (Free) Keywords: emoticon, face, tear, tears
+    Loudly Crying Face; Keywords: emoticon, face, tear, tears; Keywords: emoticon, face, tear, tears (Free)
     """
     loudly_crying_face = "\uf5b4";
     """
-    (Free) Keywords: communications, hardware, orbit, space
+    Satellite; Keywords: communications, hardware, orbit, space; Keywords: communications, hardware, orbit, space (Free)
     """
     satellite = "\uf7bf";
     """
-    (Free) Keywords: SETI, communications, hardware, receiver, saucer, signal, space
+    Satellite Dish; Keywords: SETI, communications, hardware, receiver, saucer, signal, space; Keywords: SETI, communications, hardware, receiver, saucer, signal, space (Free)
     """
     satellite_dish = "\uf7c0";
     """
-    (Free) Keywords: disk, download, floppy, floppy-o
+    Save; Keywords: disk, download, floppy, floppy-o; Keywords: disk, download, floppy, floppy-o (Free)
     """
     save = "\uf0c7";
     """
-    (Free) Keywords: building, education, learn, student, teacher
+    School; Keywords: building, education, learn, student, teacher; Keywords: building, education, learn, student, teacher (Free)
     """
     school = "\uf549";
     """
-    (Free) Keywords: admin, fix, mechanic, repair, settings, tool
+    Screwdriver; Keywords: admin, fix, mechanic, repair, settings, tool; Keywords: admin, fix, mechanic, repair, settings, tool (Free)
     """
     screwdriver = "\uf54a";
     """
-    (Free) Keywords: Dungeons & Dragons, announcement, d&d, dnd, fantasy, paper, script
+    Scroll; Keywords: Dungeons & Dragons, announcement, d&d, dnd, fantasy, paper, script; Keywords: Dungeons & Dragons, announcement, d&d, dnd, fantasy, paper, script (Free)
     """
     scroll = "\uf70e";
     """
-    (Free) Keywords: image, memory, photo, save
+    Sd Card; Keywords: image, memory, photo, save; Keywords: image, memory, photo, save (Free)
     """
     sd_card = "\uf7c2";
     """
-    (Free) Keywords: bigger, enlarge, find, magnify, preview, zoom
+    Search; Keywords: bigger, enlarge, find, magnify, preview, zoom; Keywords: bigger, enlarge, find, magnify, preview, zoom (Free)
     """
     search = "\uf002";
     """
-    (Free) Keywords: bigger, enlarge, find, magnify, money, preview, zoom
+    Search Dollar; Keywords: bigger, enlarge, find, magnify, money, preview, zoom; Keywords: bigger, enlarge, find, magnify, money, preview, zoom (Free)
     """
     search_dollar = "\uf688";
     """
-    (Free) Keywords: bigger, enlarge, find, magnify, preview, zoom
+    Search Location; Keywords: bigger, enlarge, find, magnify, preview, zoom; Keywords: bigger, enlarge, find, magnify, preview, zoom (Free)
     """
     search_location = "\uf689";
     """
-    (Free) Keywords: minify, negative, smaller, zoom, zoom out
+    Search Minus; Keywords: minify, negative, smaller, zoom, zoom out; Keywords: minify, negative, smaller, zoom, zoom out (Free)
     """
     search_minus = "\uf010";
     """
-    (Free) Keywords: bigger, enlarge, magnify, positive, zoom, zoom in
+    Search Plus; Keywords: bigger, enlarge, magnify, positive, zoom, zoom in; Keywords: bigger, enlarge, magnify, positive, zoom, zoom in (Free)
     """
     search_plus = "\uf00e";
     """
-    (Free) Keywords: flora, grow, plant, vegan
+    Seedling; Keywords: flora, grow, plant, vegan; Keywords: flora, grow, plant, vegan (Free)
     """
     seedling = "\uf4d8";
     """
-    (Free) Keywords: computer, cpu, database, hardware, network
+    Server; Keywords: computer, cpu, database, hardware, network; Keywords: computer, cpu, database, hardware, network (Free)
     """
     server = "\uf233";
     """
-    (Free) Keywords: blocks, build, circle, square, triangle
+    Shapes; Keywords: blocks, build, circle, square, triangle; Keywords: blocks, build, circle, square, triangle (Free)
     """
     shapes = "\uf61f";
     """
-    (Free) Keywords: forward, save, send, social
+    Share; Keywords: forward, save, send, social; Keywords: forward, save, send, social (Free)
     """
     share = "\uf064";
     """
-    (Free) Keywords: forward, save, send, social
+    Alternate Share; Keywords: forward, save, send, social; Keywords: forward, save, send, social (Free)
     """
     alternate_share = "\uf1e0";
     """
-    (Free) Keywords: forward, save, send, social
+    Alternate Share Square; Keywords: forward, save, send, social; Keywords: forward, save, send, social (Free)
     """
     alternate_share_square = "\uf1e1";
     """
-    (Free) Keywords: forward, save, send, social
+    Share Square; Keywords: forward, save, send, social; Keywords: forward, save, send, social (Free)
     """
     share_square = "\uf14d";
     """
-    (Free) Keywords: currency, ils, money
+    Shekel Sign; Keywords: currency, ils, money; Keywords: currency, ils, money (Free)
     """
     shekel_sign = "\uf20b";
     """
-    (Free) Keywords: achievement, award, block, defend, security, winner
+    Alternate Shield; Keywords: achievement, award, block, defend, security, winner; Keywords: achievement, award, block, defend, security, winner (Free)
     """
     alternate_shield = "\uf3ed";
     """
-    (Free) Keywords: antibodies, barrier, covid-19, health, protect
+    Shield Virus; Keywords: antibodies, barrier, covid-19, health, protect; Keywords: antibodies, barrier, covid-19, health, protect (Free)
     """
     shield_virus = "\ue06c";
     """
-    (Free) Keywords: boat, sea, water
+    Ship; Keywords: boat, sea, water; Keywords: boat, sea, water (Free)
     """
     ship = "\uf21a";
     """
-    (Free) Keywords: express, fedex, mail, overnight, package, ups
+    Shipping Fast; Keywords: express, fedex, mail, overnight, package, ups; Keywords: express, fedex, mail, overnight, package, ups (Free)
     """
     shipping_fast = "\uf48b";
     """
-    (Free) Keywords: feet, footprints, steps, walk
+    Shoe Prints; Keywords: feet, footprints, steps, walk; Keywords: feet, footprints, steps, walk (Free)
     """
     shoe_prints = "\uf54b";
     """
-    (Free) Keywords: buy, checkout, grocery, payment, purchase
+    Shopping Bag; Keywords: buy, checkout, grocery, payment, purchase; Keywords: buy, checkout, grocery, payment, purchase (Free)
     """
     shopping_bag = "\uf290";
     """
-    (Free) Keywords: buy, checkout, grocery, payment, purchase
+    Shopping Basket; Keywords: buy, checkout, grocery, payment, purchase; Keywords: buy, checkout, grocery, payment, purchase (Free)
     """
     shopping_basket = "\uf291";
     """
-    (Free) Keywords: buy, checkout, grocery, payment, purchase
+    shopping-cart; Keywords: buy, checkout, grocery, payment, purchase; Keywords: buy, checkout, grocery, payment, purchase (Free)
     """
     shopping_cart = "\uf07a";
     """
-    (Free) Keywords: bath, clean, faucet, water
+    Shower; Keywords: bath, clean, faucet, water; Keywords: bath, clean, faucet, water (Free)
     """
     shower = "\uf2cc";
     """
-    (Free) Keywords: airport, machine, public-transportation, transportation, travel, vehicle
+    Shuttle Van; Keywords: airport, machine, public-transportation, transportation, travel, vehicle; Keywords: airport, machine, public-transportation, transportation, travel, vehicle (Free)
     """
     shuttle_van = "\uf5b6";
     """
-    (Free) Keywords: directions, real estate, signage, wayfinding
+    Sign; Keywords: directions, real estate, signage, wayfinding; Keywords: directions, real estate, signage, wayfinding (Free)
     """
     sign = "\uf4d9";
     """
-    (Free) Keywords: arrow, enter, join, log in, login, sign in, sign up, sign-in, signin, signup
+    Alternate Sign In; Keywords: arrow, enter, join, log in, login, sign in, sign up, sign-in, signin, signup; Keywords: arrow, enter, join, log in, login, sign in, sign up, sign-in, signin, signup (Free)
     """
     alternate_sign_in = "\uf2f6";
     """
-    (Free) Keywords: Translate, asl, deaf, hands
+    Sign Language; Keywords: Translate, asl, deaf, hands; Keywords: Translate, asl, deaf, hands (Free)
     """
     sign_language = "\uf2a7";
     """
-    (Free) Keywords: arrow, exit, leave, log out, logout, sign-out
+    Alternate Sign Out; Keywords: arrow, exit, leave, log out, logout, sign-out; Keywords: arrow, exit, leave, log out, logout, sign-out (Free)
     """
     alternate_sign_out = "\uf2f5";
     """
-    (Free) Keywords: bars, graph, online, reception, status
+    signal; Keywords: bars, graph, online, reception, status; Keywords: bars, graph, online, reception, status (Free)
     """
     signal = "\uf012";
     """
-    (Free) Keywords: John Hancock, cursive, name, writing
+    Signature; Keywords: John Hancock, cursive, name, writing; Keywords: John Hancock, cursive, name, writing (Free)
     """
     signature = "\uf5b7";
     """
-    (Free) Keywords: hard drive, hardware, portable, storage, technology, tiny
+    SIM Card; Keywords: hard drive, hardware, portable, storage, technology, tiny; Keywords: hard drive, hardware, portable, storage, technology, tiny (Free)
     """
     sim_card = "\uf7c4";
     """
-    (Free) Keywords: bathroom, covid-19, faucet, kitchen, wash
+    Sink; Keywords: bathroom, covid-19, faucet, kitchen, wash; Keywords: bathroom, covid-19, faucet, kitchen, wash (Free)
     """
     sink = "\ue06d";
     """
-    (Free) Keywords: directory, hierarchy, ia, information architecture, organization
+    Sitemap; Keywords: directory, hierarchy, ia, information architecture, organization; Keywords: directory, hierarchy, ia, information architecture, organization (Free)
     """
     sitemap = "\uf0e8";
     """
-    (Free) Keywords: activity, figure skating, fitness, ice, person, winter
+    Skating; Keywords: activity, figure skating, fitness, ice, person, winter; Keywords: activity, figure skating, fitness, ice, person, winter (Free)
     """
     skating = "\uf7c5";
     """
-    (Free) Keywords: activity, downhill, fast, fitness, olympics, outdoors, person, seasonal, slalom
+    Skiing; Keywords: activity, downhill, fast, fitness, olympics, outdoors, person, seasonal, slalom; Keywords: activity, downhill, fast, fitness, olympics, outdoors, person, seasonal, slalom (Free)
     """
     skiing = "\uf7c9";
     """
-    (Free) Keywords: activity, cross country, fitness, outdoors, person, seasonal
+    Skiing Nordic; Keywords: activity, cross country, fitness, outdoors, person, seasonal; Keywords: activity, cross country, fitness, outdoors, person, seasonal (Free)
     """
     skiing_nordic = "\uf7ca";
     """
-    (Free) Keywords: bones, skeleton, x-ray, yorick
+    Skull; Keywords: bones, skeleton, x-ray, yorick; Keywords: bones, skeleton, x-ray, yorick (Free)
     """
     skull = "\uf54c";
     """
-    (Free) Keywords: Dungeons & Dragons, alert, bones, d&d, danger, dead, deadly, death, dnd, fantasy, halloween, holiday, jolly-roger, pirate, poison, skeleton, warning
+    Skull & Crossbones; Keywords: Dungeons & Dragons, alert, bones, d&d, danger, dead, deadly, death, dnd, fantasy, halloween, holiday, jolly-roger, pirate, poison, skeleton, warning; Keywords: Dungeons & Dragons, alert, bones, d&d, danger, dead, deadly, death, dnd, fantasy, halloween, holiday, jolly-roger, pirate, poison, skeleton, warning (Free)
     """
     skull_crossbones = "\uf714";
     """
-    (Free) Keywords: cancel, close, mute, off, stop, x
+    Slash; Keywords: cancel, close, mute, off, stop, x; Keywords: cancel, close, mute, off, stop, x (Free)
     """
     slash = "\uf715";
     """
-    (Free) Keywords: christmas, claus, fly, holiday, santa, sled, snow, xmas
+    Sleigh; Keywords: christmas, claus, fly, holiday, santa, sled, snow, xmas; Keywords: christmas, claus, fly, holiday, santa, sled, snow, xmas (Free)
     """
     sleigh = "\uf7cc";
     """
-    (Free) Keywords: adjust, settings, sliders, toggle
+    Horizontal Sliders; Keywords: adjust, settings, sliders, toggle; Keywords: adjust, settings, sliders, toggle (Free)
     """
     horizontal_sliders = "\uf1de";
     """
-    (Free) Keywords: approve, emoticon, face, happy, rating, satisfied
+    Smiling Face; Keywords: approve, emoticon, face, happy, rating, satisfied; Keywords: approve, emoticon, face, happy, rating, satisfied (Free)
     """
     smiling_face = "\uf118";
     """
-    (Free) Keywords: emoticon, face, happy, positive
+    Beaming Face With Smiling Eyes; Keywords: emoticon, face, happy, positive; Keywords: emoticon, face, happy, positive (Free)
     """
     beaming_face_with_smiling_eyes = "\uf5b8";
     """
-    (Free) Keywords: emoticon, face, happy, hint, joke
+    Winking Face; Keywords: emoticon, face, happy, hint, joke; Keywords: emoticon, face, happy, hint, joke (Free)
     """
     winking_face = "\uf4da";
     """
-    (Free) Keywords: dragon, fog, haze, pollution, smoke, weather
+    Smog; Keywords: dragon, fog, haze, pollution, smoke, weather; Keywords: dragon, fog, haze, pollution, smoke, weather (Free)
     """
     smog = "\uf75f";
     """
-    (Free) Keywords: cancer, cigarette, nicotine, smoking status, tobacco
+    Smoking; Keywords: cancer, cigarette, nicotine, smoking status, tobacco; Keywords: cancer, cigarette, nicotine, smoking status, tobacco (Free)
     """
     smoking = "\uf48d";
     """
-    (Free) Keywords: ban, cancel, no smoking, non-smoking
+    Smoking Ban; Keywords: ban, cancel, no smoking, non-smoking; Keywords: ban, cancel, no smoking, non-smoking (Free)
     """
     smoking_ban = "\uf54d";
     """
-    (Free) Keywords: chat, conversation, message, mobile, notification, phone, sms, texting
+    SMS; Keywords: chat, conversation, message, mobile, notification, phone, sms, texting; Keywords: chat, conversation, message, mobile, notification, phone, sms, texting (Free)
     """
     sms = "\uf7cd";
     """
-    (Free) Keywords: activity, fitness, olympics, outdoors, person
+    Snowboarding; Keywords: activity, fitness, olympics, outdoors, person; Keywords: activity, fitness, olympics, outdoors, person (Free)
     """
     snowboarding = "\uf7ce";
     """
-    (Free) Keywords: precipitation, rain, winter
+    Snowflake; Keywords: precipitation, rain, winter; Keywords: precipitation, rain, winter (Free)
     """
     snowflake = "\uf2dc";
     """
-    (Free) Keywords: decoration, frost, frosty, holiday
+    Snowman; Keywords: decoration, frost, frosty, holiday; Keywords: decoration, frost, frosty, holiday (Free)
     """
     snowman = "\uf7d0";
     """
-    (Free) Keywords: clean up, cold, road, storm, winter
+    Snowplow; Keywords: clean up, cold, road, storm, winter; Keywords: clean up, cold, road, storm, winter (Free)
     """
     snowplow = "\uf7d2";
     """
-    (Free) Keywords: bubbles, clean, covid-19, hygiene, wash
+    Soap; Keywords: bubbles, clean, covid-19, hygiene, wash; Keywords: bubbles, clean, covid-19, hygiene, wash (Free)
     """
     soap = "\ue06e";
     """
-    (Free) Keywords: business socks, business time, clothing, feet, flight of the conchords, wednesday
+    Socks; Keywords: business socks, business time, clothing, feet, flight of the conchords, wednesday; Keywords: business socks, business time, clothing, feet, flight of the conchords, wednesday (Free)
     """
     socks = "\uf696";
     """
-    (Free) Keywords: clean, eco-friendly, energy, green, sun
+    Solar Panel; Keywords: clean, eco-friendly, energy, green, sun; Keywords: clean, eco-friendly, energy, green, sun (Free)
     """
     solar_panel = "\uf5ba";
     """
-    (Free) Keywords: filter, order
+    Sort; Keywords: filter, order; Keywords: filter, order (Free)
     """
     sort = "\uf0dc";
     """
-    (Free) Keywords: alphabetical, arrange, filter, order, sort-alpha-asc
+    Sort Alphabetical Down; Keywords: alphabetical, arrange, filter, order, sort-alpha-asc; Keywords: alphabetical, arrange, filter, order, sort-alpha-asc (Free)
     """
     sort_alphabetical_down = "\uf15d";
     """
-    (Free) Keywords: alphabetical, arrange, filter, order, sort-alpha-asc
+    Alternate Sort Alphabetical Down; Keywords: alphabetical, arrange, filter, order, sort-alpha-asc; Keywords: alphabetical, arrange, filter, order, sort-alpha-asc (Free)
     """
     alternate_sort_alphabetical_down = "\uf881";
     """
-    (Free) Keywords: alphabetical, arrange, filter, order, sort-alpha-desc
+    Sort Alphabetical Up; Keywords: alphabetical, arrange, filter, order, sort-alpha-desc; Keywords: alphabetical, arrange, filter, order, sort-alpha-desc (Free)
     """
     sort_alphabetical_up = "\uf15e";
     """
-    (Free) Keywords: alphabetical, arrange, filter, order, sort-alpha-desc
+    Alternate Sort Alphabetical Up; Keywords: alphabetical, arrange, filter, order, sort-alpha-desc; Keywords: alphabetical, arrange, filter, order, sort-alpha-desc (Free)
     """
     alternate_sort_alphabetical_up = "\uf882";
     """
-    (Free) Keywords: arrange, filter, number, order, sort-amount-asc
+    Sort Amount Down; Keywords: arrange, filter, number, order, sort-amount-asc; Keywords: arrange, filter, number, order, sort-amount-asc (Free)
     """
     sort_amount_down = "\uf160";
     """
-    (Free) Keywords: arrange, filter, order, sort-amount-asc
+    Alternate Sort Amount Down; Keywords: arrange, filter, order, sort-amount-asc; Keywords: arrange, filter, order, sort-amount-asc (Free)
     """
     alternate_sort_amount_down = "\uf884";
     """
-    (Free) Keywords: arrange, filter, order, sort-amount-desc
+    Sort Amount Up; Keywords: arrange, filter, order, sort-amount-desc; Keywords: arrange, filter, order, sort-amount-desc (Free)
     """
     sort_amount_up = "\uf161";
     """
-    (Free) Keywords: arrange, filter, order, sort-amount-desc
+    Alternate Sort Amount Up; Keywords: arrange, filter, order, sort-amount-desc; Keywords: arrange, filter, order, sort-amount-desc (Free)
     """
     alternate_sort_amount_up = "\uf885";
     """
-    (Free) Keywords: arrow, descending, filter, order, sort-desc
+    Sort Down (Descending); Keywords: arrow, descending, filter, order, sort-desc; Keywords: arrow, descending, filter, order, sort-desc (Free)
     """
     sort_down_descending = "\uf0dd";
     """
-    (Free) Keywords: arrange, filter, numbers, order, sort-numeric-asc
+    Sort Numeric Down; Keywords: arrange, filter, numbers, order, sort-numeric-asc; Keywords: arrange, filter, numbers, order, sort-numeric-asc (Free)
     """
     sort_numeric_down = "\uf162";
     """
-    (Free) Keywords: arrange, filter, numbers, order, sort-numeric-asc
+    Alternate Sort Numeric Down; Keywords: arrange, filter, numbers, order, sort-numeric-asc; Keywords: arrange, filter, numbers, order, sort-numeric-asc (Free)
     """
     alternate_sort_numeric_down = "\uf886";
     """
-    (Free) Keywords: arrange, filter, numbers, order, sort-numeric-desc
+    Sort Numeric Up; Keywords: arrange, filter, numbers, order, sort-numeric-desc; Keywords: arrange, filter, numbers, order, sort-numeric-desc (Free)
     """
     sort_numeric_up = "\uf163";
     """
-    (Free) Keywords: arrange, filter, numbers, order, sort-numeric-desc
+    Alternate Sort Numeric Up; Keywords: arrange, filter, numbers, order, sort-numeric-desc; Keywords: arrange, filter, numbers, order, sort-numeric-desc (Free)
     """
     alternate_sort_numeric_up = "\uf887";
     """
-    (Free) Keywords: arrow, ascending, filter, order, sort-asc
+    Sort Up (Ascending); Keywords: arrow, ascending, filter, order, sort-asc; Keywords: arrow, ascending, filter, order, sort-asc (Free)
     """
     sort_up_ascending = "\uf0de";
     """
-    (Free) Keywords: flora, massage, mindfulness, plant, wellness
+    Spa; Keywords: flora, massage, mindfulness, plant, wellness; Keywords: flora, massage, mindfulness, plant, wellness (Free)
     """
     spa = "\uf5bb";
     """
-    (Free) Keywords: astronaut, machine, nasa, rocket, space, transportation
+    Space Shuttle; Keywords: astronaut, machine, nasa, rocket, space, transportation; Keywords: astronaut, machine, nasa, rocket, space, transportation (Free)
     """
     space_shuttle = "\uf197";
     """
-    (Free) Keywords: dictionary, edit, editor, grammar, text
+    Spell Check; Keywords: dictionary, edit, editor, grammar, text; Keywords: dictionary, edit, editor, grammar, text (Free)
     """
     spell_check = "\uf891";
     """
-    (Free) Keywords: arachnid, bug, charlotte, crawl, eight, halloween
+    Spider; Keywords: arachnid, bug, charlotte, crawl, eight, halloween; Keywords: arachnid, bug, charlotte, crawl, eight, halloween (Free)
     """
     spider = "\uf717";
     """
-    (Free) Keywords: circle, loading, progress
+    Spinner; Keywords: circle, loading, progress; Keywords: circle, loading, progress (Free)
     """
     spinner = "\uf110";
     """
-    (Free) Keywords: Ink, blob, blotch, glob, stain
+    Splotch; Keywords: Ink, blob, blotch, glob, stain; Keywords: Ink, blob, blotch, glob, stain (Free)
     """
     splotch = "\uf5bc";
     """
-    (Free) Keywords: Paint, aerosol, design, graffiti, tag
+    Spray Can; Keywords: Paint, aerosol, design, graffiti, tag; Keywords: Paint, aerosol, design, graffiti, tag (Free)
     """
     spray_can = "\uf5bd";
     """
-    (Free) Keywords: block, box, shape
+    Square; Keywords: block, box, shape; Keywords: block, box, shape (Free)
     """
     square = "\uf0c8";
     """
-    (Free) Keywords: block, box, shape
+    Square Full; Keywords: block, box, shape; Keywords: block, box, shape (Free)
     """
     square_full = "\uf45c";
     """
-    (Free) Keywords: arithmetic, calculus, division, math
+    Alternate Square Root; Keywords: arithmetic, calculus, division, math; Keywords: arithmetic, calculus, division, math (Free)
     """
     alternate_square_root = "\uf698";
     """
-    (Free) Keywords: art, certificate, imprint, rubber, seal
+    Stamp; Keywords: art, certificate, imprint, rubber, seal; Keywords: art, certificate, imprint, rubber, seal (Free)
     """
     stamp = "\uf5bf";
     """
-    (Free) Keywords: achievement, award, favorite, important, night, rating, score
+    Star; Keywords: achievement, award, favorite, important, night, rating, score; Keywords: achievement, award, favorite, important, night, rating, score (Free)
     """
     star = "\uf005";
     """
-    (Free) Keywords: islam, muslim, religion
+    Star and Crescent; Keywords: islam, muslim, religion; Keywords: islam, muslim, religion (Free)
     """
     star_and_crescent = "\uf699";
     """
-    (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
+    star-half; Keywords: achievement, award, rating, score, star-half-empty, star-half-full; Keywords: achievement, award, rating, score, star-half-empty, star-half-full (Free)
     """
     star_half = "\uf089";
     """
-    (Free) Keywords: achievement, award, rating, score, star-half-empty, star-half-full
+    Alternate Star Half; Keywords: achievement, award, rating, score, star-half-empty, star-half-full; Keywords: achievement, award, rating, score, star-half-empty, star-half-full (Free)
     """
     alternate_star_half = "\uf5c0";
     """
-    (Free) Keywords: jewish, judaism, religion
+    Star of David; Keywords: jewish, judaism, religion; Keywords: jewish, judaism, religion (Free)
     """
     star_of_david = "\uf69a";
     """
-    (Free) Keywords: doctor, emt, first aid, health, medical
+    Star of Life; Keywords: doctor, emt, first aid, health, medical; Keywords: doctor, emt, first aid, health, medical (Free)
     """
     star_of_life = "\uf621";
     """
-    (Free) Keywords: beginning, first, previous, rewind, start
+    step-backward; Keywords: beginning, first, previous, rewind, start; Keywords: beginning, first, previous, rewind, start (Free)
     """
     step_backward = "\uf048";
     """
-    (Free) Keywords: end, last, next
+    step-forward; Keywords: end, last, next; Keywords: end, last, next (Free)
     """
     step_forward = "\uf051";
     """
-    (Free) Keywords: covid-19, diagnosis, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient
+    Stethoscope; Keywords: covid-19, diagnosis, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient; Keywords: covid-19, diagnosis, doctor, general practitioner, hospital, infirmary, medicine, office, outpatient (Free)
     """
     stethoscope = "\uf0f1";
     """
-    (Free) Keywords: message, note, paper, reminder, sticker
+    Sticky Note; Keywords: message, note, paper, reminder, sticker; Keywords: message, note, paper, reminder, sticker (Free)
     """
     sticky_note = "\uf249";
     """
-    (Free) Keywords: block, box, square
+    stop; Keywords: block, box, square; Keywords: block, box, square (Free)
     """
     stop = "\uf04d";
     """
-    (Free) Keywords: block, box, circle, square
+    Stop Circle; Keywords: block, box, circle, square; Keywords: block, box, circle, square (Free)
     """
     stop_circle = "\uf28d";
     """
-    (Free) Keywords: clock, reminder, time
+    Stopwatch; Keywords: clock, reminder, time; Keywords: clock, reminder, time (Free)
     """
     stopwatch = "\uf2f2";
     """
-    (Free) Keywords: ABCs, countdown, covid-19, happy birthday, i will survive, reminder, seconds, time, timer
+    Stopwatch 20; Keywords: ABCs, countdown, covid-19, happy birthday, i will survive, reminder, seconds, time, timer; Keywords: ABCs, countdown, covid-19, happy birthday, i will survive, reminder, seconds, time, timer (Free)
     """
     stopwatch_20 = "\ue06f";
     """
-    (Free) Keywords: building, buy, purchase, shopping
+    Store; Keywords: building, buy, purchase, shopping; Keywords: building, buy, purchase, shopping (Free)
     """
     store = "\uf54e";
     """
-    (Free) Keywords: building, buy, purchase, shopping
+    Alternate Store; Keywords: building, buy, purchase, shopping; Keywords: building, buy, purchase, shopping (Free)
     """
     alternate_store = "\uf54f";
     """
-    (Free) Keywords: building, buy, closed, covid-19, purchase, shopping
+    Alternate Store Slash; Keywords: building, buy, closed, covid-19, purchase, shopping; Keywords: building, buy, closed, covid-19, purchase, shopping (Free)
     """
     alternate_store_slash = "\ue070";
     """
-    (Free) Keywords: building, buy, closed, covid-19, purchase, shopping
+    Store Slash; Keywords: building, buy, closed, covid-19, purchase, shopping; Keywords: building, buy, closed, covid-19, purchase, shopping (Free)
     """
     store_slash = "\ue071";
     """
-    (Free) Keywords: flow, list, timeline
+    Stream; Keywords: flow, list, timeline; Keywords: flow, list, timeline (Free)
     """
     stream = "\uf550";
     """
-    (Free) Keywords: directions, location, map, navigation
+    Street View; Keywords: directions, location, map, navigation; Keywords: directions, location, map, navigation (Free)
     """
     street_view = "\uf21d";
     """
-    (Free) Keywords: cancel, edit, font, format, text, type
+    Strikethrough; Keywords: cancel, edit, font, format, text, type; Keywords: cancel, edit, font, format, text, type (Free)
     """
     strikethrough = "\uf0cc";
     """
-    (Free) Keywords: caramel, cookie, dessert, sweets, waffle
+    Stroopwafel; Keywords: caramel, cookie, dessert, sweets, waffle; Keywords: caramel, cookie, dessert, sweets, waffle (Free)
     """
     stroopwafel = "\uf551";
     """
-    (Free) Keywords: edit, font, format, text, type
+    subscript; Keywords: edit, font, format, text, type; Keywords: edit, font, format, text, type (Free)
     """
     subscript = "\uf12c";
     """
-    (Free) Keywords: machine, railway, train, transportation, vehicle
+    Subway; Keywords: machine, railway, train, transportation, vehicle; Keywords: machine, railway, train, transportation, vehicle (Free)
     """
     subway = "\uf239";
     """
-    (Free) Keywords: baggage, luggage, move, suitcase, travel, trip
+    Suitcase; Keywords: baggage, luggage, move, suitcase, travel, trip; Keywords: baggage, luggage, move, suitcase, travel, trip (Free)
     """
     suitcase = "\uf0f2";
     """
-    (Free) Keywords: baggage, luggage, move, suitcase, travel, trip
+    Suitcase Rolling; Keywords: baggage, luggage, move, suitcase, travel, trip; Keywords: baggage, luggage, move, suitcase, travel, trip (Free)
     """
     suitcase_rolling = "\uf5c1";
     """
-    (Free) Keywords: brighten, contrast, day, lighter, sol, solar, star, weather
+    Sun; Keywords: brighten, contrast, day, lighter, sol, solar, star, weather; Keywords: brighten, contrast, day, lighter, sol, solar, star, weather (Free)
     """
     sun = "\uf185";
     """
-    (Free) Keywords: edit, exponential, font, format, text, type
+    superscript; Keywords: edit, exponential, font, format, text, type; Keywords: edit, exponential, font, format, text, type (Free)
     """
     superscript = "\uf12b";
     """
-    (Free) Keywords: emoticon, face, shocked
+    Hushed Face; Keywords: emoticon, face, shocked; Keywords: emoticon, face, shocked (Free)
     """
     hushed_face = "\uf5c2";
     """
-    (Free) Keywords: Pantone, color, design, hue, palette
+    Swatchbook; Keywords: Pantone, color, design, hue, palette; Keywords: Pantone, color, design, hue, palette (Free)
     """
     swatchbook = "\uf5c3";
     """
-    (Free) Keywords: athlete, head, man, olympics, person, pool, water
+    Swimmer; Keywords: athlete, head, man, olympics, person, pool, water; Keywords: athlete, head, man, olympics, person, pool, water (Free)
     """
     swimmer = "\uf5c4";
     """
-    (Free) Keywords: ladder, recreation, swim, water
+    Swimming Pool; Keywords: ladder, recreation, swim, water; Keywords: ladder, recreation, swim, water (Free)
     """
     swimming_pool = "\uf5c5";
     """
-    (Free) Keywords: building, jewish, judaism, religion, star of david, temple
+    Synagogue; Keywords: building, jewish, judaism, religion, star of david, temple; Keywords: building, jewish, judaism, religion, star of david, temple (Free)
     """
     synagogue = "\uf69b";
     """
-    (Free) Keywords: exchange, refresh, reload, rotate, swap
+    Sync; Keywords: exchange, refresh, reload, rotate, swap; Keywords: exchange, refresh, reload, rotate, swap (Free)
     """
     sync = "\uf021";
     """
-    (Free) Keywords: exchange, refresh, reload, rotate, swap
+    Alternate Sync; Keywords: exchange, refresh, reload, rotate, swap; Keywords: exchange, refresh, reload, rotate, swap (Free)
     """
     alternate_sync = "\uf2f1";
     """
-    (Free) Keywords: covid-19, doctor, immunizations, medical, needle
+    Syringe; Keywords: covid-19, doctor, immunizations, medical, needle; Keywords: covid-19, doctor, immunizations, medical, needle (Free)
     """
     syringe = "\uf48e";
     """
-    (Free) Keywords: data, excel, spreadsheet
+    table; Keywords: data, excel, spreadsheet; Keywords: data, excel, spreadsheet (Free)
     """
     table = "\uf0ce";
     """
-    (Free) Keywords: ball, paddle, ping pong
+    Table Tennis; Keywords: ball, paddle, ping pong; Keywords: ball, paddle, ping pong (Free)
     """
     table_tennis = "\uf45d";
     """
-    (Free) Keywords: apple, device, ipad, kindle, screen
+    tablet; Keywords: apple, device, ipad, kindle, screen; Keywords: apple, device, ipad, kindle, screen (Free)
     """
     tablet = "\uf10a";
     """
-    (Free) Keywords: apple, device, ipad, kindle, screen
+    Alternate Tablet; Keywords: apple, device, ipad, kindle, screen; Keywords: apple, device, ipad, kindle, screen (Free)
     """
     alternate_tablet = "\uf3fa";
     """
-    (Free) Keywords: drugs, medicine, pills, prescription
+    Tablets; Keywords: drugs, medicine, pills, prescription; Keywords: drugs, medicine, pills, prescription (Free)
     """
     tablets = "\uf490";
     """
-    (Free) Keywords: dashboard, fast, odometer, speed, speedometer
+    Alternate Tachometer; Keywords: dashboard, fast, odometer, speed, speedometer; Keywords: dashboard, fast, odometer, speed, speedometer (Free)
     """
     alternate_tachometer = "\uf3fd";
     """
-    (Free) Keywords: discount, label, price, shopping
+    tag; Keywords: discount, label, price, shopping; Keywords: discount, label, price, shopping (Free)
     """
     tag = "\uf02b";
     """
-    (Free) Keywords: discount, label, price, shopping
+    tags; Keywords: discount, label, price, shopping; Keywords: discount, label, price, shopping (Free)
     """
     tags = "\uf02c";
     """
-    (Free) Keywords: design, package, sticky
+    Tape; Keywords: design, package, sticky; Keywords: design, package, sticky (Free)
     """
     tape = "\uf4db";
     """
-    (Free) Keywords: checklist, downloading, downloads, loading, progress, project management, settings, to do
+    Tasks; Keywords: checklist, downloading, downloads, loading, progress, project management, settings, to do; Keywords: checklist, downloading, downloads, loading, progress, project management, settings, to do (Free)
     """
     tasks = "\uf0ae";
     """
-    (Free) Keywords: cab, cabbie, car, car service, lyft, machine, transportation, travel, uber, vehicle
+    Taxi; Keywords: cab, cabbie, car, car service, lyft, machine, transportation, travel, uber, vehicle; Keywords: cab, cabbie, car, car service, lyft, machine, transportation, travel, uber, vehicle (Free)
     """
     taxi = "\uf1ba";
     """
-    (Free) Keywords: bite, dental, dentist, gums, mouth, smile, tooth
+    Teeth; Keywords: bite, dental, dentist, gums, mouth, smile, tooth; Keywords: bite, dental, dentist, gums, mouth, smile, tooth (Free)
     """
     teeth = "\uf62e";
     """
-    (Free) Keywords: dental, dentist, gums bite, mouth, smile, tooth
+    Teeth Open; Keywords: dental, dentist, gums bite, mouth, smile, tooth; Keywords: dental, dentist, gums bite, mouth, smile, tooth (Free)
     """
     teeth_open = "\uf62f";
     """
-    (Free) Keywords: cook, covid-19, mercury, summer, thermometer, warm
+    High Temperature; Keywords: cook, covid-19, mercury, summer, thermometer, warm; Keywords: cook, covid-19, mercury, summer, thermometer, warm (Free)
     """
     high_temperature = "\uf769";
     """
-    (Free) Keywords: cold, cool, covid-19, mercury, thermometer, winter
+    Low Temperature; Keywords: cold, cool, covid-19, mercury, thermometer, winter; Keywords: cold, cool, covid-19, mercury, thermometer, winter (Free)
     """
     low_temperature = "\uf76b";
     """
-    (Free) Keywords: currency, kazakhstan, money, price
+    Tenge; Keywords: currency, kazakhstan, money, price; Keywords: currency, kazakhstan, money, price (Free)
     """
     tenge = "\uf7d7";
     """
-    (Free) Keywords: code, command, console, development, prompt
+    Terminal; Keywords: code, command, console, development, prompt; Keywords: code, command, console, development, prompt (Free)
     """
     terminal = "\uf120";
     """
-    (Free) Keywords: edit, font, format, text, type
+    text-height; Keywords: edit, font, format, text, type; Keywords: edit, font, format, text, type (Free)
     """
     text_height = "\uf034";
     """
-    (Free) Keywords: edit, font, format, text, type
+    Text Width; Keywords: edit, font, format, text, type; Keywords: edit, font, format, text, type (Free)
     """
     text_width = "\uf035";
     """
-    (Free) Keywords: blocks, boxes, grid, squares
+    th; Keywords: blocks, boxes, grid, squares; Keywords: blocks, boxes, grid, squares (Free)
     """
     th = "\uf00a";
     """
-    (Free) Keywords: blocks, boxes, grid, squares
+    th-large; Keywords: blocks, boxes, grid, squares; Keywords: blocks, boxes, grid, squares (Free)
     """
     th_large = "\uf009";
     """
-    (Free) Keywords: checklist, completed, done, finished, ol, todo, ul
+    th-list; Keywords: checklist, completed, done, finished, ol, todo, ul; Keywords: checklist, completed, done, finished, ol, todo, ul (Free)
     """
     th_list = "\uf00b";
     """
-    (Free) Keywords: comedy, perform, theatre, tragedy
+    Theater Masks; Keywords: comedy, perform, theatre, tragedy; Keywords: comedy, perform, theatre, tragedy (Free)
     """
     theater_masks = "\uf630";
     """
-    (Free) Keywords: covid-19, mercury, status, temperature
+    Thermometer; Keywords: covid-19, mercury, status, temperature; Keywords: covid-19, mercury, status, temperature (Free)
     """
     thermometer = "\uf491";
     """
-    (Free) Keywords: cold, mercury, status, temperature
+    Thermometer Empty; Keywords: cold, mercury, status, temperature; Keywords: cold, mercury, status, temperature (Free)
     """
     thermometer_empty = "\uf2cb";
     """
-    (Free) Keywords: fever, hot, mercury, status, temperature
+    Thermometer Full; Keywords: fever, hot, mercury, status, temperature; Keywords: fever, hot, mercury, status, temperature (Free)
     """
     thermometer_full = "\uf2c7";
     """
-    (Free) Keywords: mercury, status, temperature
+    Thermometer 1/2 Full; Keywords: mercury, status, temperature; Keywords: mercury, status, temperature (Free)
     """
     thermometer_1_2_full = "\uf2c9";
     """
-    (Free) Keywords: mercury, status, temperature
+    Thermometer 1/4 Full; Keywords: mercury, status, temperature; Keywords: mercury, status, temperature (Free)
     """
     thermometer_1_4_full = "\uf2ca";
     """
-    (Free) Keywords: mercury, status, temperature
+    Thermometer 3/4 Full; Keywords: mercury, status, temperature; Keywords: mercury, status, temperature (Free)
     """
     thermometer_3_4_full = "\uf2c8";
     """
-    (Free) Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down
+    thumbs-down; Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down; Keywords: disagree, disapprove, dislike, hand, social, thumbs-o-down (Free)
     """
     thumbs_down = "\uf165";
     """
-    (Free) Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude
+    thumbs-up; Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude; Keywords: agree, approve, favorite, hand, like, ok, okay, social, success, thumbs-o-up, yes, you got it dude (Free)
     """
     thumbs_up = "\uf164";
     """
-    (Free) Keywords: coordinates, location, marker, pin, thumb-tack
+    Thumbtack; Keywords: coordinates, location, marker, pin, thumb-tack; Keywords: coordinates, location, marker, pin, thumb-tack (Free)
     """
     thumbtack = "\uf08d";
     """
-    (Free) Keywords: movie, pass, support, ticket
+    Alternate Ticket; Keywords: movie, pass, support, ticket; Keywords: movie, pass, support, ticket (Free)
     """
     alternate_ticket = "\uf3ff";
     """
-    (Free) Keywords: close, cross, error, exit, incorrect, notice, notification, notify, problem, wrong, x
+    Times; Keywords: close, cross, error, exit, incorrect, notice, notification, notify, problem, wrong, x; Keywords: close, cross, error, exit, incorrect, notice, notification, notify, problem, wrong, x (Free)
     """
     times = "\uf00d";
     """
-    (Free) Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x
+    Times Circle; Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x; Keywords: close, cross, exit, incorrect, notice, notification, notify, problem, wrong, x (Free)
     """
     times_circle = "\uf057";
     """
-    (Free) Keywords: color, drop, droplet, raindrop, waterdrop
+    tint; Keywords: color, drop, droplet, raindrop, waterdrop; Keywords: color, drop, droplet, raindrop, waterdrop (Free)
     """
     tint = "\uf043";
     """
-    (Free) Keywords: color, drop, droplet, raindrop, waterdrop
+    Tint Slash; Keywords: color, drop, droplet, raindrop, waterdrop; Keywords: color, drop, droplet, raindrop, waterdrop (Free)
     """
     tint_slash = "\uf5c7";
     """
-    (Free) Keywords: angry, emoticon, face, grumpy, upset
+    Tired Face; Keywords: angry, emoticon, face, grumpy, upset; Keywords: angry, emoticon, face, grumpy, upset (Free)
     """
     tired_face = "\uf5c8";
     """
-    (Free) Keywords: switch
+    Toggle Off; Keywords: switch; Keywords: switch (Free)
     """
     toggle_off = "\uf204";
     """
-    (Free) Keywords: switch
+    Toggle On; Keywords: switch; Keywords: switch (Free)
     """
     toggle_on = "\uf205";
     """
-    (Free) Keywords: bathroom, flush, john, loo, pee, plumbing, poop, porcelain, potty, restroom, throne, washroom, waste, wc
+    Toilet; Keywords: bathroom, flush, john, loo, pee, plumbing, poop, porcelain, potty, restroom, throne, washroom, waste, wc; Keywords: bathroom, flush, john, loo, pee, plumbing, poop, porcelain, potty, restroom, throne, washroom, waste, wc (Free)
     """
     toilet = "\uf7d8";
     """
-    (Free) Keywords: bathroom, covid-19, halloween, holiday, lavatory, prank, restroom, roll
+    Toilet Paper; Keywords: bathroom, covid-19, halloween, holiday, lavatory, prank, restroom, roll; Keywords: bathroom, covid-19, halloween, holiday, lavatory, prank, restroom, roll (Free)
     """
     toilet_paper = "\uf71e";
     """
-    (Free) Keywords: bathroom, covid-19, halloween, holiday, lavatory, leaves, prank, restroom, roll, trouble, ut oh
+    Toilet Paper Slash; Keywords: bathroom, covid-19, halloween, holiday, lavatory, leaves, prank, restroom, roll, trouble, ut oh; Keywords: bathroom, covid-19, halloween, holiday, lavatory, leaves, prank, restroom, roll, trouble, ut oh (Free)
     """
     toilet_paper_slash = "\ue072";
     """
-    (Free) Keywords: admin, container, fix, repair, settings, tools
+    Toolbox; Keywords: admin, container, fix, repair, settings, tools; Keywords: admin, container, fix, repair, settings, tools (Free)
     """
     toolbox = "\uf552";
     """
-    (Free) Keywords: admin, fix, repair, screwdriver, settings, tools, wrench
+    Tools; Keywords: admin, fix, repair, screwdriver, settings, tools, wrench; Keywords: admin, fix, repair, screwdriver, settings, tools, wrench (Free)
     """
     tools = "\uf7d9";
     """
-    (Free) Keywords: bicuspid, dental, dentist, molar, mouth, teeth
+    Tooth; Keywords: bicuspid, dental, dentist, molar, mouth, teeth; Keywords: bicuspid, dental, dentist, molar, mouth, teeth (Free)
     """
     tooth = "\uf5c9";
     """
-    (Free) Keywords: book, jewish, judaism, religion, scroll
+    Torah; Keywords: book, jewish, judaism, religion, scroll; Keywords: book, jewish, judaism, religion, scroll (Free)
     """
     torah = "\uf6a0";
     """
-    (Free) Keywords: building, shintoism
+    Torii Gate; Keywords: building, shintoism; Keywords: building, shintoism (Free)
     """
     torii_gate = "\uf6a1";
     """
-    (Free) Keywords: agriculture, farm, vehicle
+    Tractor; Keywords: agriculture, farm, vehicle; Keywords: agriculture, farm, vehicle (Free)
     """
     tractor = "\uf722";
     """
-    (Free) Keywords: copyright, register, symbol
+    Trademark; Keywords: copyright, register, symbol; Keywords: copyright, register, symbol (Free)
     """
     trademark = "\uf25c";
     """
-    (Free) Keywords: direction, road, signal, travel
+    Traffic Light; Keywords: direction, road, signal, travel; Keywords: direction, road, signal, travel (Free)
     """
     traffic_light = "\uf637";
     """
-    (Free) Keywords: carry, haul, moving, travel
+    Trailer; Keywords: carry, haul, moving, travel; Keywords: carry, haul, moving, travel (Free)
     """
     trailer = "\ue041";
     """
-    (Free) Keywords: bullet, commute, locomotive, railway, subway
+    Train; Keywords: bullet, commute, locomotive, railway, subway; Keywords: bullet, commute, locomotive, railway, subway (Free)
     """
     train = "\uf238";
     """
-    (Free) Keywords: crossing, machine, mountains, seasonal, transportation
+    Tram; Keywords: crossing, machine, mountains, seasonal, transportation; Keywords: crossing, machine, mountains, seasonal, transportation (Free)
     """
     tram = "\uf7da";
     """
-    (Free) Keywords: intersex
+    Transgender; Keywords: intersex; Keywords: intersex (Free)
     """
     transgender = "\uf224";
     """
-    (Free) Keywords: intersex
+    Alternate Transgender; Keywords: intersex; Keywords: intersex (Free)
     """
     alternate_transgender = "\uf225";
     """
-    (Free) Keywords: delete, garbage, hide, remove
+    Trash; Keywords: delete, garbage, hide, remove; Keywords: delete, garbage, hide, remove (Free)
     """
     trash = "\uf1f8";
     """
-    (Free) Keywords: delete, garbage, hide, remove, trash-o
+    Alternate Trash; Keywords: delete, garbage, hide, remove, trash-o; Keywords: delete, garbage, hide, remove, trash-o (Free)
     """
     alternate_trash = "\uf2ed";
     """
-    (Free) Keywords: back, control z, oops, undo
+    Trash Restore; Keywords: back, control z, oops, undo; Keywords: back, control z, oops, undo (Free)
     """
     trash_restore = "\uf829";
     """
-    (Free) Keywords: back, control z, oops, undo
+    Alternative Trash Restore; Keywords: back, control z, oops, undo; Keywords: back, control z, oops, undo (Free)
     """
     alternative_trash_restore = "\uf82a";
     """
-    (Free) Keywords: bark, fall, flora, forest, nature, plant, seasonal
+    Tree; Keywords: bark, fall, flora, forest, nature, plant, seasonal; Keywords: bark, fall, flora, forest, nature, plant, seasonal (Free)
     """
     tree = "\uf1bb";
     """
-    (Free) Keywords: achievement, award, cup, game, winner
+    trophy; Keywords: achievement, award, cup, game, winner; Keywords: achievement, award, cup, game, winner (Free)
     """
     trophy = "\uf091";
     """
-    (Free) Keywords: cargo, delivery, shipping, vehicle
+    truck; Keywords: cargo, delivery, shipping, vehicle; Keywords: cargo, delivery, shipping, vehicle (Free)
     """
     truck = "\uf0d1";
     """
-    (Free) Keywords: box, cargo, delivery, inventory, moving, rental, vehicle
+    Truck Loading; Keywords: box, cargo, delivery, inventory, moving, rental, vehicle; Keywords: box, cargo, delivery, inventory, moving, rental, vehicle (Free)
     """
     truck_loading = "\uf4de";
     """
-    (Free) Keywords: offroad, vehicle, wheel
+    Truck Monster; Keywords: offroad, vehicle, wheel; Keywords: offroad, vehicle, wheel (Free)
     """
     truck_monster = "\uf63b";
     """
-    (Free) Keywords: cargo, inventory, rental, vehicle
+    Truck Moving; Keywords: cargo, inventory, rental, vehicle; Keywords: cargo, inventory, rental, vehicle (Free)
     """
     truck_moving = "\uf4df";
     """
-    (Free) Keywords: cargo, vehicle
+    Truck Side; Keywords: cargo, vehicle; Keywords: cargo, vehicle (Free)
     """
     truck_side = "\uf63c";
     """
-    (Free) Keywords: clothing, fashion, garment, shirt
+    T-Shirt; Keywords: clothing, fashion, garment, shirt; Keywords: clothing, fashion, garment, shirt (Free)
     """
     t_shirt = "\uf553";
     """
-    (Free) Keywords: communication, deaf, telephone, teletypewriter, text
+    TTY; Keywords: communication, deaf, telephone, teletypewriter, text; Keywords: communication, deaf, telephone, teletypewriter, text (Free)
     """
     tty = "\uf1e4";
     """
-    (Free) Keywords: computer, display, monitor, television
+    Television; Keywords: computer, display, monitor, television; Keywords: computer, display, monitor, television (Free)
     """
     television = "\uf26c";
     """
-    (Free) Keywords: protection, rain, storm, wet
+    Umbrella; Keywords: protection, rain, storm, wet; Keywords: protection, rain, storm, wet (Free)
     """
     umbrella = "\uf0e9";
     """
-    (Free) Keywords: protection, recreation, sand, shade, summer, sun
+    Umbrella Beach; Keywords: protection, recreation, sand, shade, summer, sun; Keywords: protection, recreation, sand, shade, summer, sun (Free)
     """
     umbrella_beach = "\uf5ca";
     """
-    (Free) Keywords: edit, emphasis, format, text, writing
+    Underline; Keywords: edit, emphasis, format, text, writing; Keywords: edit, emphasis, format, text, writing (Free)
     """
     underline = "\uf0cd";
     """
-    (Free) Keywords: back, control z, exchange, oops, return, rotate, swap
+    Undo; Keywords: back, control z, exchange, oops, return, rotate, swap; Keywords: back, control z, exchange, oops, return, rotate, swap (Free)
     """
     undo = "\uf0e2";
     """
-    (Free) Keywords: back, control z, exchange, oops, return, swap
+    Alternate Undo; Keywords: back, control z, exchange, oops, return, swap; Keywords: back, control z, exchange, oops, return, swap (Free)
     """
     alternate_undo = "\uf2ea";
     """
-    (Free) Keywords: accessibility, hearing, person, seeing, visual impairment
+    Universal Access; Keywords: accessibility, hearing, person, seeing, visual impairment; Keywords: accessibility, hearing, person, seeing, visual impairment (Free)
     """
     universal_access = "\uf29a";
     """
-    (Free) Keywords: bank, building, college, higher education - students, institution
+    University; Keywords: bank, building, college, higher education - students, institution; Keywords: bank, building, college, higher education - students, institution (Free)
     """
     university = "\uf19c";
     """
-    (Free) Keywords: attachment, chain, chain-broken, remove
+    unlink; Keywords: attachment, chain, chain-broken, remove; Keywords: attachment, chain, chain-broken, remove (Free)
     """
     unlink = "\uf127";
     """
-    (Free) Keywords: admin, lock, password, private, protect
+    unlock; Keywords: admin, lock, password, private, protect; Keywords: admin, lock, password, private, protect (Free)
     """
     unlock = "\uf09c";
     """
-    (Free) Keywords: admin, lock, password, private, protect
+    Alternate Unlock; Keywords: admin, lock, password, private, protect; Keywords: admin, lock, password, private, protect (Free)
     """
     alternate_unlock = "\uf13e";
     """
-    (Free) Keywords: hard drive, import, publish
+    Upload; Keywords: hard drive, import, publish; Keywords: hard drive, import, publish (Free)
     """
     upload = "\uf093";
     """
-    (Free) Keywords: account, avatar, head, human, man, person, profile
+    User; Keywords: account, avatar, head, human, man, person, profile; Keywords: account, avatar, head, human, man, person, profile (Free)
     """
     user = "\uf007";
     """
-    (Free) Keywords: account, avatar, head, human, man, person, profile
+    Alternate User; Keywords: account, avatar, head, human, man, person, profile; Keywords: account, avatar, head, human, man, person, profile (Free)
     """
     alternate_user = "\uf406";
     """
-    (Free) Keywords: account, avatar, head, human, man, person, profile
+    Alternate User Slash; Keywords: account, avatar, head, human, man, person, profile; Keywords: account, avatar, head, human, man, person, profile (Free)
     """
     alternate_user_slash = "\uf4fa";
     """
-    (Free) Keywords: avatar, clothing, cosmonaut, nasa, space, suit
+    User Astronaut; Keywords: avatar, clothing, cosmonaut, nasa, space, suit; Keywords: avatar, clothing, cosmonaut, nasa, space, suit (Free)
     """
     user_astronaut = "\uf4fb";
     """
-    (Free) Keywords: accept, check, person, verified
+    User Check; Keywords: accept, check, person, verified; Keywords: accept, check, person, verified (Free)
     """
     user_check = "\uf4fc";
     """
-    (Free) Keywords: account, avatar, head, human, man, person, profile
+    User Circle; Keywords: account, avatar, head, human, man, person, profile; Keywords: account, avatar, head, human, man, person, profile (Free)
     """
     user_circle = "\uf2bd";
     """
-    (Free) Keywords: alert, person, remind, time
+    User Clock; Keywords: alert, person, remind, time; Keywords: alert, person, remind, time (Free)
     """
     user_clock = "\uf4fd";
     """
-    (Free) Keywords: admin, cog, person, settings
+    User Cog; Keywords: admin, cog, person, settings; Keywords: admin, cog, person, settings (Free)
     """
     user_cog = "\uf4fe";
     """
-    (Free) Keywords: edit, pen, pencil, person, update, write
+    User Edit; Keywords: edit, pen, pencil, person, update, write; Keywords: edit, pen, pencil, person, update, write (Free)
     """
     user_edit = "\uf4ff";
     """
-    (Free) Keywords: group, people, person, team, users
+    User Friends; Keywords: group, people, person, team, users; Keywords: group, people, person, team, users (Free)
     """
     user_friends = "\uf500";
     """
-    (Free) Keywords: cap, clothing, commencement, gown, graduation, person, student
+    User Graduate; Keywords: cap, clothing, commencement, gown, graduation, person, student; Keywords: cap, clothing, commencement, gown, graduation, person, student (Free)
     """
     user_graduate = "\uf501";
     """
-    (Free) Keywords: cast, injury, ouch, patient, person, sling
+    User Injured; Keywords: cast, injury, ouch, patient, person, sling; Keywords: cast, injury, ouch, patient, person, sling (Free)
     """
     user_injured = "\uf728";
     """
-    (Free) Keywords: admin, lock, person, private, unlock
+    User Lock; Keywords: admin, lock, person, private, unlock; Keywords: admin, lock, person, private, unlock (Free)
     """
     user_lock = "\uf502";
     """
-    (Free) Keywords: covid-19, job, medical, nurse, occupation, physician, profile, surgeon
+    Doctor; Keywords: covid-19, job, medical, nurse, occupation, physician, profile, surgeon; Keywords: covid-19, job, medical, nurse, occupation, physician, profile, surgeon (Free)
     """
     doctor = "\uf0f0";
     """
-    (Free) Keywords: delete, negative, remove
+    User Minus; Keywords: delete, negative, remove; Keywords: delete, negative, remove (Free)
     """
     user_minus = "\uf503";
     """
-    (Free) Keywords: assassin, avatar, dangerous, deadly, sneaky
+    User Ninja; Keywords: assassin, avatar, dangerous, deadly, sneaky; Keywords: assassin, avatar, dangerous, deadly, sneaky (Free)
     """
     user_ninja = "\uf504";
     """
-    (Free) Keywords: covid-19, doctor, midwife, practitioner, surgeon
+    Nurse; Keywords: covid-19, doctor, midwife, practitioner, surgeon; Keywords: covid-19, doctor, midwife, practitioner, surgeon (Free)
     """
     nurse = "\uf82f";
     """
-    (Free) Keywords: add, avatar, positive, sign up, signup, team
+    User Plus; Keywords: add, avatar, positive, sign up, signup, team; Keywords: add, avatar, positive, sign up, signup, team (Free)
     """
     user_plus = "\uf234";
     """
-    (Free) Keywords: clothing, coat, hat, incognito, person, privacy, spy, whisper
+    User Secret; Keywords: clothing, coat, hat, incognito, person, privacy, spy, whisper; Keywords: clothing, coat, hat, incognito, person, privacy, spy, whisper (Free)
     """
     user_secret = "\uf21b";
     """
-    (Free) Keywords: admin, person, private, protect, safe
+    User Shield; Keywords: admin, person, private, protect, safe; Keywords: admin, person, private, protect, safe (Free)
     """
     user_shield = "\uf505";
     """
-    (Free) Keywords: ban, delete, remove
+    User Slash; Keywords: ban, delete, remove; Keywords: ban, delete, remove (Free)
     """
     user_slash = "\uf506";
     """
-    (Free) Keywords: avatar, discount, label, person, role, special
+    User Tag; Keywords: avatar, discount, label, person, role, special; Keywords: avatar, discount, label, person, role, special (Free)
     """
     user_tag = "\uf507";
     """
-    (Free) Keywords: avatar, business, clothing, formal, professional, suit
+    User Tie; Keywords: avatar, business, clothing, formal, professional, suit; Keywords: avatar, business, clothing, formal, professional, suit (Free)
     """
     user_tie = "\uf508";
     """
-    (Free) Keywords: archive, delete, remove, x
+    Remove User; Keywords: archive, delete, remove, x; Keywords: archive, delete, remove, x (Free)
     """
     remove_user = "\uf235";
     """
-    (Free) Keywords: friends, group, people, persons, profiles, team
+    Users; Keywords: friends, group, people, persons, profiles, team; Keywords: friends, group, people, persons, profiles, team (Free)
     """
     users = "\uf0c0";
     """
-    (Free) Keywords: admin, cog, group, person, settings, team
+    Users Cog; Keywords: admin, cog, group, person, settings, team; Keywords: admin, cog, group, person, settings, team (Free)
     """
     users_cog = "\uf509";
     """
-    (Free) Keywords: disband, friends, group, people, persons, profiles, separate, team, ungroup
+    Users Slash; Keywords: disband, friends, group, people, persons, profiles, separate, team, ungroup; Keywords: disband, friends, group, people, persons, profiles, separate, team, ungroup (Free)
     """
     users_slash = "\ue073";
     """
-    (Free) Keywords: cutlery, dining, scoop, silverware, spoon
+    Utensil Spoon; Keywords: cutlery, dining, scoop, silverware, spoon; Keywords: cutlery, dining, scoop, silverware, spoon (Free)
     """
     utensil_spoon = "\uf2e5";
     """
-    (Free) Keywords: cutlery, dining, dinner, eat, food, fork, knife, restaurant
+    Utensils; Keywords: cutlery, dining, dinner, eat, food, fork, knife, restaurant; Keywords: cutlery, dining, dinner, eat, food, fork, knife, restaurant (Free)
     """
     utensils = "\uf2e7";
     """
-    (Free) Keywords: anchors, lines, object, render, shape
+    Vector Square; Keywords: anchors, lines, object, render, shape; Keywords: anchors, lines, object, render, shape (Free)
     """
     vector_square = "\uf5cb";
     """
-    (Free) Keywords: female
+    Venus; Keywords: female; Keywords: female (Free)
     """
     venus = "\uf221";
     """
-    (Free) Keywords: female
+    Venus Double; Keywords: female; Keywords: female (Free)
     """
     venus_double = "\uf226";
     """
-    (Free) Keywords: Gender
+    Venus Mars; Keywords: Gender; Keywords: Gender (Free)
     """
     venus_mars = "\uf228";
     """
-    (Free) Keywords: biker, fashion, style
+    vest; Keywords: biker, fashion, style; Keywords: biker, fashion, style (Free)
     """
     vest = "\ue085";
     """
-    (Free) Keywords: biker, fashion, style
+    vest-patches; Keywords: biker, fashion, style; Keywords: biker, fashion, style (Free)
     """
     vest_patches = "\ue086";
     """
-    (Free) Keywords: experiment, lab, sample, science, test, test tube
+    Vial; Keywords: experiment, lab, sample, science, test, test tube; Keywords: experiment, lab, sample, science, test, test tube (Free)
     """
     vial = "\uf492";
     """
-    (Free) Keywords: experiment, lab, sample, science, test, test tube
+    Vials; Keywords: experiment, lab, sample, science, test, test tube; Keywords: experiment, lab, sample, science, test, test tube (Free)
     """
     vials = "\uf493";
     """
-    (Free) Keywords: camera, film, movie, record, video-camera
+    Video; Keywords: camera, film, movie, record, video-camera; Keywords: camera, film, movie, record, video-camera (Free)
     """
     video = "\uf03d";
     """
-    (Free) Keywords: add, create, film, new, positive, record, video
+    Video Slash; Keywords: add, create, film, new, positive, record, video; Keywords: add, create, film, new, positive, record, video (Free)
     """
     video_slash = "\uf4e2";
     """
-    (Free) Keywords: buddhism, buddhist, building, monastery
+    Vihara; Keywords: buddhism, buddhist, building, monastery; Keywords: buddhism, buddhist, building, monastery (Free)
     """
     vihara = "\uf6a7";
     """
-    (Free) Keywords: bug, covid-19, flu, health, sick, viral
+    Virus; Keywords: bug, covid-19, flu, health, sick, viral; Keywords: bug, covid-19, flu, health, sick, viral (Free)
     """
     virus = "\ue074";
     """
-    (Free) Keywords: bug, covid-19, cure, eliminate, flu, health, sick, viral
+    Virus Slash; Keywords: bug, covid-19, cure, eliminate, flu, health, sick, viral; Keywords: bug, covid-19, cure, eliminate, flu, health, sick, viral (Free)
     """
     virus_slash = "\ue075";
     """
-    (Free) Keywords: bugs, covid-19, flu, health, multiply, sick, spread, viral
+    Viruses; Keywords: bugs, covid-19, flu, health, multiply, sick, spread, viral; Keywords: bugs, covid-19, flu, health, multiply, sick, spread, viral (Free)
     """
     viruses = "\ue076";
     """
-    (Free) Keywords: answer, inbox, message, phone
+    Voicemail; Keywords: answer, inbox, message, phone; Keywords: answer, inbox, message, phone (Free)
     """
     voicemail = "\uf897";
     """
-    (Free) Keywords: beach, olympics, sport
+    Volleyball Ball; Keywords: beach, olympics, sport; Keywords: beach, olympics, sport (Free)
     """
     volleyball_ball = "\uf45f";
     """
-    (Free) Keywords: audio, lower, music, quieter, sound, speaker
+    Volume Down; Keywords: audio, lower, music, quieter, sound, speaker; Keywords: audio, lower, music, quieter, sound, speaker (Free)
     """
     volume_down = "\uf027";
     """
-    (Free) Keywords: audio, music, quiet, sound, speaker
+    Volume Mute; Keywords: audio, music, quiet, sound, speaker; Keywords: audio, music, quiet, sound, speaker (Free)
     """
     volume_mute = "\uf6a9";
     """
-    (Free) Keywords: audio, ban, music, mute, quiet, silent, sound
+    Volume Off; Keywords: audio, ban, music, mute, quiet, silent, sound; Keywords: audio, ban, music, mute, quiet, silent, sound (Free)
     """
     volume_off = "\uf026";
     """
-    (Free) Keywords: audio, higher, louder, music, sound, speaker
+    Volume Up; Keywords: audio, higher, louder, music, sound, speaker; Keywords: audio, higher, louder, music, sound, speaker (Free)
     """
     volume_up = "\uf028";
     """
-    (Free) Keywords: accept, cast, election, politics, positive, yes
+    Vote Yea; Keywords: accept, cast, election, politics, positive, yes; Keywords: accept, cast, election, politics, positive, yes (Free)
     """
     vote_yea = "\uf772";
     """
-    (Free) Keywords: 3d, augment, google, reality, virtual
+    Cardboard VR; Keywords: 3d, augment, google, reality, virtual; Keywords: 3d, augment, google, reality, virtual (Free)
     """
     cardboard_vr = "\uf729";
     """
-    (Free) Keywords: exercise, health, pedometer, person, steps
+    Walking; Keywords: exercise, health, pedometer, person, steps; Keywords: exercise, health, pedometer, person, steps (Free)
     """
     walking = "\uf554";
     """
-    (Free) Keywords: billfold, cash, currency, money
+    Wallet; Keywords: billfold, cash, currency, money; Keywords: billfold, cash, currency, money (Free)
     """
     wallet = "\uf555";
     """
-    (Free) Keywords: building, capacity, garage, inventory, storage
+    Warehouse; Keywords: building, capacity, garage, inventory, storage; Keywords: building, capacity, garage, inventory, storage (Free)
     """
     warehouse = "\uf494";
     """
-    (Free) Keywords: lake, liquid, ocean, sea, swim, wet
+    Water; Keywords: lake, liquid, ocean, sea, swim, wet; Keywords: lake, liquid, ocean, sea, swim, wet (Free)
     """
     water = "\uf773";
     """
-    (Free) Keywords: frequency, pulse, signal
+    Square Wave; Keywords: frequency, pulse, signal; Keywords: frequency, pulse, signal (Free)
     """
     square_wave = "\uf83e";
     """
-    (Free) Keywords: health, measurement, scale, weight
+    Weight; Keywords: health, measurement, scale, weight; Keywords: health, measurement, scale, weight (Free)
     """
     weight = "\uf496";
     """
-    (Free) Keywords: anvil, heavy, measurement
+    Hanging Weight; Keywords: anvil, heavy, measurement; Keywords: anvil, heavy, measurement (Free)
     """
     hanging_weight = "\uf5cd";
     """
-    (Free) Keywords: accessible, handicap, person
+    Wheelchair; Keywords: accessible, handicap, person; Keywords: accessible, handicap, person (Free)
     """
     wheelchair = "\uf193";
     """
-    (Free) Keywords: connection, hotspot, internet, network, wireless
+    WiFi; Keywords: connection, hotspot, internet, network, wireless; Keywords: connection, hotspot, internet, network, wireless (Free)
     """
     wifi = "\uf1eb";
     """
-    (Free) Keywords: air, blow, breeze, fall, seasonal, weather
+    Wind; Keywords: air, blow, breeze, fall, seasonal, weather; Keywords: air, blow, breeze, fall, seasonal, weather (Free)
     """
     wind = "\uf72e";
     """
-    (Free) Keywords: browser, cancel, computer, development
+    Window Close; Keywords: browser, cancel, computer, development; Keywords: browser, cancel, computer, development (Free)
     """
     window_close = "\uf410";
     """
-    (Free) Keywords: browser, computer, development, expand
+    Window Maximize; Keywords: browser, computer, development, expand; Keywords: browser, computer, development, expand (Free)
     """
     window_maximize = "\uf2d0";
     """
-    (Free) Keywords: browser, collapse, computer, development
+    Window Minimize; Keywords: browser, collapse, computer, development; Keywords: browser, collapse, computer, development (Free)
     """
     window_minimize = "\uf2d1";
     """
-    (Free) Keywords: browser, computer, development
+    Window Restore; Keywords: browser, computer, development; Keywords: browser, computer, development (Free)
     """
     window_restore = "\uf2d2";
     """
-    (Free) Keywords: alcohol, beverage, cabernet, drink, glass, grapes, merlot, sauvignon
+    Wine Bottle; Keywords: alcohol, beverage, cabernet, drink, glass, grapes, merlot, sauvignon; Keywords: alcohol, beverage, cabernet, drink, glass, grapes, merlot, sauvignon (Free)
     """
     wine_bottle = "\uf72f";
     """
-    (Free) Keywords: alcohol, beverage, cabernet, drink, grapes, merlot, sauvignon
+    Wine Glass; Keywords: alcohol, beverage, cabernet, drink, grapes, merlot, sauvignon; Keywords: alcohol, beverage, cabernet, drink, grapes, merlot, sauvignon (Free)
     """
     wine_glass = "\uf4e3";
     """
-    (Free) Keywords: alcohol, beverage, cabernet, drink, grapes, merlot, sauvignon
+    Alternate Wine Glas; Keywords: alcohol, beverage, cabernet, drink, grapes, merlot, sauvignon; Keywords: alcohol, beverage, cabernet, drink, grapes, merlot, sauvignon (Free)
     """
     alternate_wine_glas = "\uf5ce";
     """
-    (Free) Keywords: currency, krw, money
+    Won Sign; Keywords: currency, krw, money; Keywords: currency, krw, money (Free)
     """
     won_sign = "\uf159";
     """
-    (Free) Keywords: construction, fix, mechanic, plumbing, settings, spanner, tool, update
+    Wrench; Keywords: construction, fix, mechanic, plumbing, settings, spanner, tool, update; Keywords: construction, fix, mechanic, plumbing, settings, spanner, tool, update (Free)
     """
     wrench = "\uf0ad";
     """
-    (Free) Keywords: health, medical, radiological images, radiology, skeleton
+    X-Ray; Keywords: health, medical, radiological images, radiology, skeleton; Keywords: health, medical, radiological images, radiology, skeleton (Free)
     """
     x_ray = "\uf497";
     """
-    (Free) Keywords: currency, jpy, money
+    Yen Sign; Keywords: currency, jpy, money; Keywords: currency, jpy, money (Free)
     """
     yen_sign = "\uf157";
     """
-    (Free) Keywords: daoism, opposites, taoism
+    Yin Yang; Keywords: daoism, opposites, taoism; Keywords: daoism, opposites, taoism (Free)
     """
     yin_yang = "\uf6ad";

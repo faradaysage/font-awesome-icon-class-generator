@@ -46,10 +46,11 @@ class BaseLanguageProvider(IProvideLanguage, ABC):
     
     def generate_comment_lines(self, item):
         lines = []
-        free = "Free" if item['is_free'] else "Pro"
-        search_terms = '' if not item['search_terms'] else f"Keywords: {item['search_terms']}"
-        comment_text = f"({free}) {search_terms}"        
-        #comment_text = f"{item['label']} ({free}) {search_terms}"        
+        tier = "Free" if item['is_free'] else "Pro"
+        keywords = '' if not item['search_terms'] else f"; Keywords: {item['search_terms']}"
+        label = item['label']
+        name = f" ({item['name']})" if item['name'] != item['label'] else ''
+        comment_text = f"{label}{name}{keywords}{keywords} ({tier})"
         comment_lines = self.add_comment_lines(lines, comment_text)
         return lines
         

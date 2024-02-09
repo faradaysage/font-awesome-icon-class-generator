@@ -1,1829 +1,1829 @@
 class FaBrands:
     """
-    (Free) 
+    500px (Free)
     """
     _500px = "\uf26e";
     """
-    (Free) Keywords: accessibility, handicap, person, wheelchair, wheelchair-alt
+    Accessible Icon; Keywords: accessibility, handicap, person, wheelchair, wheelchair-alt; Keywords: accessibility, handicap, person, wheelchair, wheelchair-alt (Free)
     """
     accessible_icon = "\uf368";
     """
-    (Free) 
+    Accusoft (Free)
     """
     accusoft = "\uf369";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    Acquisitions Incorporated; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     """
     acquisitions_incorporated = "\uf6af";
     """
-    (Free) 
+    App.net (Free)
     """
     app_net = "\uf170";
     """
-    (Free) 
+    Adversal (Free)
     """
     adversal = "\uf36a";
     """
-    (Free) 
+    affiliatetheme (Free)
     """
     affiliatetheme = "\uf36b";
     """
-    (Free) 
+    Airbnb (Free)
     """
     airbnb = "\uf834";
     """
-    (Free) 
+    Algolia (Free)
     """
     algolia = "\uf36c";
     """
-    (Free) 
+    Alipay (Free)
     """
     alipay = "\uf642";
     """
-    (Free) 
+    Amazon (Free)
     """
     amazon = "\uf270";
     """
-    (Free) 
+    Amazon Pay (Free)
     """
     amazon_pay = "\uf42c";
     """
-    (Free) 
+    Amilia (Free)
     """
     amilia = "\uf36d";
     """
-    (Free) Keywords: robot
+    Android; Keywords: robot; Keywords: robot (Free)
     """
     android = "\uf17b";
     """
-    (Free) 
+    AngelList (Free)
     """
     angellist = "\uf209";
     """
-    (Free) 
+    Angry Creative (Free)
     """
     angry_creative = "\uf36e";
     """
-    (Free) 
+    Angular (Free)
     """
     angular = "\uf420";
     """
-    (Free) 
+    App Store (Free)
     """
     app_store = "\uf36f";
     """
-    (Free) 
+    iOS App Store (Free)
     """
     ios_app_store = "\uf370";
     """
-    (Free) 
+    Apper Systems AB (Free)
     """
     apper_systems_ab = "\uf371";
     """
-    (Free) Keywords: fruit, ios, mac, operating system, os, osx
+    Apple; Keywords: fruit, ios, mac, operating system, os, osx; Keywords: fruit, ios, mac, operating system, os, osx (Free)
     """
     apple = "\uf179";
     """
-    (Free) 
+    Apple Pay (Free)
     """
     apple_pay = "\uf415";
     """
-    (Free) 
+    Artstation (Free)
     """
     artstation = "\uf77a";
     """
-    (Free) 
+    Asymmetrik, Ltd. (Free)
     """
     asymmetrik_ltd = "\uf372";
     """
-    (Free) 
+    Atlassian (Free)
     """
     atlassian = "\uf77b";
     """
-    (Free) 
+    Audible (Free)
     """
     audible = "\uf373";
     """
-    (Free) 
+    Autoprefixer (Free)
     """
     autoprefixer = "\uf41c";
     """
-    (Free) 
+    avianex (Free)
     """
     avianex = "\uf374";
     """
-    (Free) 
+    Aviato (Free)
     """
     aviato = "\uf421";
     """
-    (Free) 
+    Amazon Web Services (AWS) (Free)
     """
     amazon_web_services_aws = "\uf375";
     """
-    (Free) 
+    Bandcamp (Free)
     """
     bandcamp = "\uf2d5";
     """
-    (Free) 
+    Battle.net (Free)
     """
     battle_net = "\uf835";
     """
-    (Free) 
+    Behance (Free)
     """
     behance = "\uf1b4";
     """
-    (Free) 
+    Behance Square (Free)
     """
     behance_square = "\uf1b5";
     """
-    (Free) 
+    BIMobject (Free)
     """
     bimobject = "\uf378";
     """
-    (Free) Keywords: atlassian, bitbucket-square, git
+    Bitbucket; Keywords: atlassian, bitbucket-square, git; Keywords: atlassian, bitbucket-square, git (Free)
     """
     bitbucket = "\uf171";
     """
-    (Free) 
+    Bitcoin (Free)
     """
     bitcoin = "\uf379";
     """
-    (Free) 
+    Bity (Free)
     """
     bity = "\uf37a";
     """
-    (Free) 
+    Font Awesome Black Tie (Free)
     """
     font_awesome_black_tie = "\uf27e";
     """
-    (Free) 
+    BlackBerry (Free)
     """
     blackberry = "\uf37b";
     """
-    (Free) 
+    Blogger (Free)
     """
     blogger = "\uf37c";
     """
-    (Free) 
+    Blogger B (Free)
     """
     blogger_b = "\uf37d";
     """
-    (Free) 
+    Bluetooth (Free)
     """
     bluetooth = "\uf293";
     """
-    (Free) 
+    Bluetooth (bluetooth-b) (Free)
     """
     bluetooth_b = "\uf294";
     """
-    (Free) 
+    Bootstrap (Free)
     """
     bootstrap = "\uf836";
     """
-    (Free) 
+    BTC (Free)
     """
     btc = "\uf15a";
     """
-    (Free) 
+    Buffer (Free)
     """
     buffer = "\uf837";
     """
-    (Free) 
+    Büromöbel-Experte GmbH & Co. KG. (Free)
     """
     büromöbel_experte_gmbh_co_kg = "\uf37f";
     """
-    (Free) 
+    Buy n Large (Free)
     """
     buy_n_large = "\uf8a6";
     """
-    (Free) 
+    BuySellAds (Free)
     """
     buysellads = "\uf20d";
     """
-    (Free) Keywords: canada, flag, flora, nature, plant
+    Canadian Maple Leaf; Keywords: canada, flag, flora, nature, plant; Keywords: canada, flag, flora, nature, plant (Free)
     """
     canadian_maple_leaf = "\uf785";
     """
-    (Free) 
+    Amazon Pay Credit Card (Free)
     """
     amazon_pay_credit_card = "\uf42d";
     """
-    (Free) Keywords: amex
+    American Express Credit Card; Keywords: amex; Keywords: amex (Free)
     """
     american_express_credit_card = "\uf1f3";
     """
-    (Free) 
+    Apple Pay Credit Card (Free)
     """
     apple_pay_credit_card = "\uf416";
     """
-    (Free) 
+    Diner's Club Credit Card (Free)
     """
     diner_s_club_credit_card = "\uf24c";
     """
-    (Free) 
+    Discover Credit Card (Free)
     """
     discover_credit_card = "\uf1f2";
     """
-    (Free) 
+    JCB Credit Card (Free)
     """
     jcb_credit_card = "\uf24b";
     """
-    (Free) 
+    MasterCard Credit Card (Free)
     """
     mastercard_credit_card = "\uf1f1";
     """
-    (Free) 
+    Paypal Credit Card (Free)
     """
     paypal_credit_card = "\uf1f4";
     """
-    (Free) 
+    Stripe Credit Card (Free)
     """
     stripe_credit_card = "\uf1f5";
     """
-    (Free) 
+    Visa Credit Card (Free)
     """
     visa_credit_card = "\uf1f0";
     """
-    (Free) 
+    Centercode (Free)
     """
     centercode = "\uf380";
     """
-    (Free) Keywords: linux, operating system, os
+    Centos; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     """
     centos = "\uf789";
     """
-    (Free) Keywords: browser
+    Chrome; Keywords: browser; Keywords: browser (Free)
     """
     chrome = "\uf268";
     """
-    (Free) 
+    Chromecast (Free)
     """
     chromecast = "\uf838";
     """
-    (Free) 
+    Cloudflare (Free)
     """
     cloudflare = "\ue07d";
     """
-    (Free) 
+    cloudscale.ch (Free)
     """
     cloudscale_ch = "\uf383";
     """
-    (Free) 
+    Cloudsmith (Free)
     """
     cloudsmith = "\uf384";
     """
-    (Free) 
+    cloudversify (Free)
     """
     cloudversify = "\uf385";
     """
-    (Free) 
+    Codepen (Free)
     """
     codepen = "\uf1cb";
     """
-    (Free) 
+    Codie Pie (Free)
     """
     codie_pie = "\uf284";
     """
-    (Free) Keywords: atlassian
+    Confluence; Keywords: atlassian; Keywords: atlassian (Free)
     """
     confluence = "\uf78d";
     """
-    (Free) 
+    Connect Develop (Free)
     """
     connect_develop = "\uf20e";
     """
-    (Free) 
+    Contao (Free)
     """
     contao = "\uf26d";
     """
-    (Free) Keywords: clothing, t-shirts, tshirts
+    Cotton Bureau; Keywords: clothing, t-shirts, tshirts; Keywords: clothing, t-shirts, tshirts (Free)
     """
     cotton_bureau = "\uf89e";
     """
-    (Free) 
+    cPanel (Free)
     """
     cpanel = "\uf388";
     """
-    (Free) 
+    Creative Commons (Free)
     """
     creative_commons = "\uf25e";
     """
-    (Free) 
+    Creative Commons Attribution (Free)
     """
     creative_commons_attribution = "\uf4e7";
     """
-    (Free) 
+    Creative Commons Noncommercial (Free)
     """
     creative_commons_noncommercial = "\uf4e8";
     """
-    (Free) 
+    Creative Commons Noncommercial (Euro Sign) (Free)
     """
     creative_commons_noncommercial_euro_sign = "\uf4e9";
     """
-    (Free) 
+    Creative Commons Noncommercial (Yen Sign) (Free)
     """
     creative_commons_noncommercial_yen_sign = "\uf4ea";
     """
-    (Free) 
+    Creative Commons No Derivative Works (Free)
     """
     creative_commons_no_derivative_works = "\uf4eb";
     """
-    (Free) 
+    Creative Commons Public Domain (Free)
     """
     creative_commons_public_domain = "\uf4ec";
     """
-    (Free) 
+    Alternate Creative Commons Public Domain (Free)
     """
     alternate_creative_commons_public_domain = "\uf4ed";
     """
-    (Free) 
+    Creative Commons Remix (Free)
     """
     creative_commons_remix = "\uf4ee";
     """
-    (Free) 
+    Creative Commons Share Alike (Free)
     """
     creative_commons_share_alike = "\uf4ef";
     """
-    (Free) 
+    Creative Commons Sampling (Free)
     """
     creative_commons_sampling = "\uf4f0";
     """
-    (Free) 
+    Creative Commons Sampling + (Free)
     """
     creative_commons_sampling = "\uf4f1";
     """
-    (Free) 
+    Creative Commons Share (Free)
     """
     creative_commons_share = "\uf4f2";
     """
-    (Free) 
+    Creative Commons CC0 (Free)
     """
     creative_commons_cc0 = "\uf4f3";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    Critical Role; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     """
     critical_role = "\uf6c9";
     """
-    (Free) Keywords: code
+    CSS 3 Logo; Keywords: code; Keywords: code (Free)
     """
     css_3_logo = "\uf13c";
     """
-    (Free) 
+    Alternate CSS3 Logo (Free)
     """
     alternate_css3_logo = "\uf38b";
     """
-    (Free) 
+    Cuttlefish (Free)
     """
     cuttlefish = "\uf38c";
     """
-    (Free) 
+    Dungeons & Dragons (Free)
     """
     dungeons_dragons = "\uf38d";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop
+    D&D Beyond; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, gaming, tabletop (Free)
     """
     d_d_beyond = "\uf6ca";
     """
-    (Free) 
+    dailymotion (Free)
     """
     dailymotion = "\ue052";
     """
-    (Free) 
+    DashCube (Free)
     """
     dashcube = "\uf210";
     """
-    (Free) 
+    Deezer (Free)
     """
     deezer = "\ue077";
     """
-    (Free) 
+    Delicious (Free)
     """
     delicious = "\uf1a5";
     """
-    (Free) 
+    deploy.dog (Free)
     """
     deploy_dog = "\uf38e";
     """
-    (Free) 
+    Deskpro (Free)
     """
     deskpro = "\uf38f";
     """
-    (Free) 
+    DEV (Free)
     """
     dev = "\uf6cc";
     """
-    (Free) 
+    deviantART (Free)
     """
     deviantart = "\uf1bd";
     """
-    (Free) Keywords: Dalsey, Hillblom and Lynn, german, package, shipping
+    DHL; Keywords: Dalsey, Hillblom and Lynn, german, package, shipping; Keywords: Dalsey, Hillblom and Lynn, german, package, shipping (Free)
     """
     dhl = "\uf790";
     """
-    (Free) 
+    Diaspora (Free)
     """
     diaspora = "\uf791";
     """
-    (Free) 
+    Digg Logo (Free)
     """
     digg_logo = "\uf1a6";
     """
-    (Free) 
+    Digital Ocean (Free)
     """
     digital_ocean = "\uf391";
     """
-    (Free) 
+    Discord (Free)
     """
     discord = "\uf392";
     """
-    (Free) 
+    Discourse (Free)
     """
     discourse = "\uf393";
     """
-    (Free) 
+    DocHub (Free)
     """
     dochub = "\uf394";
     """
-    (Free) 
+    Docker (Free)
     """
     docker = "\uf395";
     """
-    (Free) 
+    Draft2digital (Free)
     """
     draft2digital = "\uf396";
     """
-    (Free) 
+    Dribbble (Free)
     """
     dribbble = "\uf17d";
     """
-    (Free) 
+    Dribbble Square (Free)
     """
     dribbble_square = "\uf397";
     """
-    (Free) 
+    Dropbox (Free)
     """
     dropbox = "\uf16b";
     """
-    (Free) 
+    Drupal Logo (Free)
     """
     drupal_logo = "\uf1a9";
     """
-    (Free) 
+    Dyalog (Free)
     """
     dyalog = "\uf399";
     """
-    (Free) 
+    Earlybirds (Free)
     """
     earlybirds = "\uf39a";
     """
-    (Free) 
+    eBay (Free)
     """
     ebay = "\uf4f4";
     """
-    (Free) Keywords: browser, ie
+    Edge Browser; Keywords: browser, ie; Keywords: browser, ie (Free)
     """
     edge_browser = "\uf282";
     """
-    (Free) 
+    Edge Legacy Browser (Free)
     """
     edge_legacy_browser = "\ue078";
     """
-    (Free) 
+    Elementor (Free)
     """
     elementor = "\uf430";
     """
-    (Free) 
+    Ello (Free)
     """
     ello = "\uf5f1";
     """
-    (Free) 
+    Ember (Free)
     """
     ember = "\uf423";
     """
-    (Free) 
+    Galactic Empire (Free)
     """
     galactic_empire = "\uf1d1";
     """
-    (Free) Keywords: leaf
+    Envira Gallery; Keywords: leaf; Keywords: leaf (Free)
     """
     envira_gallery = "\uf299";
     """
-    (Free) 
+    Erlang (Free)
     """
     erlang = "\uf39d";
     """
-    (Free) 
+    Ethereum (Free)
     """
     ethereum = "\uf42e";
     """
-    (Free) 
+    Etsy (Free)
     """
     etsy = "\uf2d7";
     """
-    (Free) 
+    Evernote (Free)
     """
     evernote = "\uf839";
     """
-    (Free) 
+    ExpeditedSSL (Free)
     """
     expeditedssl = "\uf23e";
     """
-    (Free) Keywords: facebook-official, social network
+    Facebook; Keywords: facebook-official, social network; Keywords: facebook-official, social network (Free)
     """
     facebook = "\uf09a";
     """
-    (Free) Keywords: facebook
+    Facebook F; Keywords: facebook; Keywords: facebook (Free)
     """
     facebook_f = "\uf39e";
     """
-    (Free) 
+    Facebook Messenger (Free)
     """
     facebook_messenger = "\uf39f";
     """
-    (Free) Keywords: social network
+    Facebook Square; Keywords: social network; Keywords: social network (Free)
     """
     facebook_square = "\uf082";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    Fantasy Flight-games; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     """
     fantasy_flight_games = "\uf6dc";
     """
-    (Free) Keywords: Federal Express, package, shipping
+    FedEx; Keywords: Federal Express, package, shipping; Keywords: Federal Express, package, shipping (Free)
     """
     fedex = "\uf797";
     """
-    (Free) Keywords: linux, operating system, os
+    Fedora; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     """
     fedora = "\uf798";
     """
-    (Free) Keywords: app, design, interface
+    Figma; Keywords: app, design, interface; Keywords: app, design, interface (Free)
     """
     figma = "\uf799";
     """
-    (Free) Keywords: browser
+    Firefox; Keywords: browser; Keywords: browser (Free)
     """
     firefox = "\uf269";
     """
-    (Free) Keywords: browser
+    Firefox Browser; Keywords: browser; Keywords: browser (Free)
     """
     firefox_browser = "\ue007";
     """
-    (Free) 
+    First Order (Free)
     """
     first_order = "\uf2b0";
     """
-    (Free) 
+    Alternate First Order (Free)
     """
     alternate_first_order = "\uf50a";
     """
-    (Free) 
+    firstdraft (Free)
     """
     firstdraft = "\uf3a1";
     """
-    (Free) 
+    Flickr (Free)
     """
     flickr = "\uf16e";
     """
-    (Free) 
+    Flipboard (Free)
     """
     flipboard = "\uf44d";
     """
-    (Free) 
+    Fly (Free)
     """
     fly = "\uf417";
     """
-    (Free) Keywords: meanpath
+    Font Awesome; Keywords: meanpath; Keywords: meanpath (Free)
     """
     font_awesome = "\uf2b4";
     """
-    (Free) 
+    Alternate Font Awesome (Free)
     """
     alternate_font_awesome = "\uf35c";
     """
-    (Free) 
+    Font Awesome Flag (Free)
     """
     font_awesome_flag = "\uf425";
     """
-    (Free) 
+    Font Awesome Full Logo (Free)
     """
     font_awesome_full_logo = "\uf4e6";
     """
-    (Free) 
+    Fonticons (Free)
     """
     fonticons = "\uf280";
     """
-    (Free) 
+    Fonticons Fi (Free)
     """
     fonticons_fi = "\uf3a2";
     """
-    (Free) Keywords: castle
+    Fort Awesome; Keywords: castle; Keywords: castle (Free)
     """
     fort_awesome = "\uf286";
     """
-    (Free) Keywords: castle
+    Alternate Fort Awesome; Keywords: castle; Keywords: castle (Free)
     """
     alternate_fort_awesome = "\uf3a3";
     """
-    (Free) 
+    Forumbee (Free)
     """
     forumbee = "\uf211";
     """
-    (Free) 
+    Foursquare (Free)
     """
     foursquare = "\uf180";
     """
-    (Free) 
+    freeCodeCamp (Free)
     """
     freecodecamp = "\uf2c5";
     """
-    (Free) 
+    FreeBSD (Free)
     """
     freebsd = "\uf3a4";
     """
-    (Free) 
+    Fulcrum (Free)
     """
     fulcrum = "\uf50b";
     """
-    (Free) Keywords: politics, star wars
+    Galactic Republic; Keywords: politics, star wars; Keywords: politics, star wars (Free)
     """
     galactic_republic = "\uf50c";
     """
-    (Free) Keywords: star wars
+    Galactic Senate; Keywords: star wars; Keywords: star wars (Free)
     """
     galactic_senate = "\uf50d";
     """
-    (Free) 
+    Get Pocket (Free)
     """
     get_pocket = "\uf265";
     """
-    (Free) 
+    GG Currency (Free)
     """
     gg_currency = "\uf260";
     """
-    (Free) 
+    GG Currency Circle (Free)
     """
     gg_currency_circle = "\uf261";
     """
-    (Free) 
+    Git (Free)
     """
     git = "\uf1d3";
     """
-    (Free) 
+    Git Alt (Free)
     """
     git_alt = "\uf841";
     """
-    (Free) 
+    Git Square (Free)
     """
     git_square = "\uf1d2";
     """
-    (Free) Keywords: octocat
+    GitHub; Keywords: octocat; Keywords: octocat (Free)
     """
     github = "\uf09b";
     """
-    (Free) Keywords: octocat
+    Alternate GitHub; Keywords: octocat; Keywords: octocat (Free)
     """
     alternate_github = "\uf113";
     """
-    (Free) Keywords: octocat
+    GitHub Square; Keywords: octocat; Keywords: octocat (Free)
     """
     github_square = "\uf092";
     """
-    (Free) 
+    GitKraken (Free)
     """
     gitkraken = "\uf3a6";
     """
-    (Free) Keywords: Axosoft
+    GitLab; Keywords: Axosoft; Keywords: Axosoft (Free)
     """
     gitlab = "\uf296";
     """
-    (Free) 
+    Gitter (Free)
     """
     gitter = "\uf426";
     """
-    (Free) 
+    Glide (Free)
     """
     glide = "\uf2a5";
     """
-    (Free) 
+    Glide G (Free)
     """
     glide_g = "\uf2a6";
     """
-    (Free) 
+    Gofore (Free)
     """
     gofore = "\uf3a7";
     """
-    (Free) 
+    Goodreads (Free)
     """
     goodreads = "\uf3a8";
     """
-    (Free) 
+    Goodreads G (Free)
     """
     goodreads_g = "\uf3a9";
     """
-    (Free) 
+    Google Logo (Free)
     """
     google_logo = "\uf1a0";
     """
-    (Free) 
+    Google Drive (Free)
     """
     google_drive = "\uf3aa";
     """
-    (Free) 
+    Google Pay (Free)
     """
     google_pay = "\ue079";
     """
-    (Free) 
+    Google Play (Free)
     """
     google_play = "\uf3ab";
     """
-    (Free) Keywords: google-plus-circle, google-plus-official
+    Google Plus; Keywords: google-plus-circle, google-plus-official; Keywords: google-plus-circle, google-plus-official (Free)
     """
     google_plus = "\uf2b3";
     """
-    (Free) Keywords: google-plus, social network
+    Google Plus G; Keywords: google-plus, social network; Keywords: google-plus, social network (Free)
     """
     google_plus_g = "\uf0d5";
     """
-    (Free) Keywords: social network
+    Google Plus Square; Keywords: social network; Keywords: social network (Free)
     """
     google_plus_square = "\uf0d4";
     """
-    (Free) 
+    Google Wallet (Free)
     """
     google_wallet = "\uf1ee";
     """
-    (Free) Keywords: favorite, heart, like, love
+    Gratipay (Gittip); Keywords: favorite, heart, like, love; Keywords: favorite, heart, like, love (Free)
     """
     gratipay_gittip = "\uf184";
     """
-    (Free) 
+    Grav (Free)
     """
     grav = "\uf2d6";
     """
-    (Free) 
+    Gripfire, Inc. (Free)
     """
     gripfire_inc = "\uf3ac";
     """
-    (Free) 
+    Grunt (Free)
     """
     grunt = "\uf3ad";
     """
-    (Free) 
+    Guilded (Free)
     """
     guilded = "\ue07e";
     """
-    (Free) 
+    Gulp (Free)
     """
     gulp = "\uf3ae";
     """
-    (Free) 
+    Hacker News (Free)
     """
     hacker_news = "\uf1d4";
     """
-    (Free) 
+    Hacker News Square (Free)
     """
     hacker_news_square = "\uf3af";
     """
-    (Free) 
+    Hackerrank (Free)
     """
     hackerrank = "\uf5f7";
     """
-    (Free) 
+    Hips (Free)
     """
     hips = "\uf452";
     """
-    (Free) 
+    HireAHelper (Free)
     """
     hireahelper = "\uf3b0";
     """
-    (Free) 
+    Hive Blockchain Network (Free)
     """
     hive_blockchain_network = "\ue07f";
     """
-    (Free) 
+    Hooli (Free)
     """
     hooli = "\uf427";
     """
-    (Free) 
+    Hornbill (Free)
     """
     hornbill = "\uf592";
     """
-    (Free) 
+    Hotjar (Free)
     """
     hotjar = "\uf3b1";
     """
-    (Free) 
+    Houzz (Free)
     """
     houzz = "\uf27c";
     """
-    (Free) 
+    HTML 5 Logo (Free)
     """
     html_5_logo = "\uf13b";
     """
-    (Free) 
+    HubSpot (Free)
     """
     hubspot = "\uf3b2";
     """
-    (Free) 
+    iDeal (Free)
     """
     ideal = "\ue013";
     """
-    (Free) 
+    IMDB (Free)
     """
     imdb = "\uf2d8";
     """
-    (Free) 
+    Innosoft (Free)
     """
     innosoft = "\ue080";
     """
-    (Free) 
+    Instagram (Free)
     """
     instagram = "\uf16d";
     """
-    (Free) 
+    Instagram Square (Free)
     """
     instagram_square = "\ue055";
     """
-    (Free) 
+    InstaLOD (Free)
     """
     instalod = "\ue081";
     """
-    (Free) Keywords: app, customer, messenger
+    Intercom; Keywords: app, customer, messenger; Keywords: app, customer, messenger (Free)
     """
     intercom = "\uf7af";
     """
-    (Free) Keywords: browser, ie
+    Internet-explorer; Keywords: browser, ie; Keywords: browser, ie (Free)
     """
     internet_explorer = "\uf26b";
     """
-    (Free) Keywords: app, design, interface
+    InVision; Keywords: app, design, interface; Keywords: app, design, interface (Free)
     """
     invision = "\uf7b0";
     """
-    (Free) 
+    ioxhost (Free)
     """
     ioxhost = "\uf208";
     """
-    (Free) 
+    itch.io (Free)
     """
     itch_io = "\uf83a";
     """
-    (Free) 
+    iTunes (Free)
     """
     itunes = "\uf3b4";
     """
-    (Free) 
+    Itunes Note (Free)
     """
     itunes_note = "\uf3b5";
     """
-    (Free) 
+    Java (Free)
     """
     java = "\uf4e4";
     """
-    (Free) Keywords: star wars
+    Jedi Order; Keywords: star wars; Keywords: star wars (Free)
     """
     jedi_order = "\uf50e";
     """
-    (Free) 
+    Jenkis (Free)
     """
     jenkis = "\uf3b6";
     """
-    (Free) Keywords: atlassian
+    Jira; Keywords: atlassian; Keywords: atlassian (Free)
     """
     jira = "\uf7b1";
     """
-    (Free) 
+    Joget (Free)
     """
     joget = "\uf3b7";
     """
-    (Free) 
+    Joomla Logo (Free)
     """
     joomla_logo = "\uf1aa";
     """
-    (Free) 
+    JavaScript (JS) (Free)
     """
     javascript_js = "\uf3b8";
     """
-    (Free) 
+    JavaScript (JS) Square (Free)
     """
     javascript_js_square = "\uf3b9";
     """
-    (Free) 
+    jsFiddle (Free)
     """
     jsfiddle = "\uf1cc";
     """
-    (Free) 
+    Kaggle (Free)
     """
     kaggle = "\uf5fa";
     """
-    (Free) 
+    Keybase (Free)
     """
     keybase = "\uf4f5";
     """
-    (Free) 
+    KeyCDN (Free)
     """
     keycdn = "\uf3ba";
     """
-    (Free) 
+    Kickstarter (Free)
     """
     kickstarter = "\uf3bb";
     """
-    (Free) 
+    Kickstarter K (Free)
     """
     kickstarter_k = "\uf3bc";
     """
-    (Free) 
+    KORVUE (Free)
     """
     korvue = "\uf42f";
     """
-    (Free) 
+    Laravel (Free)
     """
     laravel = "\uf3bd";
     """
-    (Free) 
+    last.fm (Free)
     """
     last_fm = "\uf202";
     """
-    (Free) 
+    last.fm Square (Free)
     """
     last_fm_square = "\uf203";
     """
-    (Free) 
+    Leanpub (Free)
     """
     leanpub = "\uf212";
     """
-    (Free) 
+    Less (Free)
     """
     less = "\uf41d";
     """
-    (Free) 
+    Line (Free)
     """
     line = "\uf3c0";
     """
-    (Free) Keywords: linkedin-square
+    LinkedIn; Keywords: linkedin-square; Keywords: linkedin-square (Free)
     """
     linkedin = "\uf08c";
     """
-    (Free) Keywords: linkedin
+    LinkedIn In; Keywords: linkedin; Keywords: linkedin (Free)
     """
     linkedin_in = "\uf0e1";
     """
-    (Free) 
+    Linode (Free)
     """
     linode = "\uf2b8";
     """
-    (Free) Keywords: tux
+    Linux; Keywords: tux; Keywords: tux (Free)
     """
     linux = "\uf17c";
     """
-    (Free) 
+    lyft (Free)
     """
     lyft = "\uf3c3";
     """
-    (Free) 
+    Magento (Free)
     """
     magento = "\uf3c4";
     """
-    (Free) 
+    Mailchimp (Free)
     """
     mailchimp = "\uf59e";
     """
-    (Free) 
+    Mandalorian (Free)
     """
     mandalorian = "\uf50f";
     """
-    (Free) 
+    Markdown (Free)
     """
     markdown = "\uf60f";
     """
-    (Free) 
+    Mastodon (Free)
     """
     mastodon = "\uf4f6";
     """
-    (Free) 
+    MaxCDN (Free)
     """
     maxcdn = "\uf136";
     """
-    (Free) 
+    Material Design for Bootstrap (Free)
     """
     material_design_for_bootstrap = "\uf8ca";
     """
-    (Free) 
+    MedApps (Free)
     """
     medapps = "\uf3c6";
     """
-    (Free) 
+    Medium (Free)
     """
     medium = "\uf23a";
     """
-    (Free) 
+    Medium M (Free)
     """
     medium_m = "\uf3c7";
     """
-    (Free) 
+    MRT (Free)
     """
     mrt = "\uf3c8";
     """
-    (Free) 
+    Meetup (Free)
     """
     meetup = "\uf2e0";
     """
-    (Free) 
+    Megaport (Free)
     """
     megaport = "\uf5a3";
     """
-    (Free) 
+    Mendeley (Free)
     """
     mendeley = "\uf7b3";
     """
-    (Free) 
+    Micro.blog (Free)
     """
     micro_blog = "\ue01a";
     """
-    (Free) 
+    Microsoft (Free)
     """
     microsoft = "\uf3ca";
     """
-    (Free) 
+    Mix (Free)
     """
     mix = "\uf3cb";
     """
-    (Free) 
+    Mixcloud (Free)
     """
     mixcloud = "\uf289";
     """
-    (Free) 
+    Mixer (Free)
     """
     mixer = "\ue056";
     """
-    (Free) 
+    Mizuni (Free)
     """
     mizuni = "\uf3cc";
     """
-    (Free) 
+    MODX (Free)
     """
     modx = "\uf285";
     """
-    (Free) 
+    Monero (Free)
     """
     monero = "\uf3d0";
     """
-    (Free) 
+    Napster (Free)
     """
     napster = "\uf3d2";
     """
-    (Free) 
+    Neos (Free)
     """
     neos = "\uf612";
     """
-    (Free) 
+    Nimblr (Free)
     """
     nimblr = "\uf5a8";
     """
-    (Free) 
+    Node.js (Free)
     """
     node_js = "\uf419";
     """
-    (Free) 
+    Node.js JS (Free)
     """
     node_js_js = "\uf3d3";
     """
-    (Free) 
+    npm (Free)
     """
     npm = "\uf3d4";
     """
-    (Free) 
+    NS8 (Free)
     """
     ns8 = "\uf3d5";
     """
-    (Free) 
+    Nutritionix (Free)
     """
     nutritionix = "\uf3d6";
     """
-    (Free) 
+    Octopus Deploy (Free)
     """
     octopus_deploy = "\ue082";
     """
-    (Free) 
+    Odnoklassniki (Free)
     """
     odnoklassniki = "\uf263";
     """
-    (Free) 
+    Odnoklassniki Square (Free)
     """
     odnoklassniki_square = "\uf264";
     """
-    (Free) Keywords: politics, star wars
+    Old Republic; Keywords: politics, star wars; Keywords: politics, star wars (Free)
     """
     old_republic = "\uf510";
     """
-    (Free) 
+    OpenCart (Free)
     """
     opencart = "\uf23d";
     """
-    (Free) 
+    OpenID (Free)
     """
     openid = "\uf19b";
     """
-    (Free) 
+    Opera (Free)
     """
     opera = "\uf26a";
     """
-    (Free) 
+    Optin Monster (Free)
     """
     optin_monster = "\uf23c";
     """
-    (Free) 
+    ORCID (Free)
     """
     orcid = "\uf8d2";
     """
-    (Free) 
+    Open Source Initiative (Free)
     """
     open_source_initiative = "\uf41a";
     """
-    (Free) 
+    page4 Corporation (Free)
     """
     page4_corporation = "\uf3d7";
     """
-    (Free) Keywords: eco, flora, leaf, leaves, nature, plant, tree
+    Pagelines; Keywords: eco, flora, leaf, leaves, nature, plant, tree; Keywords: eco, flora, leaf, leaves, nature, plant, tree (Free)
     """
     pagelines = "\uf18c";
     """
-    (Free) 
+    Palfed (Free)
     """
     palfed = "\uf3d8";
     """
-    (Free) 
+    Patreon (Free)
     """
     patreon = "\uf3d9";
     """
-    (Free) 
+    Paypal (Free)
     """
     paypal = "\uf1ed";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, pax, tabletop
+    Penny Arcade; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, pax, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, pax, tabletop (Free)
     """
     penny_arcade = "\uf704";
     """
-    (Free) 
+    PerByte (Free)
     """
     perbyte = "\ue083";
     """
-    (Free) 
+    Periscope (Free)
     """
     periscope = "\uf3da";
     """
-    (Free) 
+    Phabricator (Free)
     """
     phabricator = "\uf3db";
     """
-    (Free) 
+    Phoenix Framework (Free)
     """
     phoenix_framework = "\uf3dc";
     """
-    (Free) 
+    Phoenix Squadron (Free)
     """
     phoenix_squadron = "\uf511";
     """
-    (Free) 
+    PHP (Free)
     """
     php = "\uf457";
     """
-    (Free) 
+    Pied Piper Logo (Free)
     """
     pied_piper_logo = "\uf2ae";
     """
-    (Free) 
+    Alternate Pied Piper Logo (Old) (Free)
     """
     alternate_pied_piper_logo_old = "\uf1a8";
     """
-    (Free) Keywords: clothing
+    Pied Piper Hat (Old); Keywords: clothing; Keywords: clothing (Free)
     """
     pied_piper_hat_old = "\uf4e5";
     """
-    (Free) 
+    Pied Piper PP Logo (Old) (Free)
     """
     pied_piper_pp_logo_old = "\uf1a7";
     """
-    (Free) 
+    Pied Piper Square Logo (Old) (Free)
     """
     pied_piper_square_logo_old = "\ue01e";
     """
-    (Free) 
+    Pinterest (Free)
     """
     pinterest = "\uf0d2";
     """
-    (Free) 
+    Pinterest P (Free)
     """
     pinterest_p = "\uf231";
     """
-    (Free) 
+    Pinterest Square (Free)
     """
     pinterest_square = "\uf0d3";
     """
-    (Free) 
+    PlayStation (Free)
     """
     playstation = "\uf3df";
     """
-    (Free) 
+    Product Hunt (Free)
     """
     product_hunt = "\uf288";
     """
-    (Free) 
+    Pushed (Free)
     """
     pushed = "\uf3e1";
     """
-    (Free) 
+    Python (Free)
     """
     python = "\uf3e2";
     """
-    (Free) 
+    QQ (Free)
     """
     qq = "\uf1d6";
     """
-    (Free) 
+    QuinScape (Free)
     """
     quinscape = "\uf459";
     """
-    (Free) 
+    Quora (Free)
     """
     quora = "\uf2c4";
     """
-    (Free) 
+    R Project (Free)
     """
     r_project = "\uf4f7";
     """
-    (Free) 
+    Raspberry Pi (Free)
     """
     raspberry_pi = "\uf7bb";
     """
-    (Free) 
+    Ravelry (Free)
     """
     ravelry = "\uf2d9";
     """
-    (Free) 
+    React (Free)
     """
     react = "\uf41b";
     """
-    (Free) 
+    ReactEurope (Free)
     """
     reacteurope = "\uf75d";
     """
-    (Free) 
+    ReadMe (Free)
     """
     readme = "\uf4d5";
     """
-    (Free) 
+    Rebel Alliance (Free)
     """
     rebel_alliance = "\uf1d0";
     """
-    (Free) 
+    red river (Free)
     """
     red_river = "\uf3e3";
     """
-    (Free) 
+    reddit Logo (Free)
     """
     reddit_logo = "\uf1a1";
     """
-    (Free) 
+    reddit Alien (Free)
     """
     reddit_alien = "\uf281";
     """
-    (Free) 
+    reddit Square (Free)
     """
     reddit_square = "\uf1a2";
     """
-    (Free) Keywords: linux, operating system, os
+    Redhat; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     """
     redhat = "\uf7bc";
     """
-    (Free) 
+    Renren (Free)
     """
     renren = "\uf18b";
     """
-    (Free) 
+    replyd (Free)
     """
     replyd = "\uf3e6";
     """
-    (Free) 
+    Researchgate (Free)
     """
     researchgate = "\uf4f8";
     """
-    (Free) 
+    Resolving (Free)
     """
     resolving = "\uf3e7";
     """
-    (Free) 
+    Rev.io (Free)
     """
     rev_io = "\uf5b2";
     """
-    (Free) 
+    Rocket.Chat (Free)
     """
     rocket_chat = "\uf3e8";
     """
-    (Free) 
+    Rockrms (Free)
     """
     rockrms = "\uf3e9";
     """
-    (Free) 
+    Rust (Free)
     """
     rust = "\ue07a";
     """
-    (Free) Keywords: browser
+    Safari; Keywords: browser; Keywords: browser (Free)
     """
     safari = "\uf267";
     """
-    (Free) 
+    Salesforce (Free)
     """
     salesforce = "\uf83b";
     """
-    (Free) 
+    Sass (Free)
     """
     sass = "\uf41e";
     """
-    (Free) 
+    SCHLIX (Free)
     """
     schlix = "\uf3ea";
     """
-    (Free) 
+    Scribd (Free)
     """
     scribd = "\uf28a";
     """
-    (Free) 
+    Searchengin (Free)
     """
     searchengin = "\uf3eb";
     """
-    (Free) Keywords: eercast
+    Sellcast; Keywords: eercast; Keywords: eercast (Free)
     """
     sellcast = "\uf2da";
     """
-    (Free) 
+    Sellsy (Free)
     """
     sellsy = "\uf213";
     """
-    (Free) 
+    Servicestack (Free)
     """
     servicestack = "\uf3ec";
     """
-    (Free) 
+    Shirts in Bulk (Free)
     """
     shirts_in_bulk = "\uf214";
     """
-    (Free) 
+    Shopify (Free)
     """
     shopify = "\ue057";
     """
-    (Free) 
+    Shopware (Free)
     """
     shopware = "\uf5b5";
     """
-    (Free) 
+    SimplyBuilt (Free)
     """
     simplybuilt = "\uf215";
     """
-    (Free) 
+    SISTRIX (Free)
     """
     sistrix = "\uf3ee";
     """
-    (Free) 
+    Sith (Free)
     """
     sith = "\uf512";
     """
-    (Free) Keywords: app, design, interface
+    Sketch; Keywords: app, design, interface; Keywords: app, design, interface (Free)
     """
     sketch = "\uf7c6";
     """
-    (Free) 
+    skyatlas (Free)
     """
     skyatlas = "\uf216";
     """
-    (Free) 
+    Skype (Free)
     """
     skype = "\uf17e";
     """
-    (Free) Keywords: anchor, hash, hashtag
+    Slack Logo; Keywords: anchor, hash, hashtag; Keywords: anchor, hash, hashtag (Free)
     """
     slack_logo = "\uf198";
     """
-    (Free) Keywords: anchor, hash, hashtag
+    Slack Hashtag; Keywords: anchor, hash, hashtag; Keywords: anchor, hash, hashtag (Free)
     """
     slack_hashtag = "\uf3ef";
     """
-    (Free) 
+    Slideshare (Free)
     """
     slideshare = "\uf1e7";
     """
-    (Free) 
+    Snapchat (Free)
     """
     snapchat = "\uf2ab";
     """
-    (Free) 
+    Snapchat Ghost (Free)
     """
     snapchat_ghost = "\uf2ac";
     """
-    (Free) 
+    Snapchat Square (Free)
     """
     snapchat_square = "\uf2ad";
     """
-    (Free) 
+    SoundCloud (Free)
     """
     soundcloud = "\uf1be";
     """
-    (Free) 
+    Sourcetree (Free)
     """
     sourcetree = "\uf7d3";
     """
-    (Free) 
+    Speakap (Free)
     """
     speakap = "\uf3f3";
     """
-    (Free) 
+    Speaker Deck (Free)
     """
     speaker_deck = "\uf83c";
     """
-    (Free) 
+    Spotify (Free)
     """
     spotify = "\uf1bc";
     """
-    (Free) 
+    Squarespace (Free)
     """
     squarespace = "\uf5be";
     """
-    (Free) 
+    Stack Exchange (Free)
     """
     stack_exchange = "\uf18d";
     """
-    (Free) 
+    Stack Overflow (Free)
     """
     stack_overflow = "\uf16c";
     """
-    (Free) 
+    Stackpath (Free)
     """
     stackpath = "\uf842";
     """
-    (Free) 
+    StayLinked (Free)
     """
     staylinked = "\uf3f5";
     """
-    (Free) 
+    Steam (Free)
     """
     steam = "\uf1b6";
     """
-    (Free) 
+    Steam Square (Free)
     """
     steam_square = "\uf1b7";
     """
-    (Free) 
+    Steam Symbol (Free)
     """
     steam_symbol = "\uf3f6";
     """
-    (Free) 
+    Sticker Mule (Free)
     """
     sticker_mule = "\uf3f7";
     """
-    (Free) 
+    Strava (Free)
     """
     strava = "\uf428";
     """
-    (Free) 
+    Stripe (Free)
     """
     stripe = "\uf429";
     """
-    (Free) 
+    Stripe S (Free)
     """
     stripe_s = "\uf42a";
     """
-    (Free) 
+    Studio Vinari (Free)
     """
     studio_vinari = "\uf3f8";
     """
-    (Free) 
+    StumbleUpon Logo (Free)
     """
     stumbleupon_logo = "\uf1a4";
     """
-    (Free) 
+    StumbleUpon Circle (Free)
     """
     stumbleupon_circle = "\uf1a3";
     """
-    (Free) 
+    Superpowers (Free)
     """
     superpowers = "\uf2dd";
     """
-    (Free) 
+    Supple (Free)
     """
     supple = "\uf3f9";
     """
-    (Free) Keywords: linux, operating system, os
+    Suse; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     """
     suse = "\uf7d6";
     """
-    (Free) 
+    Swift (Free)
     """
     swift = "\uf8e1";
     """
-    (Free) 
+    Symfony (Free)
     """
     symfony = "\uf83d";
     """
-    (Free) 
+    TeamSpeak (Free)
     """
     teamspeak = "\uf4f9";
     """
-    (Free) 
+    Telegram (Free)
     """
     telegram = "\uf2c6";
     """
-    (Free) 
+    Telegram Plane (Free)
     """
     telegram_plane = "\uf3fe";
     """
-    (Free) 
+    Tencent Weibo (Free)
     """
     tencent_weibo = "\uf1d5";
     """
-    (Free) 
+    The Red Yeti (Free)
     """
     the_red_yeti = "\uf69d";
     """
-    (Free) 
+    Themeco (Free)
     """
     themeco = "\uf5c6";
     """
-    (Free) 
+    ThemeIsle (Free)
     """
     themeisle = "\uf2b2";
     """
-    (Free) 
+    Think Peaks (Free)
     """
     think_peaks = "\uf731";
     """
-    (Free) 
+    TikTok (Free)
     """
     tiktok = "\ue07b";
     """
-    (Free) 
+    Trade Federation (Free)
     """
     trade_federation = "\uf513";
     """
-    (Free) Keywords: atlassian
+    Trello; Keywords: atlassian; Keywords: atlassian (Free)
     """
     trello = "\uf181";
     """
-    (Free) 
+    Tumblr (Free)
     """
     tumblr = "\uf173";
     """
-    (Free) 
+    Tumblr Square (Free)
     """
     tumblr_square = "\uf174";
     """
-    (Free) 
+    Twitch (Free)
     """
     twitch = "\uf1e8";
     """
-    (Free) Keywords: social network, tweet
+    Twitter; Keywords: social network, tweet; Keywords: social network, tweet (Free)
     """
     twitter = "\uf099";
     """
-    (Free) Keywords: social network, tweet
+    Twitter Square; Keywords: social network, tweet; Keywords: social network, tweet (Free)
     """
     twitter_square = "\uf081";
     """
-    (Free) 
+    Typo3 (Free)
     """
     typo3 = "\uf42b";
     """
-    (Free) 
+    Uber (Free)
     """
     uber = "\uf402";
     """
-    (Free) Keywords: linux, operating system, os
+    Ubuntu; Keywords: linux, operating system, os; Keywords: linux, operating system, os (Free)
     """
     ubuntu = "\uf7df";
     """
-    (Free) 
+    UIkit (Free)
     """
     uikit = "\uf403";
     """
-    (Free) 
+    Umbraco (Free)
     """
     umbraco = "\uf8e8";
     """
-    (Free) 
+    Uncharted Software (Free)
     """
     uncharted_software = "\ue084";
     """
-    (Free) 
+    Uniregistry (Free)
     """
     uniregistry = "\uf404";
     """
-    (Free) 
+    Unity 3D (Free)
     """
     unity_3d = "\ue049";
     """
-    (Free) 
+    Unsplash (Free)
     """
     unsplash = "\ue07c";
     """
-    (Free) 
+    Untappd (Free)
     """
     untappd = "\uf405";
     """
-    (Free) Keywords: United Parcel Service, package, shipping
+    UPS; Keywords: United Parcel Service, package, shipping; Keywords: United Parcel Service, package, shipping (Free)
     """
     ups = "\uf7e0";
     """
-    (Free) 
+    USB (Free)
     """
     usb = "\uf287";
     """
-    (Free) Keywords: american, package, shipping, usa
+    United States Postal Service; Keywords: american, package, shipping, usa; Keywords: american, package, shipping, usa (Free)
     """
     united_states_postal_service = "\uf7e1";
     """
-    (Free) 
+    us-Sunnah Foundation (Free)
     """
     us_sunnah_foundation = "\uf407";
     """
-    (Free) 
+    Vaadin (Free)
     """
     vaadin = "\uf408";
     """
-    (Free) 
+    Viacoin (Free)
     """
     viacoin = "\uf237";
     """
-    (Free) 
+    Viadeo (Free)
     """
     viadeo = "\uf2a9";
     """
-    (Free) 
+    Viadeo Square (Free)
     """
     viadeo_square = "\uf2aa";
     """
-    (Free) 
+    Viber (Free)
     """
     viber = "\uf409";
     """
-    (Free) 
+    Vimeo (Free)
     """
     vimeo = "\uf40a";
     """
-    (Free) 
+    Vimeo Square (Free)
     """
     vimeo_square = "\uf194";
     """
-    (Free) Keywords: vimeo
+    Vimeo (vimeo-v); Keywords: vimeo; Keywords: vimeo (Free)
     """
     vimeo_v = "\uf27d";
     """
-    (Free) 
+    Vine (Free)
     """
     vine = "\uf1ca";
     """
-    (Free) 
+    VK (Free)
     """
     vk = "\uf189";
     """
-    (Free) 
+    VNV (Free)
     """
     vnv = "\uf40b";
     """
-    (Free) 
+    Vue.js (Free)
     """
     vue_js = "\uf41f";
     """
-    (Free) 
+    Watchman Monitoring (Free)
     """
     watchman_monitoring = "\ue087";
     """
-    (Free) 
+    Waze (Free)
     """
     waze = "\uf83f";
     """
-    (Free) 
+    Weebly (Free)
     """
     weebly = "\uf5cc";
     """
-    (Free) 
+    Weibo (Free)
     """
     weibo = "\uf18a";
     """
-    (Free) 
+    Weixin (WeChat) (Free)
     """
     weixin_wechat = "\uf1d7";
     """
-    (Free) 
+    What's App (Free)
     """
     what_s_app = "\uf232";
     """
-    (Free) 
+    What's App Square (Free)
     """
     what_s_app_square = "\uf40c";
     """
-    (Free) 
+    WHMCS (Free)
     """
     whmcs = "\uf40d";
     """
-    (Free) 
+    Wikipedia W (Free)
     """
     wikipedia_w = "\uf266";
     """
-    (Free) Keywords: microsoft, operating system, os
+    Windows; Keywords: microsoft, operating system, os; Keywords: microsoft, operating system, os (Free)
     """
     windows = "\uf17a";
     """
-    (Free) 
+    Wix (Free)
     """
     wix = "\uf5cf";
     """
-    (Free) Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop
+    Wizards of the Coast; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop; Keywords: Dungeons & Dragons, d&d, dnd, fantasy, game, gaming, tabletop (Free)
     """
     wizards_of_the_coast = "\uf730";
     """
-    (Free) 
+    Wodu (Free)
     """
     wodu = "\ue088";
     """
-    (Free) 
+    Wolf Pack Battalion (Free)
     """
     wolf_pack_battalion = "\uf514";
     """
-    (Free) 
+    WordPress Logo (Free)
     """
     wordpress_logo = "\uf19a";
     """
-    (Free) 
+    Wordpress Simple (Free)
     """
     wordpress_simple = "\uf411";
     """
-    (Free) 
+    WPBeginner (Free)
     """
     wpbeginner = "\uf297";
     """
-    (Free) 
+    WPExplorer (Free)
     """
     wpexplorer = "\uf2de";
     """
-    (Free) 
+    WPForms (Free)
     """
     wpforms = "\uf298";
     """
-    (Free) Keywords: rendact
+    wpressr; Keywords: rendact; Keywords: rendact (Free)
     """
     wpressr = "\uf3e4";
     """
-    (Free) 
+    Xbox (Free)
     """
     xbox = "\uf412";
     """
-    (Free) 
+    Xing (Free)
     """
     xing = "\uf168";
     """
-    (Free) 
+    Xing Square (Free)
     """
     xing_square = "\uf169";
     """
-    (Free) 
+    Y Combinator (Free)
     """
     y_combinator = "\uf23b";
     """
-    (Free) 
+    Yahoo Logo (Free)
     """
     yahoo_logo = "\uf19e";
     """
-    (Free) 
+    Yammer (Free)
     """
     yammer = "\uf840";
     """
-    (Free) 
+    Yandex (Free)
     """
     yandex = "\uf413";
     """
-    (Free) 
+    Yandex International (Free)
     """
     yandex_international = "\uf414";
     """
-    (Free) 
+    Yarn (Free)
     """
     yarn = "\uf7e3";
     """
-    (Free) 
+    Yelp (Free)
     """
     yelp = "\uf1e9";
     """
-    (Free) 
+    Yoast (Free)
     """
     yoast = "\uf2b1";
     """
-    (Free) Keywords: film, video, youtube-play, youtube-square
+    YouTube; Keywords: film, video, youtube-play, youtube-square; Keywords: film, video, youtube-play, youtube-square (Free)
     """
     youtube = "\uf167";
     """
-    (Free) 
+    YouTube Square (Free)
     """
     youtube_square = "\uf431";
     """
-    (Free) 
+    Zhihu (Free)
     """
     zhihu = "\uf63f";
