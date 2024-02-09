@@ -27,10 +27,22 @@ cd font-awesome-icon-class-generator
 The script can be executed from the command line. Here's how to use it:
 
 ```bash
-python font-awesome-icon-class-generator.py --source "FILE" --language "LANGUAGE"
+usage: font-awesome-icon-class-generator.py [-h] [-l [{csharp,python}]] [source]
 ```
 
-Replace "FILE" with the file location (physical path or URL) and "LANGUAGE" with the language to output (csharp for C# and python for Python are currently supported).
+**positional arguments:**
+
+- `source`  
+  The source URL or file path of the JSON data.
+
+**optional arguments:**
+
+- `-h, --help`  
+  Show this help message and exit.
+
+- `-l [{csharp,python}], --language [{csharp,python}]`  
+  The output language [csharp | python] (default: csharp).
+
 
 ### Examples
 
@@ -50,7 +62,8 @@ Outputs the Font Awesome icons specified in `icons.json` to Python files.
 
 ### Extending
 
-To add support for additional programming languages, modify the `generate_output` and `to_valid_identifier` functions within the script to include cases for new languages and their naming conventions.
+To add support for additional programming languages, add an implementation of `IProvideLanguage` (override the abstract class `BaseLanguageProvider` for simplicity; see commented references to `MyLanguageProvider`).
+Add the implementation to `LANGUAGE_PROVIDERS` and the relevant file extension to `LANGUAGE_FILE_EXTENTIONS`
 
 ### Contributing
 
