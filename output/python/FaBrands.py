@@ -174,7 +174,7 @@ class FaBrands:
     """
     (Free) 
     """
-    bluetooth = "\uf294";
+    bluetoothb = "\uf294";
     """
     (Free) 
     """
@@ -1674,7 +1674,7 @@ class FaBrands:
     """
     (Free) Keywords: vimeo
     """
-    vimeo = "\uf27d";
+    vimeov = "\uf27d";
     """
     (Free) 
     """

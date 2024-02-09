@@ -48,12 +48,13 @@ class BaseLanguageProvider(IProvideLanguage, ABC):
         free = "Free" if item['is_free'] else "Pro"
         search_terms = '' if not item['search_terms'] else f"Keywords: {item['search_terms']}"
         comment_text = f"({free}) {search_terms}"        
+        #comment_text = f"{item['label']} ({free}) {search_terms}"        
         comment_lines = self.add_comment_lines(lines, comment_text)
         return lines
         
     def generate_property_lines(self, item):
         lines = []
-        property_name = self.get_property_name(item['label'])
+        property_name = self.get_property_name(item['name'])
         unicode_value = fr"\u{item['unicode']}"
         property_lines = self.add_property_lines(lines, property_name, unicode_value)
         return lines
@@ -213,6 +214,7 @@ def parse_json(data):
     parsed_data = []
     for icon_name, icon_data in data.items():
         item = {
+            'name': icon_name,
             'search_terms': icon_data['search']['terms'],
             'styles': icon_data['styles'],
             'unicode': icon_data['unicode'],
@@ -230,11 +232,20 @@ def transform_data(parsed_data):
     :return: Transformed dictionary.
     """
     transformed = {}
-    for item in parsed_data:
+    # ensure unique names, we prefer label but it's not always unique
+    name_registry = {}
+    for item in parsed_data:        
         for style in item['styles']:
             if style not in transformed:
                 transformed[style] = []
+                name_registry[style] = set()
+            name = item['label']
+            if name not in name_registry[style]:
+                name_registry[style].add(name)
+            else:
+                name = item['name']
             transformed[style].append({
+                'name': name,
                 'is_free': style in item['free'],
                 'search_terms': ', '.join(item['search_terms']),
                 'label': item['label'],

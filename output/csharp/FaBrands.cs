@@ -175,7 +175,7 @@ public class FaBrands
     /// <summary>
     /// (Free) 
     /// </summary>
-    public const string Bluetooth = "\uf294";
+    public const string Bluetoothb = "\uf294";
     /// <summary>
     /// (Free) 
     /// </summary>
@@ -1675,7 +1675,7 @@ public class FaBrands
     /// <summary>
     /// (Free) Keywords: vimeo
     /// </summary>
-    public const string Vimeo = "\uf27d";
+    public const string Vimeov = "\uf27d";
     /// <summary>
     /// (Free) 
     /// </summary>
