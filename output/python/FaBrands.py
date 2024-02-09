@@ -350,7 +350,7 @@ class FaBrands:
     """
     Creative Commons Sampling + (Free)
     """
-    creative_commons_sampling = "\uf4f1";
+    creative_commons_sampling_plus = "\uf4f1";
     """
     Creative Commons Share (Free)
     """

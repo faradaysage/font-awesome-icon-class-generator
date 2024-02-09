@@ -351,7 +351,7 @@ public class FaBrands
     /// <summary>
     /// Creative Commons Sampling + (Free)
     /// </summary>
-    public const string CreativeCommonsSampling = "\uf4f1";
+    public const string CreativeCommonsSamplingPlus = "\uf4f1";
     /// <summary>
     /// Creative Commons Share (Free)
     /// </summary>
